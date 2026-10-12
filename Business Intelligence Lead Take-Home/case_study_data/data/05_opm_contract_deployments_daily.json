@@ -1,0 +1,3117 @@
+[
+  {
+    "date": "2025-01-01",
+    "new_deployed_contracts": 236066,
+    "distinct_contract_deployers": 362
+  },
+  {
+    "date": "2025-01-02",
+    "new_deployed_contracts": 145934,
+    "distinct_contract_deployers": 417
+  },
+  {
+    "date": "2025-01-03",
+    "new_deployed_contracts": 312253,
+    "distinct_contract_deployers": 601
+  },
+  {
+    "date": "2025-01-04",
+    "new_deployed_contracts": 317611,
+    "distinct_contract_deployers": 377
+  },
+  {
+    "date": "2025-01-05",
+    "new_deployed_contracts": 417301,
+    "distinct_contract_deployers": 542
+  },
+  {
+    "date": "2025-01-06",
+    "new_deployed_contracts": 199862,
+    "distinct_contract_deployers": 527
+  },
+  {
+    "date": "2025-01-07",
+    "new_deployed_contracts": 125537,
+    "distinct_contract_deployers": 611
+  },
+  {
+    "date": "2025-01-08",
+    "new_deployed_contracts": 166210,
+    "distinct_contract_deployers": 588
+  },
+  {
+    "date": "2025-01-09",
+    "new_deployed_contracts": 59020,
+    "distinct_contract_deployers": 499
+  },
+  {
+    "date": "2025-01-10",
+    "new_deployed_contracts": 65818,
+    "distinct_contract_deployers": 412
+  },
+  {
+    "date": "2025-01-11",
+    "new_deployed_contracts": 246707,
+    "distinct_contract_deployers": 480
+  },
+  {
+    "date": "2025-01-12",
+    "new_deployed_contracts": 424145,
+    "distinct_contract_deployers": 933
+  },
+  {
+    "date": "2025-01-13",
+    "new_deployed_contracts": 101910,
+    "distinct_contract_deployers": 808
+  },
+  {
+    "date": "2025-01-14",
+    "new_deployed_contracts": 183900,
+    "distinct_contract_deployers": 430
+  },
+  {
+    "date": "2025-01-15",
+    "new_deployed_contracts": 65158,
+    "distinct_contract_deployers": 442
+  },
+  {
+    "date": "2025-01-16",
+    "new_deployed_contracts": 154580,
+    "distinct_contract_deployers": 470
+  },
+  {
+    "date": "2025-01-17",
+    "new_deployed_contracts": 172287,
+    "distinct_contract_deployers": 558
+  },
+  {
+    "date": "2025-01-18",
+    "new_deployed_contracts": 119735,
+    "distinct_contract_deployers": 304
+  },
+  {
+    "date": "2025-01-19",
+    "new_deployed_contracts": 145852,
+    "distinct_contract_deployers": 362
+  },
+  {
+    "date": "2025-01-20",
+    "new_deployed_contracts": 162594,
+    "distinct_contract_deployers": 399
+  },
+  {
+    "date": "2025-01-21",
+    "new_deployed_contracts": 55324,
+    "distinct_contract_deployers": 622
+  },
+  {
+    "date": "2025-01-22",
+    "new_deployed_contracts": 56336,
+    "distinct_contract_deployers": 396
+  },
+  {
+    "date": "2025-01-23",
+    "new_deployed_contracts": 81167,
+    "distinct_contract_deployers": 427
+  },
+  {
+    "date": "2025-01-24",
+    "new_deployed_contracts": 235191,
+    "distinct_contract_deployers": 395
+  },
+  {
+    "date": "2025-01-25",
+    "new_deployed_contracts": 322144,
+    "distinct_contract_deployers": 329
+  },
+  {
+    "date": "2025-01-26",
+    "new_deployed_contracts": 304664,
+    "distinct_contract_deployers": 309
+  },
+  {
+    "date": "2025-01-27",
+    "new_deployed_contracts": 274388,
+    "distinct_contract_deployers": 361
+  },
+  {
+    "date": "2025-01-28",
+    "new_deployed_contracts": 261101,
+    "distinct_contract_deployers": 390
+  },
+  {
+    "date": "2025-01-29",
+    "new_deployed_contracts": 327419,
+    "distinct_contract_deployers": 358
+  },
+  {
+    "date": "2025-01-30",
+    "new_deployed_contracts": 413885,
+    "distinct_contract_deployers": 359
+  },
+  {
+    "date": "2025-01-31",
+    "new_deployed_contracts": 426349,
+    "distinct_contract_deployers": 329
+  },
+  {
+    "date": "2025-02-01",
+    "new_deployed_contracts": 179022,
+    "distinct_contract_deployers": 313
+  },
+  {
+    "date": "2025-02-02",
+    "new_deployed_contracts": 195527,
+    "distinct_contract_deployers": 323
+  },
+  {
+    "date": "2025-02-03",
+    "new_deployed_contracts": 51594,
+    "distinct_contract_deployers": 332
+  },
+  {
+    "date": "2025-02-04",
+    "new_deployed_contracts": 102936,
+    "distinct_contract_deployers": 367
+  },
+  {
+    "date": "2025-02-05",
+    "new_deployed_contracts": 44248,
+    "distinct_contract_deployers": 402
+  },
+  {
+    "date": "2025-02-06",
+    "new_deployed_contracts": 90313,
+    "distinct_contract_deployers": 359
+  },
+  {
+    "date": "2025-02-07",
+    "new_deployed_contracts": 28220,
+    "distinct_contract_deployers": 330
+  },
+  {
+    "date": "2025-02-08",
+    "new_deployed_contracts": 18508,
+    "distinct_contract_deployers": 337
+  },
+  {
+    "date": "2025-02-09",
+    "new_deployed_contracts": 81408,
+    "distinct_contract_deployers": 394
+  },
+  {
+    "date": "2025-02-10",
+    "new_deployed_contracts": 91121,
+    "distinct_contract_deployers": 366
+  },
+  {
+    "date": "2025-02-11",
+    "new_deployed_contracts": 79519,
+    "distinct_contract_deployers": 404
+  },
+  {
+    "date": "2025-02-12",
+    "new_deployed_contracts": 143174,
+    "distinct_contract_deployers": 425
+  },
+  {
+    "date": "2025-02-13",
+    "new_deployed_contracts": 151625,
+    "distinct_contract_deployers": 379
+  },
+  {
+    "date": "2025-02-14",
+    "new_deployed_contracts": 377951,
+    "distinct_contract_deployers": 809
+  },
+  {
+    "date": "2025-02-15",
+    "new_deployed_contracts": 312579,
+    "distinct_contract_deployers": 500
+  },
+  {
+    "date": "2025-02-16",
+    "new_deployed_contracts": 440388,
+    "distinct_contract_deployers": 345
+  },
+  {
+    "date": "2025-02-17",
+    "new_deployed_contracts": 248582,
+    "distinct_contract_deployers": 383
+  },
+  {
+    "date": "2025-02-18",
+    "new_deployed_contracts": 129791,
+    "distinct_contract_deployers": 535
+  },
+  {
+    "date": "2025-02-19",
+    "new_deployed_contracts": 69641,
+    "distinct_contract_deployers": 713
+  },
+  {
+    "date": "2025-02-20",
+    "new_deployed_contracts": 32090,
+    "distinct_contract_deployers": 515
+  },
+  {
+    "date": "2025-02-21",
+    "new_deployed_contracts": 46308,
+    "distinct_contract_deployers": 400
+  },
+  {
+    "date": "2025-02-22",
+    "new_deployed_contracts": 79437,
+    "distinct_contract_deployers": 347
+  },
+  {
+    "date": "2025-02-23",
+    "new_deployed_contracts": 37957,
+    "distinct_contract_deployers": 409
+  },
+  {
+    "date": "2025-02-24",
+    "new_deployed_contracts": 52968,
+    "distinct_contract_deployers": 396
+  },
+  {
+    "date": "2025-02-25",
+    "new_deployed_contracts": 69695,
+    "distinct_contract_deployers": 422
+  },
+  {
+    "date": "2025-02-26",
+    "new_deployed_contracts": 252880,
+    "distinct_contract_deployers": 413
+  },
+  {
+    "date": "2025-02-27",
+    "new_deployed_contracts": 24574,
+    "distinct_contract_deployers": 421
+  },
+  {
+    "date": "2025-02-28",
+    "new_deployed_contracts": 36053,
+    "distinct_contract_deployers": 401
+  },
+  {
+    "date": "2025-03-01",
+    "new_deployed_contracts": 131928,
+    "distinct_contract_deployers": 400
+  },
+  {
+    "date": "2025-03-02",
+    "new_deployed_contracts": 61776,
+    "distinct_contract_deployers": 479
+  },
+  {
+    "date": "2025-03-03",
+    "new_deployed_contracts": 371886,
+    "distinct_contract_deployers": 526
+  },
+  {
+    "date": "2025-03-04",
+    "new_deployed_contracts": 300191,
+    "distinct_contract_deployers": 409
+  },
+  {
+    "date": "2025-03-05",
+    "new_deployed_contracts": 307741,
+    "distinct_contract_deployers": 430
+  },
+  {
+    "date": "2025-03-06",
+    "new_deployed_contracts": 379724,
+    "distinct_contract_deployers": 413
+  },
+  {
+    "date": "2025-03-07",
+    "new_deployed_contracts": 42108,
+    "distinct_contract_deployers": 385
+  },
+  {
+    "date": "2025-03-08",
+    "new_deployed_contracts": 23165,
+    "distinct_contract_deployers": 308
+  },
+  {
+    "date": "2025-03-09",
+    "new_deployed_contracts": 19820,
+    "distinct_contract_deployers": 518
+  },
+  {
+    "date": "2025-03-10",
+    "new_deployed_contracts": 19677,
+    "distinct_contract_deployers": 446
+  },
+  {
+    "date": "2025-03-11",
+    "new_deployed_contracts": 31969,
+    "distinct_contract_deployers": 585
+  },
+  {
+    "date": "2025-03-12",
+    "new_deployed_contracts": 26853,
+    "distinct_contract_deployers": 425
+  },
+  {
+    "date": "2025-03-13",
+    "new_deployed_contracts": 28829,
+    "distinct_contract_deployers": 597
+  },
+  {
+    "date": "2025-03-14",
+    "new_deployed_contracts": 23348,
+    "distinct_contract_deployers": 493
+  },
+  {
+    "date": "2025-03-15",
+    "new_deployed_contracts": 18808,
+    "distinct_contract_deployers": 444
+  },
+  {
+    "date": "2025-03-16",
+    "new_deployed_contracts": 21576,
+    "distinct_contract_deployers": 504
+  },
+  {
+    "date": "2025-03-17",
+    "new_deployed_contracts": 30612,
+    "distinct_contract_deployers": 560
+  },
+  {
+    "date": "2025-03-18",
+    "new_deployed_contracts": 35500,
+    "distinct_contract_deployers": 674
+  },
+  {
+    "date": "2025-03-19",
+    "new_deployed_contracts": 96110,
+    "distinct_contract_deployers": 840
+  },
+  {
+    "date": "2025-03-20",
+    "new_deployed_contracts": 126156,
+    "distinct_contract_deployers": 692
+  },
+  {
+    "date": "2025-03-21",
+    "new_deployed_contracts": 45366,
+    "distinct_contract_deployers": 672
+  },
+  {
+    "date": "2025-03-22",
+    "new_deployed_contracts": 28542,
+    "distinct_contract_deployers": 1371
+  },
+  {
+    "date": "2025-03-23",
+    "new_deployed_contracts": 37381,
+    "distinct_contract_deployers": 1021
+  },
+  {
+    "date": "2025-03-24",
+    "new_deployed_contracts": 38979,
+    "distinct_contract_deployers": 897
+  },
+  {
+    "date": "2025-03-25",
+    "new_deployed_contracts": 34386,
+    "distinct_contract_deployers": 789
+  },
+  {
+    "date": "2025-03-26",
+    "new_deployed_contracts": 34102,
+    "distinct_contract_deployers": 690
+  },
+  {
+    "date": "2025-03-27",
+    "new_deployed_contracts": 39311,
+    "distinct_contract_deployers": 805
+  },
+  {
+    "date": "2025-03-28",
+    "new_deployed_contracts": 76392,
+    "distinct_contract_deployers": 776
+  },
+  {
+    "date": "2025-03-29",
+    "new_deployed_contracts": 72161,
+    "distinct_contract_deployers": 724
+  },
+  {
+    "date": "2025-03-30",
+    "new_deployed_contracts": 51847,
+    "distinct_contract_deployers": 1645
+  },
+  {
+    "date": "2025-03-31",
+    "new_deployed_contracts": 98176,
+    "distinct_contract_deployers": 1726
+  },
+  {
+    "date": "2025-04-01",
+    "new_deployed_contracts": 37464,
+    "distinct_contract_deployers": 1409
+  },
+  {
+    "date": "2025-04-02",
+    "new_deployed_contracts": 16303,
+    "distinct_contract_deployers": 963
+  },
+  {
+    "date": "2025-04-03",
+    "new_deployed_contracts": 21361,
+    "distinct_contract_deployers": 843
+  },
+  {
+    "date": "2025-04-04",
+    "new_deployed_contracts": 29143,
+    "distinct_contract_deployers": 840
+  },
+  {
+    "date": "2025-04-05",
+    "new_deployed_contracts": 22844,
+    "distinct_contract_deployers": 725
+  },
+  {
+    "date": "2025-04-06",
+    "new_deployed_contracts": 33814,
+    "distinct_contract_deployers": 791
+  },
+  {
+    "date": "2025-04-07",
+    "new_deployed_contracts": 35334,
+    "distinct_contract_deployers": 935
+  },
+  {
+    "date": "2025-04-08",
+    "new_deployed_contracts": 140709,
+    "distinct_contract_deployers": 1070
+  },
+  {
+    "date": "2025-04-09",
+    "new_deployed_contracts": 29102,
+    "distinct_contract_deployers": 930
+  },
+  {
+    "date": "2025-04-10",
+    "new_deployed_contracts": 24396,
+    "distinct_contract_deployers": 949
+  },
+  {
+    "date": "2025-04-11",
+    "new_deployed_contracts": 28785,
+    "distinct_contract_deployers": 1743
+  },
+  {
+    "date": "2025-04-12",
+    "new_deployed_contracts": 22541,
+    "distinct_contract_deployers": 1186
+  },
+  {
+    "date": "2025-04-13",
+    "new_deployed_contracts": 22391,
+    "distinct_contract_deployers": 1022
+  },
+  {
+    "date": "2025-04-14",
+    "new_deployed_contracts": 28141,
+    "distinct_contract_deployers": 1257
+  },
+  {
+    "date": "2025-04-15",
+    "new_deployed_contracts": 27162,
+    "distinct_contract_deployers": 1223
+  },
+  {
+    "date": "2025-04-16",
+    "new_deployed_contracts": 25728,
+    "distinct_contract_deployers": 1070
+  },
+  {
+    "date": "2025-04-17",
+    "new_deployed_contracts": 23320,
+    "distinct_contract_deployers": 982
+  },
+  {
+    "date": "2025-04-18",
+    "new_deployed_contracts": 34170,
+    "distinct_contract_deployers": 955
+  },
+  {
+    "date": "2025-04-19",
+    "new_deployed_contracts": 25592,
+    "distinct_contract_deployers": 804
+  },
+  {
+    "date": "2025-04-20",
+    "new_deployed_contracts": 20748,
+    "distinct_contract_deployers": 750
+  },
+  {
+    "date": "2025-04-21",
+    "new_deployed_contracts": 24038,
+    "distinct_contract_deployers": 822
+  },
+  {
+    "date": "2025-04-22",
+    "new_deployed_contracts": 33875,
+    "distinct_contract_deployers": 787
+  },
+  {
+    "date": "2025-04-23",
+    "new_deployed_contracts": 32494,
+    "distinct_contract_deployers": 801
+  },
+  {
+    "date": "2025-04-24",
+    "new_deployed_contracts": 46887,
+    "distinct_contract_deployers": 826
+  },
+  {
+    "date": "2025-04-25",
+    "new_deployed_contracts": 63503,
+    "distinct_contract_deployers": 912
+  },
+  {
+    "date": "2025-04-26",
+    "new_deployed_contracts": 83309,
+    "distinct_contract_deployers": 926
+  },
+  {
+    "date": "2025-04-27",
+    "new_deployed_contracts": 48948,
+    "distinct_contract_deployers": 944
+  },
+  {
+    "date": "2025-04-28",
+    "new_deployed_contracts": 49667,
+    "distinct_contract_deployers": 1020
+  },
+  {
+    "date": "2025-04-29",
+    "new_deployed_contracts": 45151,
+    "distinct_contract_deployers": 959
+  },
+  {
+    "date": "2025-04-30",
+    "new_deployed_contracts": 47223,
+    "distinct_contract_deployers": 880
+  },
+  {
+    "date": "2025-05-01",
+    "new_deployed_contracts": 109874,
+    "distinct_contract_deployers": 823
+  },
+  {
+    "date": "2025-05-02",
+    "new_deployed_contracts": 117074,
+    "distinct_contract_deployers": 936
+  },
+  {
+    "date": "2025-05-03",
+    "new_deployed_contracts": 54476,
+    "distinct_contract_deployers": 861
+  },
+  {
+    "date": "2025-05-04",
+    "new_deployed_contracts": 137414,
+    "distinct_contract_deployers": 885
+  },
+  {
+    "date": "2025-05-05",
+    "new_deployed_contracts": 121980,
+    "distinct_contract_deployers": 1056
+  },
+  {
+    "date": "2025-05-06",
+    "new_deployed_contracts": 104646,
+    "distinct_contract_deployers": 924
+  },
+  {
+    "date": "2025-05-07",
+    "new_deployed_contracts": 306266,
+    "distinct_contract_deployers": 895
+  },
+  {
+    "date": "2025-05-08",
+    "new_deployed_contracts": 493793,
+    "distinct_contract_deployers": 881
+  },
+  {
+    "date": "2025-05-09",
+    "new_deployed_contracts": 642319,
+    "distinct_contract_deployers": 1842
+  },
+  {
+    "date": "2025-05-10",
+    "new_deployed_contracts": 463071,
+    "distinct_contract_deployers": 1310
+  },
+  {
+    "date": "2025-05-11",
+    "new_deployed_contracts": 605646,
+    "distinct_contract_deployers": 1354
+  },
+  {
+    "date": "2025-05-12",
+    "new_deployed_contracts": 649274,
+    "distinct_contract_deployers": 1280
+  },
+  {
+    "date": "2025-05-13",
+    "new_deployed_contracts": 743730,
+    "distinct_contract_deployers": 1241
+  },
+  {
+    "date": "2025-05-14",
+    "new_deployed_contracts": 573522,
+    "distinct_contract_deployers": 1044
+  },
+  {
+    "date": "2025-05-15",
+    "new_deployed_contracts": 444873,
+    "distinct_contract_deployers": 1183
+  },
+  {
+    "date": "2025-05-16",
+    "new_deployed_contracts": 337356,
+    "distinct_contract_deployers": 1200
+  },
+  {
+    "date": "2025-05-17",
+    "new_deployed_contracts": 533616,
+    "distinct_contract_deployers": 958
+  },
+  {
+    "date": "2025-05-18",
+    "new_deployed_contracts": 447488,
+    "distinct_contract_deployers": 893
+  },
+  {
+    "date": "2025-05-19",
+    "new_deployed_contracts": 510251,
+    "distinct_contract_deployers": 866
+  },
+  {
+    "date": "2025-05-20",
+    "new_deployed_contracts": 437128,
+    "distinct_contract_deployers": 762
+  },
+  {
+    "date": "2025-05-21",
+    "new_deployed_contracts": 179666,
+    "distinct_contract_deployers": 779
+  },
+  {
+    "date": "2025-05-22",
+    "new_deployed_contracts": 448362,
+    "distinct_contract_deployers": 645
+  },
+  {
+    "date": "2025-05-23",
+    "new_deployed_contracts": 745993,
+    "distinct_contract_deployers": 612
+  },
+  {
+    "date": "2025-05-24",
+    "new_deployed_contracts": 789763,
+    "distinct_contract_deployers": 543
+  },
+  {
+    "date": "2025-05-25",
+    "new_deployed_contracts": 426524,
+    "distinct_contract_deployers": 575
+  },
+  {
+    "date": "2025-05-26",
+    "new_deployed_contracts": 884906,
+    "distinct_contract_deployers": 596
+  },
+  {
+    "date": "2025-05-27",
+    "new_deployed_contracts": 732374,
+    "distinct_contract_deployers": 563
+  },
+  {
+    "date": "2025-05-28",
+    "new_deployed_contracts": 1182410,
+    "distinct_contract_deployers": 554
+  },
+  {
+    "date": "2025-05-29",
+    "new_deployed_contracts": 973246,
+    "distinct_contract_deployers": 432
+  },
+  {
+    "date": "2025-05-30",
+    "new_deployed_contracts": 1307036,
+    "distinct_contract_deployers": 473
+  },
+  {
+    "date": "2025-05-31",
+    "new_deployed_contracts": 767551,
+    "distinct_contract_deployers": 448
+  },
+  {
+    "date": "2025-06-01",
+    "new_deployed_contracts": 672436,
+    "distinct_contract_deployers": 450
+  },
+  {
+    "date": "2025-06-02",
+    "new_deployed_contracts": 1309787,
+    "distinct_contract_deployers": 550
+  },
+  {
+    "date": "2025-06-03",
+    "new_deployed_contracts": 1410201,
+    "distinct_contract_deployers": 899
+  },
+  {
+    "date": "2025-06-04",
+    "new_deployed_contracts": 1285448,
+    "distinct_contract_deployers": 1179
+  },
+  {
+    "date": "2025-06-05",
+    "new_deployed_contracts": 1191794,
+    "distinct_contract_deployers": 906
+  },
+  {
+    "date": "2025-06-06",
+    "new_deployed_contracts": 1150299,
+    "distinct_contract_deployers": 888
+  },
+  {
+    "date": "2025-06-07",
+    "new_deployed_contracts": 1513999,
+    "distinct_contract_deployers": 793
+  },
+  {
+    "date": "2025-06-08",
+    "new_deployed_contracts": 1763089,
+    "distinct_contract_deployers": 839
+  },
+  {
+    "date": "2025-06-09",
+    "new_deployed_contracts": 1317313,
+    "distinct_contract_deployers": 1134
+  },
+  {
+    "date": "2025-06-10",
+    "new_deployed_contracts": 1056988,
+    "distinct_contract_deployers": 659
+  },
+  {
+    "date": "2025-06-11",
+    "new_deployed_contracts": 862545,
+    "distinct_contract_deployers": 533
+  },
+  {
+    "date": "2025-06-12",
+    "new_deployed_contracts": 733123,
+    "distinct_contract_deployers": 438
+  },
+  {
+    "date": "2025-06-13",
+    "new_deployed_contracts": 841238,
+    "distinct_contract_deployers": 413
+  },
+  {
+    "date": "2025-06-14",
+    "new_deployed_contracts": 1127400,
+    "distinct_contract_deployers": 415
+  },
+  {
+    "date": "2025-06-15",
+    "new_deployed_contracts": 942793,
+    "distinct_contract_deployers": 378
+  },
+  {
+    "date": "2025-06-16",
+    "new_deployed_contracts": 277018,
+    "distinct_contract_deployers": 473
+  },
+  {
+    "date": "2025-06-17",
+    "new_deployed_contracts": 439834,
+    "distinct_contract_deployers": 586
+  },
+  {
+    "date": "2025-06-18",
+    "new_deployed_contracts": 358221,
+    "distinct_contract_deployers": 431
+  },
+  {
+    "date": "2025-06-19",
+    "new_deployed_contracts": 758503,
+    "distinct_contract_deployers": 538
+  },
+  {
+    "date": "2025-06-20",
+    "new_deployed_contracts": 289775,
+    "distinct_contract_deployers": 469
+  },
+  {
+    "date": "2025-06-21",
+    "new_deployed_contracts": 224304,
+    "distinct_contract_deployers": 433
+  },
+  {
+    "date": "2025-06-22",
+    "new_deployed_contracts": 602467,
+    "distinct_contract_deployers": 672
+  },
+  {
+    "date": "2025-06-23",
+    "new_deployed_contracts": 222807,
+    "distinct_contract_deployers": 455
+  },
+  {
+    "date": "2025-06-24",
+    "new_deployed_contracts": 677881,
+    "distinct_contract_deployers": 495
+  },
+  {
+    "date": "2025-06-25",
+    "new_deployed_contracts": 1093126,
+    "distinct_contract_deployers": 484
+  },
+  {
+    "date": "2025-06-26",
+    "new_deployed_contracts": 1361230,
+    "distinct_contract_deployers": 711
+  },
+  {
+    "date": "2025-06-27",
+    "new_deployed_contracts": 1333278,
+    "distinct_contract_deployers": 400
+  },
+  {
+    "date": "2025-06-28",
+    "new_deployed_contracts": 1256194,
+    "distinct_contract_deployers": 611
+  },
+  {
+    "date": "2025-06-29",
+    "new_deployed_contracts": 1099007,
+    "distinct_contract_deployers": 1370
+  },
+  {
+    "date": "2025-06-30",
+    "new_deployed_contracts": 959345,
+    "distinct_contract_deployers": 2007
+  },
+  {
+    "date": "2025-07-01",
+    "new_deployed_contracts": 848548,
+    "distinct_contract_deployers": 417
+  },
+  {
+    "date": "2025-07-02",
+    "new_deployed_contracts": 940511,
+    "distinct_contract_deployers": 3809
+  },
+  {
+    "date": "2025-07-03",
+    "new_deployed_contracts": 1154220,
+    "distinct_contract_deployers": 1729
+  },
+  {
+    "date": "2025-07-04",
+    "new_deployed_contracts": 1214296,
+    "distinct_contract_deployers": 1762
+  },
+  {
+    "date": "2025-07-05",
+    "new_deployed_contracts": 1177156,
+    "distinct_contract_deployers": 13862
+  },
+  {
+    "date": "2025-07-06",
+    "new_deployed_contracts": 1065549,
+    "distinct_contract_deployers": 9857
+  },
+  {
+    "date": "2025-07-07",
+    "new_deployed_contracts": 571885,
+    "distinct_contract_deployers": 3028
+  },
+  {
+    "date": "2025-07-08",
+    "new_deployed_contracts": 778343,
+    "distinct_contract_deployers": 2106
+  },
+  {
+    "date": "2025-07-09",
+    "new_deployed_contracts": 589154,
+    "distinct_contract_deployers": 284
+  },
+  {
+    "date": "2025-07-10",
+    "new_deployed_contracts": 252271,
+    "distinct_contract_deployers": 342
+  },
+  {
+    "date": "2025-07-11",
+    "new_deployed_contracts": 737585,
+    "distinct_contract_deployers": 650
+  },
+  {
+    "date": "2025-07-12",
+    "new_deployed_contracts": 394993,
+    "distinct_contract_deployers": 9375
+  },
+  {
+    "date": "2025-07-13",
+    "new_deployed_contracts": 603061,
+    "distinct_contract_deployers": 5685
+  },
+  {
+    "date": "2025-07-14",
+    "new_deployed_contracts": 742213,
+    "distinct_contract_deployers": 2285
+  },
+  {
+    "date": "2025-07-15",
+    "new_deployed_contracts": 850647,
+    "distinct_contract_deployers": 458
+  },
+  {
+    "date": "2025-07-16",
+    "new_deployed_contracts": 273164,
+    "distinct_contract_deployers": 412
+  },
+  {
+    "date": "2025-07-17",
+    "new_deployed_contracts": 573359,
+    "distinct_contract_deployers": 1656
+  },
+  {
+    "date": "2025-07-18",
+    "new_deployed_contracts": 710144,
+    "distinct_contract_deployers": 7652
+  },
+  {
+    "date": "2025-07-19",
+    "new_deployed_contracts": 1207191,
+    "distinct_contract_deployers": 9319
+  },
+  {
+    "date": "2025-07-20",
+    "new_deployed_contracts": 1472006,
+    "distinct_contract_deployers": 14317
+  },
+  {
+    "date": "2025-07-21",
+    "new_deployed_contracts": 537803,
+    "distinct_contract_deployers": 3570
+  },
+  {
+    "date": "2025-07-22",
+    "new_deployed_contracts": 619053,
+    "distinct_contract_deployers": 14583
+  },
+  {
+    "date": "2025-07-23",
+    "new_deployed_contracts": 842802,
+    "distinct_contract_deployers": 1944
+  },
+  {
+    "date": "2025-07-24",
+    "new_deployed_contracts": 584687,
+    "distinct_contract_deployers": 2575
+  },
+  {
+    "date": "2025-07-25",
+    "new_deployed_contracts": 1304433,
+    "distinct_contract_deployers": 577
+  },
+  {
+    "date": "2025-07-26",
+    "new_deployed_contracts": 1107206,
+    "distinct_contract_deployers": 227
+  },
+  {
+    "date": "2025-07-27",
+    "new_deployed_contracts": 1205539,
+    "distinct_contract_deployers": 214
+  },
+  {
+    "date": "2025-07-28",
+    "new_deployed_contracts": 760924,
+    "distinct_contract_deployers": 268
+  },
+  {
+    "date": "2025-07-29",
+    "new_deployed_contracts": 766660,
+    "distinct_contract_deployers": 246
+  },
+  {
+    "date": "2025-07-30",
+    "new_deployed_contracts": 750988,
+    "distinct_contract_deployers": 330
+  },
+  {
+    "date": "2025-07-31",
+    "new_deployed_contracts": 1259786,
+    "distinct_contract_deployers": 436
+  },
+  {
+    "date": "2025-08-01",
+    "new_deployed_contracts": 1094957,
+    "distinct_contract_deployers": 235
+  },
+  {
+    "date": "2025-08-02",
+    "new_deployed_contracts": 1018816,
+    "distinct_contract_deployers": 222
+  },
+  {
+    "date": "2025-08-03",
+    "new_deployed_contracts": 1044569,
+    "distinct_contract_deployers": 287
+  },
+  {
+    "date": "2025-08-04",
+    "new_deployed_contracts": 1306270,
+    "distinct_contract_deployers": 354
+  },
+  {
+    "date": "2025-08-05",
+    "new_deployed_contracts": 975412,
+    "distinct_contract_deployers": 457
+  },
+  {
+    "date": "2025-08-06",
+    "new_deployed_contracts": 855563,
+    "distinct_contract_deployers": 367
+  },
+  {
+    "date": "2025-08-07",
+    "new_deployed_contracts": 1373926,
+    "distinct_contract_deployers": 414
+  },
+  {
+    "date": "2025-08-08",
+    "new_deployed_contracts": 1283532,
+    "distinct_contract_deployers": 430
+  },
+  {
+    "date": "2025-08-09",
+    "new_deployed_contracts": 1318741,
+    "distinct_contract_deployers": 413
+  },
+  {
+    "date": "2025-08-10",
+    "new_deployed_contracts": 907482,
+    "distinct_contract_deployers": 656
+  },
+  {
+    "date": "2025-08-11",
+    "new_deployed_contracts": 661796,
+    "distinct_contract_deployers": 469
+  },
+  {
+    "date": "2025-08-12",
+    "new_deployed_contracts": 1200917,
+    "distinct_contract_deployers": 438
+  },
+  {
+    "date": "2025-08-13",
+    "new_deployed_contracts": 1550498,
+    "distinct_contract_deployers": 375
+  },
+  {
+    "date": "2025-08-14",
+    "new_deployed_contracts": 1505059,
+    "distinct_contract_deployers": 413
+  },
+  {
+    "date": "2025-08-15",
+    "new_deployed_contracts": 1382081,
+    "distinct_contract_deployers": 384
+  },
+  {
+    "date": "2025-08-16",
+    "new_deployed_contracts": 2108799,
+    "distinct_contract_deployers": 5410
+  },
+  {
+    "date": "2025-08-17",
+    "new_deployed_contracts": 2213965,
+    "distinct_contract_deployers": 3581
+  },
+  {
+    "date": "2025-08-18",
+    "new_deployed_contracts": 773299,
+    "distinct_contract_deployers": 414
+  },
+  {
+    "date": "2025-08-19",
+    "new_deployed_contracts": 1127807,
+    "distinct_contract_deployers": 421
+  },
+  {
+    "date": "2025-08-20",
+    "new_deployed_contracts": 837905,
+    "distinct_contract_deployers": 1520
+  },
+  {
+    "date": "2025-08-21",
+    "new_deployed_contracts": 1936388,
+    "distinct_contract_deployers": 401
+  },
+  {
+    "date": "2025-08-22",
+    "new_deployed_contracts": 1547147,
+    "distinct_contract_deployers": 302
+  },
+  {
+    "date": "2025-08-23",
+    "new_deployed_contracts": 1926907,
+    "distinct_contract_deployers": 230
+  },
+  {
+    "date": "2025-08-24",
+    "new_deployed_contracts": 1717992,
+    "distinct_contract_deployers": 219
+  },
+  {
+    "date": "2025-08-25",
+    "new_deployed_contracts": 1529089,
+    "distinct_contract_deployers": 367
+  },
+  {
+    "date": "2025-08-26",
+    "new_deployed_contracts": 1960517,
+    "distinct_contract_deployers": 266
+  },
+  {
+    "date": "2025-08-27",
+    "new_deployed_contracts": 2061671,
+    "distinct_contract_deployers": 384
+  },
+  {
+    "date": "2025-08-28",
+    "new_deployed_contracts": 2021485,
+    "distinct_contract_deployers": 323
+  },
+  {
+    "date": "2025-08-29",
+    "new_deployed_contracts": 1563228,
+    "distinct_contract_deployers": 293
+  },
+  {
+    "date": "2025-08-30",
+    "new_deployed_contracts": 982150,
+    "distinct_contract_deployers": 192
+  },
+  {
+    "date": "2025-08-31",
+    "new_deployed_contracts": 1224338,
+    "distinct_contract_deployers": 180
+  },
+  {
+    "date": "2025-09-01",
+    "new_deployed_contracts": 1614152,
+    "distinct_contract_deployers": 309
+  },
+  {
+    "date": "2025-09-02",
+    "new_deployed_contracts": 1642523,
+    "distinct_contract_deployers": 539
+  },
+  {
+    "date": "2025-09-03",
+    "new_deployed_contracts": 1389334,
+    "distinct_contract_deployers": 382
+  },
+  {
+    "date": "2025-09-04",
+    "new_deployed_contracts": 1435997,
+    "distinct_contract_deployers": 296
+  },
+  {
+    "date": "2025-09-05",
+    "new_deployed_contracts": 1423477,
+    "distinct_contract_deployers": 257
+  },
+  {
+    "date": "2025-09-06",
+    "new_deployed_contracts": 1428275,
+    "distinct_contract_deployers": 171
+  },
+  {
+    "date": "2025-09-07",
+    "new_deployed_contracts": 1062796,
+    "distinct_contract_deployers": 204
+  },
+  {
+    "date": "2025-09-08",
+    "new_deployed_contracts": 629926,
+    "distinct_contract_deployers": 305
+  },
+  {
+    "date": "2025-09-09",
+    "new_deployed_contracts": 1864953,
+    "distinct_contract_deployers": 277
+  },
+  {
+    "date": "2025-09-10",
+    "new_deployed_contracts": 1788390,
+    "distinct_contract_deployers": 292
+  },
+  {
+    "date": "2025-09-11",
+    "new_deployed_contracts": 1481958,
+    "distinct_contract_deployers": 325
+  },
+  {
+    "date": "2025-09-12",
+    "new_deployed_contracts": 1671333,
+    "distinct_contract_deployers": 250
+  },
+  {
+    "date": "2025-09-13",
+    "new_deployed_contracts": 748583,
+    "distinct_contract_deployers": 216
+  },
+  {
+    "date": "2025-09-14",
+    "new_deployed_contracts": 1099513,
+    "distinct_contract_deployers": 213
+  },
+  {
+    "date": "2025-09-15",
+    "new_deployed_contracts": 846031,
+    "distinct_contract_deployers": 314
+  },
+  {
+    "date": "2025-09-16",
+    "new_deployed_contracts": 1077175,
+    "distinct_contract_deployers": 370
+  },
+  {
+    "date": "2025-09-17",
+    "new_deployed_contracts": 1321001,
+    "distinct_contract_deployers": 359
+  },
+  {
+    "date": "2025-09-18",
+    "new_deployed_contracts": 1200108,
+    "distinct_contract_deployers": 345
+  },
+  {
+    "date": "2025-09-19",
+    "new_deployed_contracts": 1986328,
+    "distinct_contract_deployers": 346
+  },
+  {
+    "date": "2025-09-20",
+    "new_deployed_contracts": 1617211,
+    "distinct_contract_deployers": 260
+  },
+  {
+    "date": "2025-09-21",
+    "new_deployed_contracts": 1274112,
+    "distinct_contract_deployers": 300
+  },
+  {
+    "date": "2025-09-22",
+    "new_deployed_contracts": 1311647,
+    "distinct_contract_deployers": 305
+  },
+  {
+    "date": "2025-09-23",
+    "new_deployed_contracts": 1711620,
+    "distinct_contract_deployers": 441
+  },
+  {
+    "date": "2025-09-24",
+    "new_deployed_contracts": 1760314,
+    "distinct_contract_deployers": 491
+  },
+  {
+    "date": "2025-09-25",
+    "new_deployed_contracts": 1570745,
+    "distinct_contract_deployers": 330
+  },
+  {
+    "date": "2025-09-26",
+    "new_deployed_contracts": 1591579,
+    "distinct_contract_deployers": 456
+  },
+  {
+    "date": "2025-09-27",
+    "new_deployed_contracts": 1743574,
+    "distinct_contract_deployers": 337
+  },
+  {
+    "date": "2025-09-28",
+    "new_deployed_contracts": 1664281,
+    "distinct_contract_deployers": 316
+  },
+  {
+    "date": "2025-09-29",
+    "new_deployed_contracts": 1714087,
+    "distinct_contract_deployers": 341
+  },
+  {
+    "date": "2025-09-30",
+    "new_deployed_contracts": 160975,
+    "distinct_contract_deployers": 430
+  },
+  {
+    "date": "2025-10-01",
+    "new_deployed_contracts": 150335,
+    "distinct_contract_deployers": 400
+  },
+  {
+    "date": "2025-10-02",
+    "new_deployed_contracts": 887795,
+    "distinct_contract_deployers": 356
+  },
+  {
+    "date": "2025-10-03",
+    "new_deployed_contracts": 963217,
+    "distinct_contract_deployers": 4273
+  },
+  {
+    "date": "2025-10-04",
+    "new_deployed_contracts": 701234,
+    "distinct_contract_deployers": 12978
+  },
+  {
+    "date": "2025-10-05",
+    "new_deployed_contracts": 468081,
+    "distinct_contract_deployers": 4620
+  },
+  {
+    "date": "2025-10-06",
+    "new_deployed_contracts": 415596,
+    "distinct_contract_deployers": 428
+  },
+  {
+    "date": "2025-10-07",
+    "new_deployed_contracts": 170446,
+    "distinct_contract_deployers": 1246
+  },
+  {
+    "date": "2025-10-08",
+    "new_deployed_contracts": 187752,
+    "distinct_contract_deployers": 2771
+  },
+  {
+    "date": "2025-10-09",
+    "new_deployed_contracts": 364284,
+    "distinct_contract_deployers": 9632
+  },
+  {
+    "date": "2025-10-10",
+    "new_deployed_contracts": 236508,
+    "distinct_contract_deployers": 6457
+  },
+  {
+    "date": "2025-10-11",
+    "new_deployed_contracts": 426103,
+    "distinct_contract_deployers": 242
+  },
+  {
+    "date": "2025-10-12",
+    "new_deployed_contracts": 386501,
+    "distinct_contract_deployers": 288
+  },
+  {
+    "date": "2025-10-13",
+    "new_deployed_contracts": 103689,
+    "distinct_contract_deployers": 406
+  },
+  {
+    "date": "2025-10-14",
+    "new_deployed_contracts": 174629,
+    "distinct_contract_deployers": 372
+  },
+  {
+    "date": "2025-10-15",
+    "new_deployed_contracts": 366410,
+    "distinct_contract_deployers": 382
+  },
+  {
+    "date": "2025-10-16",
+    "new_deployed_contracts": 1002025,
+    "distinct_contract_deployers": 369
+  },
+  {
+    "date": "2025-10-17",
+    "new_deployed_contracts": 1051660,
+    "distinct_contract_deployers": 304
+  },
+  {
+    "date": "2025-10-18",
+    "new_deployed_contracts": 1054862,
+    "distinct_contract_deployers": 272
+  },
+  {
+    "date": "2025-10-19",
+    "new_deployed_contracts": 897573,
+    "distinct_contract_deployers": 1752
+  },
+  {
+    "date": "2025-10-20",
+    "new_deployed_contracts": 722650,
+    "distinct_contract_deployers": 7138
+  },
+  {
+    "date": "2025-10-21",
+    "new_deployed_contracts": 297355,
+    "distinct_contract_deployers": 276
+  },
+  {
+    "date": "2025-10-22",
+    "new_deployed_contracts": 428127,
+    "distinct_contract_deployers": 271
+  },
+  {
+    "date": "2025-10-23",
+    "new_deployed_contracts": 1258011,
+    "distinct_contract_deployers": 283
+  },
+  {
+    "date": "2025-10-24",
+    "new_deployed_contracts": 703794,
+    "distinct_contract_deployers": 264
+  },
+  {
+    "date": "2025-10-25",
+    "new_deployed_contracts": 294616,
+    "distinct_contract_deployers": 242
+  },
+  {
+    "date": "2025-10-26",
+    "new_deployed_contracts": 358435,
+    "distinct_contract_deployers": 277
+  },
+  {
+    "date": "2025-10-27",
+    "new_deployed_contracts": 602384,
+    "distinct_contract_deployers": 267
+  },
+  {
+    "date": "2025-10-28",
+    "new_deployed_contracts": 367955,
+    "distinct_contract_deployers": 302
+  },
+  {
+    "date": "2025-10-29",
+    "new_deployed_contracts": 58614,
+    "distinct_contract_deployers": 224
+  },
+  {
+    "date": "2025-10-30",
+    "new_deployed_contracts": 357914,
+    "distinct_contract_deployers": 232
+  },
+  {
+    "date": "2025-10-31",
+    "new_deployed_contracts": 866159,
+    "distinct_contract_deployers": 273
+  },
+  {
+    "date": "2025-11-01",
+    "new_deployed_contracts": 541887,
+    "distinct_contract_deployers": 224
+  },
+  {
+    "date": "2025-11-02",
+    "new_deployed_contracts": 720868,
+    "distinct_contract_deployers": 225
+  },
+  {
+    "date": "2025-11-03",
+    "new_deployed_contracts": 795605,
+    "distinct_contract_deployers": 273
+  },
+  {
+    "date": "2025-11-04",
+    "new_deployed_contracts": 311138,
+    "distinct_contract_deployers": 339
+  },
+  {
+    "date": "2025-11-05",
+    "new_deployed_contracts": 410123,
+    "distinct_contract_deployers": 269
+  },
+  {
+    "date": "2025-11-06",
+    "new_deployed_contracts": 352766,
+    "distinct_contract_deployers": 301
+  },
+  {
+    "date": "2025-11-07",
+    "new_deployed_contracts": 256744,
+    "distinct_contract_deployers": 282
+  },
+  {
+    "date": "2025-11-08",
+    "new_deployed_contracts": 661005,
+    "distinct_contract_deployers": 250
+  },
+  {
+    "date": "2025-11-09",
+    "new_deployed_contracts": 686552,
+    "distinct_contract_deployers": 289
+  },
+  {
+    "date": "2025-11-10",
+    "new_deployed_contracts": 249666,
+    "distinct_contract_deployers": 356
+  },
+  {
+    "date": "2025-11-11",
+    "new_deployed_contracts": 347460,
+    "distinct_contract_deployers": 312
+  },
+  {
+    "date": "2025-11-12",
+    "new_deployed_contracts": 447592,
+    "distinct_contract_deployers": 314
+  },
+  {
+    "date": "2025-11-13",
+    "new_deployed_contracts": 647237,
+    "distinct_contract_deployers": 343
+  },
+  {
+    "date": "2025-11-14",
+    "new_deployed_contracts": 503695,
+    "distinct_contract_deployers": 278
+  },
+  {
+    "date": "2025-11-15",
+    "new_deployed_contracts": 581853,
+    "distinct_contract_deployers": 234
+  },
+  {
+    "date": "2025-11-16",
+    "new_deployed_contracts": 692799,
+    "distinct_contract_deployers": 231
+  },
+  {
+    "date": "2025-11-17",
+    "new_deployed_contracts": 274716,
+    "distinct_contract_deployers": 293
+  },
+  {
+    "date": "2025-11-18",
+    "new_deployed_contracts": 22197,
+    "distinct_contract_deployers": 307
+  },
+  {
+    "date": "2025-11-19",
+    "new_deployed_contracts": 25063,
+    "distinct_contract_deployers": 272
+  },
+  {
+    "date": "2025-11-20",
+    "new_deployed_contracts": 202141,
+    "distinct_contract_deployers": 353
+  },
+  {
+    "date": "2025-11-21",
+    "new_deployed_contracts": 15093,
+    "distinct_contract_deployers": 252
+  },
+  {
+    "date": "2025-11-22",
+    "new_deployed_contracts": 85510,
+    "distinct_contract_deployers": 206
+  },
+  {
+    "date": "2025-11-23",
+    "new_deployed_contracts": 354287,
+    "distinct_contract_deployers": 258
+  },
+  {
+    "date": "2025-11-24",
+    "new_deployed_contracts": 123780,
+    "distinct_contract_deployers": 259
+  },
+  {
+    "date": "2025-11-25",
+    "new_deployed_contracts": 467522,
+    "distinct_contract_deployers": 464
+  },
+  {
+    "date": "2025-11-26",
+    "new_deployed_contracts": 447871,
+    "distinct_contract_deployers": 282
+  },
+  {
+    "date": "2025-11-27",
+    "new_deployed_contracts": 487156,
+    "distinct_contract_deployers": 267
+  },
+  {
+    "date": "2025-11-28",
+    "new_deployed_contracts": 423572,
+    "distinct_contract_deployers": 225
+  },
+  {
+    "date": "2025-11-29",
+    "new_deployed_contracts": 529384,
+    "distinct_contract_deployers": 177
+  },
+  {
+    "date": "2025-11-30",
+    "new_deployed_contracts": 397199,
+    "distinct_contract_deployers": 183
+  },
+  {
+    "date": "2025-12-01",
+    "new_deployed_contracts": 362449,
+    "distinct_contract_deployers": 218
+  },
+  {
+    "date": "2025-12-02",
+    "new_deployed_contracts": 121856,
+    "distinct_contract_deployers": 272
+  },
+  {
+    "date": "2025-12-03",
+    "new_deployed_contracts": 380459,
+    "distinct_contract_deployers": 262
+  },
+  {
+    "date": "2025-12-04",
+    "new_deployed_contracts": 71587,
+    "distinct_contract_deployers": 250
+  },
+  {
+    "date": "2025-12-05",
+    "new_deployed_contracts": 70058,
+    "distinct_contract_deployers": 237
+  },
+  {
+    "date": "2025-12-06",
+    "new_deployed_contracts": 256946,
+    "distinct_contract_deployers": 258
+  },
+  {
+    "date": "2025-12-07",
+    "new_deployed_contracts": 188485,
+    "distinct_contract_deployers": 310
+  },
+  {
+    "date": "2025-12-08",
+    "new_deployed_contracts": 241085,
+    "distinct_contract_deployers": 334
+  },
+  {
+    "date": "2025-12-09",
+    "new_deployed_contracts": 566721,
+    "distinct_contract_deployers": 491
+  },
+  {
+    "date": "2025-12-10",
+    "new_deployed_contracts": 471426,
+    "distinct_contract_deployers": 427
+  },
+  {
+    "date": "2025-12-11",
+    "new_deployed_contracts": 171359,
+    "distinct_contract_deployers": 284
+  },
+  {
+    "date": "2025-12-12",
+    "new_deployed_contracts": 14519,
+    "distinct_contract_deployers": 291
+  },
+  {
+    "date": "2025-12-13",
+    "new_deployed_contracts": 84704,
+    "distinct_contract_deployers": 228
+  },
+  {
+    "date": "2025-12-14",
+    "new_deployed_contracts": 17594,
+    "distinct_contract_deployers": 230
+  },
+  {
+    "date": "2025-12-15",
+    "new_deployed_contracts": 53339,
+    "distinct_contract_deployers": 299
+  },
+  {
+    "date": "2025-12-16",
+    "new_deployed_contracts": 239329,
+    "distinct_contract_deployers": 309
+  },
+  {
+    "date": "2025-12-17",
+    "new_deployed_contracts": 212444,
+    "distinct_contract_deployers": 239
+  },
+  {
+    "date": "2025-12-18",
+    "new_deployed_contracts": 46103,
+    "distinct_contract_deployers": 275
+  },
+  {
+    "date": "2025-12-19",
+    "new_deployed_contracts": 43126,
+    "distinct_contract_deployers": 278
+  },
+  {
+    "date": "2025-12-20",
+    "new_deployed_contracts": 158350,
+    "distinct_contract_deployers": 210
+  },
+  {
+    "date": "2025-12-21",
+    "new_deployed_contracts": 485345,
+    "distinct_contract_deployers": 229
+  },
+  {
+    "date": "2025-12-22",
+    "new_deployed_contracts": 327407,
+    "distinct_contract_deployers": 208
+  },
+  {
+    "date": "2025-12-23",
+    "new_deployed_contracts": 239320,
+    "distinct_contract_deployers": 359
+  },
+  {
+    "date": "2025-12-24",
+    "new_deployed_contracts": 191704,
+    "distinct_contract_deployers": 230
+  },
+  {
+    "date": "2025-12-25",
+    "new_deployed_contracts": 70529,
+    "distinct_contract_deployers": 193
+  },
+  {
+    "date": "2025-12-26",
+    "new_deployed_contracts": 231361,
+    "distinct_contract_deployers": 207
+  },
+  {
+    "date": "2025-12-27",
+    "new_deployed_contracts": 51601,
+    "distinct_contract_deployers": 178
+  },
+  {
+    "date": "2025-12-28",
+    "new_deployed_contracts": 89353,
+    "distinct_contract_deployers": 207
+  },
+  {
+    "date": "2025-12-29",
+    "new_deployed_contracts": 158934,
+    "distinct_contract_deployers": 191
+  },
+  {
+    "date": "2025-12-30",
+    "new_deployed_contracts": 129582,
+    "distinct_contract_deployers": 265
+  },
+  {
+    "date": "2025-12-31",
+    "new_deployed_contracts": 15262,
+    "distinct_contract_deployers": 195
+  },
+  {
+    "date": "2026-01-01",
+    "new_deployed_contracts": 71386,
+    "distinct_contract_deployers": 141
+  },
+  {
+    "date": "2026-01-02",
+    "new_deployed_contracts": 51933,
+    "distinct_contract_deployers": 210
+  },
+  {
+    "date": "2026-01-03",
+    "new_deployed_contracts": 185817,
+    "distinct_contract_deployers": 166
+  },
+  {
+    "date": "2026-01-04",
+    "new_deployed_contracts": 245513,
+    "distinct_contract_deployers": 167
+  },
+  {
+    "date": "2026-01-05",
+    "new_deployed_contracts": 23779,
+    "distinct_contract_deployers": 243
+  },
+  {
+    "date": "2026-01-06",
+    "new_deployed_contracts": 22944,
+    "distinct_contract_deployers": 303
+  },
+  {
+    "date": "2026-01-07",
+    "new_deployed_contracts": 22605,
+    "distinct_contract_deployers": 360
+  },
+  {
+    "date": "2026-01-08",
+    "new_deployed_contracts": 27719,
+    "distinct_contract_deployers": 360
+  },
+  {
+    "date": "2026-01-09",
+    "new_deployed_contracts": 19843,
+    "distinct_contract_deployers": 361
+  },
+  {
+    "date": "2026-01-10",
+    "new_deployed_contracts": 21098,
+    "distinct_contract_deployers": 334
+  },
+  {
+    "date": "2026-01-11",
+    "new_deployed_contracts": 20900,
+    "distinct_contract_deployers": 390
+  },
+  {
+    "date": "2026-01-12",
+    "new_deployed_contracts": 15566,
+    "distinct_contract_deployers": 251
+  },
+  {
+    "date": "2026-01-13",
+    "new_deployed_contracts": 19990,
+    "distinct_contract_deployers": 282
+  },
+  {
+    "date": "2026-01-14",
+    "new_deployed_contracts": 16593,
+    "distinct_contract_deployers": 268
+  },
+  {
+    "date": "2026-01-15",
+    "new_deployed_contracts": 15242,
+    "distinct_contract_deployers": 210
+  },
+  {
+    "date": "2026-01-16",
+    "new_deployed_contracts": 18866,
+    "distinct_contract_deployers": 197
+  },
+  {
+    "date": "2026-01-17",
+    "new_deployed_contracts": 127996,
+    "distinct_contract_deployers": 145
+  },
+  {
+    "date": "2026-01-18",
+    "new_deployed_contracts": 77456,
+    "distinct_contract_deployers": 150
+  },
+  {
+    "date": "2026-01-19",
+    "new_deployed_contracts": 51875,
+    "distinct_contract_deployers": 208
+  },
+  {
+    "date": "2026-01-20",
+    "new_deployed_contracts": 16034,
+    "distinct_contract_deployers": 197
+  },
+  {
+    "date": "2026-01-21",
+    "new_deployed_contracts": 15739,
+    "distinct_contract_deployers": 226
+  },
+  {
+    "date": "2026-01-22",
+    "new_deployed_contracts": 15508,
+    "distinct_contract_deployers": 210
+  },
+  {
+    "date": "2026-01-23",
+    "new_deployed_contracts": 13511,
+    "distinct_contract_deployers": 299
+  },
+  {
+    "date": "2026-01-24",
+    "new_deployed_contracts": 13402,
+    "distinct_contract_deployers": 149
+  },
+  {
+    "date": "2026-01-25",
+    "new_deployed_contracts": 14091,
+    "distinct_contract_deployers": 111
+  },
+  {
+    "date": "2026-01-26",
+    "new_deployed_contracts": 14059,
+    "distinct_contract_deployers": 185
+  },
+  {
+    "date": "2026-01-27",
+    "new_deployed_contracts": 53253,
+    "distinct_contract_deployers": 192
+  },
+  {
+    "date": "2026-01-28",
+    "new_deployed_contracts": 16901,
+    "distinct_contract_deployers": 208
+  },
+  {
+    "date": "2026-01-29",
+    "new_deployed_contracts": 24765,
+    "distinct_contract_deployers": 165
+  },
+  {
+    "date": "2026-01-30",
+    "new_deployed_contracts": 30178,
+    "distinct_contract_deployers": 147
+  },
+  {
+    "date": "2026-01-31",
+    "new_deployed_contracts": 20990,
+    "distinct_contract_deployers": 127
+  },
+  {
+    "date": "2026-02-01",
+    "new_deployed_contracts": 17455,
+    "distinct_contract_deployers": 126
+  },
+  {
+    "date": "2026-02-02",
+    "new_deployed_contracts": 13947,
+    "distinct_contract_deployers": 149
+  },
+  {
+    "date": "2026-02-03",
+    "new_deployed_contracts": 15171,
+    "distinct_contract_deployers": 144
+  },
+  {
+    "date": "2026-02-04",
+    "new_deployed_contracts": 16216,
+    "distinct_contract_deployers": 171
+  },
+  {
+    "date": "2026-02-05",
+    "new_deployed_contracts": 16872,
+    "distinct_contract_deployers": 159
+  },
+  {
+    "date": "2026-02-06",
+    "new_deployed_contracts": 14875,
+    "distinct_contract_deployers": 149
+  },
+  {
+    "date": "2026-02-07",
+    "new_deployed_contracts": 17071,
+    "distinct_contract_deployers": 145
+  },
+  {
+    "date": "2026-02-08",
+    "new_deployed_contracts": 16563,
+    "distinct_contract_deployers": 145
+  },
+  {
+    "date": "2026-02-09",
+    "new_deployed_contracts": 14718,
+    "distinct_contract_deployers": 170
+  },
+  {
+    "date": "2026-02-10",
+    "new_deployed_contracts": 10073,
+    "distinct_contract_deployers": 198
+  },
+  {
+    "date": "2026-02-11",
+    "new_deployed_contracts": 13015,
+    "distinct_contract_deployers": 182
+  },
+  {
+    "date": "2026-02-12",
+    "new_deployed_contracts": 21585,
+    "distinct_contract_deployers": 170
+  },
+  {
+    "date": "2026-02-13",
+    "new_deployed_contracts": 98613,
+    "distinct_contract_deployers": 151
+  },
+  {
+    "date": "2026-02-14",
+    "new_deployed_contracts": 46798,
+    "distinct_contract_deployers": 155
+  },
+  {
+    "date": "2026-02-15",
+    "new_deployed_contracts": 20601,
+    "distinct_contract_deployers": 150
+  },
+  {
+    "date": "2026-02-16",
+    "new_deployed_contracts": 15127,
+    "distinct_contract_deployers": 182
+  },
+  {
+    "date": "2026-02-17",
+    "new_deployed_contracts": 5919,
+    "distinct_contract_deployers": 212
+  },
+  {
+    "date": "2026-02-18",
+    "new_deployed_contracts": 30491,
+    "distinct_contract_deployers": 166
+  },
+  {
+    "date": "2026-02-19",
+    "new_deployed_contracts": 7415,
+    "distinct_contract_deployers": 178
+  },
+  {
+    "date": "2026-02-20",
+    "new_deployed_contracts": 13832,
+    "distinct_contract_deployers": 201
+  },
+  {
+    "date": "2026-02-21",
+    "new_deployed_contracts": 54574,
+    "distinct_contract_deployers": 147
+  },
+  {
+    "date": "2026-02-22",
+    "new_deployed_contracts": 17365,
+    "distinct_contract_deployers": 119
+  },
+  {
+    "date": "2026-02-23",
+    "new_deployed_contracts": 4215,
+    "distinct_contract_deployers": 174
+  },
+  {
+    "date": "2026-02-24",
+    "new_deployed_contracts": 5232,
+    "distinct_contract_deployers": 207
+  },
+  {
+    "date": "2026-02-25",
+    "new_deployed_contracts": 5260,
+    "distinct_contract_deployers": 204
+  },
+  {
+    "date": "2026-02-26",
+    "new_deployed_contracts": 5465,
+    "distinct_contract_deployers": 182
+  },
+  {
+    "date": "2026-02-27",
+    "new_deployed_contracts": 5672,
+    "distinct_contract_deployers": 157
+  },
+  {
+    "date": "2026-02-28",
+    "new_deployed_contracts": 4931,
+    "distinct_contract_deployers": 137
+  },
+  {
+    "date": "2026-03-01",
+    "new_deployed_contracts": 4884,
+    "distinct_contract_deployers": 127
+  },
+  {
+    "date": "2026-03-02",
+    "new_deployed_contracts": 4832,
+    "distinct_contract_deployers": 164
+  },
+  {
+    "date": "2026-03-03",
+    "new_deployed_contracts": 61135,
+    "distinct_contract_deployers": 136
+  },
+  {
+    "date": "2026-03-04",
+    "new_deployed_contracts": 94978,
+    "distinct_contract_deployers": 190
+  },
+  {
+    "date": "2026-03-05",
+    "new_deployed_contracts": 6977,
+    "distinct_contract_deployers": 197
+  },
+  {
+    "date": "2026-03-06",
+    "new_deployed_contracts": 7414,
+    "distinct_contract_deployers": 161
+  },
+  {
+    "date": "2026-03-07",
+    "new_deployed_contracts": 4358,
+    "distinct_contract_deployers": 127
+  },
+  {
+    "date": "2026-03-08",
+    "new_deployed_contracts": 4128,
+    "distinct_contract_deployers": 134
+  },
+  {
+    "date": "2026-03-09",
+    "new_deployed_contracts": 15502,
+    "distinct_contract_deployers": 171
+  },
+  {
+    "date": "2026-03-10",
+    "new_deployed_contracts": 75249,
+    "distinct_contract_deployers": 182
+  },
+  {
+    "date": "2026-03-11",
+    "new_deployed_contracts": 19018,
+    "distinct_contract_deployers": 169
+  },
+  {
+    "date": "2026-03-12",
+    "new_deployed_contracts": 16440,
+    "distinct_contract_deployers": 163
+  },
+  {
+    "date": "2026-03-13",
+    "new_deployed_contracts": 8704,
+    "distinct_contract_deployers": 193
+  },
+  {
+    "date": "2026-03-14",
+    "new_deployed_contracts": 4341,
+    "distinct_contract_deployers": 246
+  },
+  {
+    "date": "2026-03-15",
+    "new_deployed_contracts": 4311,
+    "distinct_contract_deployers": 123
+  },
+  {
+    "date": "2026-03-16",
+    "new_deployed_contracts": 3859,
+    "distinct_contract_deployers": 192
+  },
+  {
+    "date": "2026-03-17",
+    "new_deployed_contracts": 3661,
+    "distinct_contract_deployers": 306
+  },
+  {
+    "date": "2026-03-18",
+    "new_deployed_contracts": 4889,
+    "distinct_contract_deployers": 371
+  },
+  {
+    "date": "2026-03-19",
+    "new_deployed_contracts": 4330,
+    "distinct_contract_deployers": 260
+  },
+  {
+    "date": "2026-03-20",
+    "new_deployed_contracts": 5206,
+    "distinct_contract_deployers": 263
+  },
+  {
+    "date": "2026-03-21",
+    "new_deployed_contracts": 4930,
+    "distinct_contract_deployers": 152
+  },
+  {
+    "date": "2026-03-22",
+    "new_deployed_contracts": 4912,
+    "distinct_contract_deployers": 128
+  },
+  {
+    "date": "2026-03-23",
+    "new_deployed_contracts": 3803,
+    "distinct_contract_deployers": 185
+  },
+  {
+    "date": "2026-03-24",
+    "new_deployed_contracts": 8627,
+    "distinct_contract_deployers": 268
+  },
+  {
+    "date": "2026-03-25",
+    "new_deployed_contracts": 87841,
+    "distinct_contract_deployers": 209
+  },
+  {
+    "date": "2026-03-26",
+    "new_deployed_contracts": 103336,
+    "distinct_contract_deployers": 287
+  },
+  {
+    "date": "2026-03-27",
+    "new_deployed_contracts": 20721,
+    "distinct_contract_deployers": 344
+  },
+  {
+    "date": "2026-03-28",
+    "new_deployed_contracts": 18947,
+    "distinct_contract_deployers": 163
+  },
+  {
+    "date": "2026-03-29",
+    "new_deployed_contracts": 7827,
+    "distinct_contract_deployers": 149
+  },
+  {
+    "date": "2026-03-30",
+    "new_deployed_contracts": 33439,
+    "distinct_contract_deployers": 206
+  },
+  {
+    "date": "2026-03-31",
+    "new_deployed_contracts": 4692,
+    "distinct_contract_deployers": 214
+  },
+  {
+    "date": "2026-04-01",
+    "new_deployed_contracts": 3264,
+    "distinct_contract_deployers": 170
+  },
+  {
+    "date": "2026-04-02",
+    "new_deployed_contracts": 2966,
+    "distinct_contract_deployers": 214
+  },
+  {
+    "date": "2026-04-03",
+    "new_deployed_contracts": 58553,
+    "distinct_contract_deployers": 197
+  },
+  {
+    "date": "2026-04-04",
+    "new_deployed_contracts": 4064,
+    "distinct_contract_deployers": 136
+  },
+  {
+    "date": "2026-04-05",
+    "new_deployed_contracts": 3169,
+    "distinct_contract_deployers": 137
+  },
+  {
+    "date": "2026-04-06",
+    "new_deployed_contracts": 50068,
+    "distinct_contract_deployers": 208
+  },
+  {
+    "date": "2026-04-07",
+    "new_deployed_contracts": 24854,
+    "distinct_contract_deployers": 1580
+  },
+  {
+    "date": "2026-04-08",
+    "new_deployed_contracts": 147925,
+    "distinct_contract_deployers": 72359
+  },
+  {
+    "date": "2026-04-09",
+    "new_deployed_contracts": 466217,
+    "distinct_contract_deployers": 228726
+  },
+  {
+    "date": "2026-04-10",
+    "new_deployed_contracts": 35177,
+    "distinct_contract_deployers": 15994
+  },
+  {
+    "date": "2026-04-11",
+    "new_deployed_contracts": 4865,
+    "distinct_contract_deployers": 889
+  },
+  {
+    "date": "2026-04-12",
+    "new_deployed_contracts": 4666,
+    "distinct_contract_deployers": 912
+  },
+  {
+    "date": "2026-04-13",
+    "new_deployed_contracts": 11605,
+    "distinct_contract_deployers": 1073
+  },
+  {
+    "date": "2026-04-14",
+    "new_deployed_contracts": 15866,
+    "distinct_contract_deployers": 989
+  },
+  {
+    "date": "2026-04-15",
+    "new_deployed_contracts": 15534,
+    "distinct_contract_deployers": 1741
+  },
+  {
+    "date": "2026-04-16",
+    "new_deployed_contracts": 14692,
+    "distinct_contract_deployers": 981
+  },
+  {
+    "date": "2026-04-17",
+    "new_deployed_contracts": 22670,
+    "distinct_contract_deployers": 886
+  },
+  {
+    "date": "2026-04-18",
+    "new_deployed_contracts": 66812,
+    "distinct_contract_deployers": 1580
+  },
+  {
+    "date": "2026-04-19",
+    "new_deployed_contracts": 128699,
+    "distinct_contract_deployers": 2062
+  },
+  {
+    "date": "2026-04-20",
+    "new_deployed_contracts": 155676,
+    "distinct_contract_deployers": 1903
+  },
+  {
+    "date": "2026-04-21",
+    "new_deployed_contracts": 117915,
+    "distinct_contract_deployers": 5559
+  },
+  {
+    "date": "2026-04-22",
+    "new_deployed_contracts": 198056,
+    "distinct_contract_deployers": 916
+  },
+  {
+    "date": "2026-04-23",
+    "new_deployed_contracts": 61218,
+    "distinct_contract_deployers": 1167
+  },
+  {
+    "date": "2026-04-24",
+    "new_deployed_contracts": 66635,
+    "distinct_contract_deployers": 1362
+  },
+  {
+    "date": "2026-04-25",
+    "new_deployed_contracts": 68626,
+    "distinct_contract_deployers": 7863
+  },
+  {
+    "date": "2026-04-26",
+    "new_deployed_contracts": 56184,
+    "distinct_contract_deployers": 1154
+  },
+  {
+    "date": "2026-04-27",
+    "new_deployed_contracts": 216612,
+    "distinct_contract_deployers": 1526
+  },
+  {
+    "date": "2026-04-28",
+    "new_deployed_contracts": 281721,
+    "distinct_contract_deployers": 1714
+  },
+  {
+    "date": "2026-04-29",
+    "new_deployed_contracts": 173405,
+    "distinct_contract_deployers": 1518
+  },
+  {
+    "date": "2026-04-30",
+    "new_deployed_contracts": 130419,
+    "distinct_contract_deployers": 1218
+  },
+  {
+    "date": "2026-05-01",
+    "new_deployed_contracts": 173076,
+    "distinct_contract_deployers": 1371
+  },
+  {
+    "date": "2026-05-02",
+    "new_deployed_contracts": 140613,
+    "distinct_contract_deployers": 1237
+  },
+  {
+    "date": "2026-05-03",
+    "new_deployed_contracts": 138732,
+    "distinct_contract_deployers": 1524
+  },
+  {
+    "date": "2026-05-04",
+    "new_deployed_contracts": 134194,
+    "distinct_contract_deployers": 1466
+  },
+  {
+    "date": "2026-05-05",
+    "new_deployed_contracts": 158330,
+    "distinct_contract_deployers": 1611
+  },
+  {
+    "date": "2026-05-06",
+    "new_deployed_contracts": 207191,
+    "distinct_contract_deployers": 1429
+  },
+  {
+    "date": "2026-05-07",
+    "new_deployed_contracts": 144328,
+    "distinct_contract_deployers": 1301
+  },
+  {
+    "date": "2026-05-08",
+    "new_deployed_contracts": 122392,
+    "distinct_contract_deployers": 1097
+  },
+  {
+    "date": "2026-05-09",
+    "new_deployed_contracts": 111406,
+    "distinct_contract_deployers": 1059
+  },
+  {
+    "date": "2026-05-10",
+    "new_deployed_contracts": 158874,
+    "distinct_contract_deployers": 997
+  },
+  {
+    "date": "2026-05-11",
+    "new_deployed_contracts": 169351,
+    "distinct_contract_deployers": 1035
+  },
+  {
+    "date": "2026-05-12",
+    "new_deployed_contracts": 181039,
+    "distinct_contract_deployers": 1114
+  },
+  {
+    "date": "2026-05-13",
+    "new_deployed_contracts": 99091,
+    "distinct_contract_deployers": 2310
+  },
+  {
+    "date": "2026-05-14",
+    "new_deployed_contracts": 149839,
+    "distinct_contract_deployers": 2658
+  },
+  {
+    "date": "2026-05-15",
+    "new_deployed_contracts": 178430,
+    "distinct_contract_deployers": 1024
+  },
+  {
+    "date": "2026-05-16",
+    "new_deployed_contracts": 384799,
+    "distinct_contract_deployers": 1165
+  },
+  {
+    "date": "2026-05-17",
+    "new_deployed_contracts": 480119,
+    "distinct_contract_deployers": 1009
+  },
+  {
+    "date": "2026-05-18",
+    "new_deployed_contracts": 427925,
+    "distinct_contract_deployers": 1045
+  },
+  {
+    "date": "2026-05-19",
+    "new_deployed_contracts": 135224,
+    "distinct_contract_deployers": 1071
+  },
+  {
+    "date": "2026-05-20",
+    "new_deployed_contracts": 6361,
+    "distinct_contract_deployers": 1087
+  },
+  {
+    "date": "2026-05-21",
+    "new_deployed_contracts": 4870,
+    "distinct_contract_deployers": 1002
+  },
+  {
+    "date": "2026-05-22",
+    "new_deployed_contracts": 5600,
+    "distinct_contract_deployers": 1129
+  },
+  {
+    "date": "2026-05-23",
+    "new_deployed_contracts": 11158,
+    "distinct_contract_deployers": 940
+  },
+  {
+    "date": "2026-05-24",
+    "new_deployed_contracts": 5051,
+    "distinct_contract_deployers": 879
+  },
+  {
+    "date": "2026-05-25",
+    "new_deployed_contracts": 47649,
+    "distinct_contract_deployers": 1018
+  },
+  {
+    "date": "2026-05-26",
+    "new_deployed_contracts": 38756,
+    "distinct_contract_deployers": 1015
+  },
+  {
+    "date": "2026-05-27",
+    "new_deployed_contracts": 5355,
+    "distinct_contract_deployers": 931
+  },
+  {
+    "date": "2026-05-28",
+    "new_deployed_contracts": 156076,
+    "distinct_contract_deployers": 1095
+  },
+  {
+    "date": "2026-05-29",
+    "new_deployed_contracts": 98768,
+    "distinct_contract_deployers": 1467
+  },
+  {
+    "date": "2026-05-30",
+    "new_deployed_contracts": 5899,
+    "distinct_contract_deployers": 1088
+  },
+  {
+    "date": "2026-05-31",
+    "new_deployed_contracts": 53739,
+    "distinct_contract_deployers": 1231
+  },
+  {
+    "date": "2026-06-01",
+    "new_deployed_contracts": 5843,
+    "distinct_contract_deployers": 1289
+  },
+  {
+    "date": "2026-06-02",
+    "new_deployed_contracts": 5696,
+    "distinct_contract_deployers": 1232
+  },
+  {
+    "date": "2026-06-03",
+    "new_deployed_contracts": 5006,
+    "distinct_contract_deployers": 1185
+  },
+  {
+    "date": "2026-06-04",
+    "new_deployed_contracts": 5564,
+    "distinct_contract_deployers": 1317
+  },
+  {
+    "date": "2026-06-05",
+    "new_deployed_contracts": 6798,
+    "distinct_contract_deployers": 1730
+  },
+  {
+    "date": "2026-06-06",
+    "new_deployed_contracts": 4673,
+    "distinct_contract_deployers": 1372
+  },
+  {
+    "date": "2026-06-07",
+    "new_deployed_contracts": 5598,
+    "distinct_contract_deployers": 1731
+  },
+  {
+    "date": "2026-06-08",
+    "new_deployed_contracts": 249412,
+    "distinct_contract_deployers": 1442
+  },
+  {
+    "date": "2026-06-09",
+    "new_deployed_contracts": 126563,
+    "distinct_contract_deployers": 1862
+  },
+  {
+    "date": "2026-06-10",
+    "new_deployed_contracts": 6512,
+    "distinct_contract_deployers": 2165
+  },
+  {
+    "date": "2026-06-11",
+    "new_deployed_contracts": 5399,
+    "distinct_contract_deployers": 1470
+  },
+  {
+    "date": "2026-06-12",
+    "new_deployed_contracts": 6005,
+    "distinct_contract_deployers": 1696
+  },
+  {
+    "date": "2026-06-13",
+    "new_deployed_contracts": 5257,
+    "distinct_contract_deployers": 1628
+  },
+  {
+    "date": "2026-06-14",
+    "new_deployed_contracts": 4964,
+    "distinct_contract_deployers": 1351
+  },
+  {
+    "date": "2026-06-15",
+    "new_deployed_contracts": 6423,
+    "distinct_contract_deployers": 1777
+  },
+  {
+    "date": "2026-06-16",
+    "new_deployed_contracts": 5795,
+    "distinct_contract_deployers": 1732
+  },
+  {
+    "date": "2026-06-17",
+    "new_deployed_contracts": 6702,
+    "distinct_contract_deployers": 1846
+  },
+  {
+    "date": "2026-06-18",
+    "new_deployed_contracts": 6745,
+    "distinct_contract_deployers": 1669
+  },
+  {
+    "date": "2026-06-19",
+    "new_deployed_contracts": 26189,
+    "distinct_contract_deployers": 1667
+  },
+  {
+    "date": "2026-06-20",
+    "new_deployed_contracts": 7069,
+    "distinct_contract_deployers": 1298
+  },
+  {
+    "date": "2026-06-21",
+    "new_deployed_contracts": 6510,
+    "distinct_contract_deployers": 1351
+  },
+  {
+    "date": "2026-06-22",
+    "new_deployed_contracts": 7823,
+    "distinct_contract_deployers": 1488
+  },
+  {
+    "date": "2026-06-23",
+    "new_deployed_contracts": 10155,
+    "distinct_contract_deployers": 1954
+  },
+  {
+    "date": "2026-06-24",
+    "new_deployed_contracts": 14147,
+    "distinct_contract_deployers": 2461
+  },
+  {
+    "date": "2026-06-25",
+    "new_deployed_contracts": 13840,
+    "distinct_contract_deployers": 1822
+  },
+  {
+    "date": "2026-06-26",
+    "new_deployed_contracts": 16472,
+    "distinct_contract_deployers": 1812
+  },
+  {
+    "date": "2026-06-27",
+    "new_deployed_contracts": 10724,
+    "distinct_contract_deployers": 1314
+  },
+  {
+    "date": "2026-06-28",
+    "new_deployed_contracts": 23914,
+    "distinct_contract_deployers": 1154
+  },
+  {
+    "date": "2026-06-29",
+    "new_deployed_contracts": 88668,
+    "distinct_contract_deployers": 1297
+  },
+  {
+    "date": "2026-06-30",
+    "new_deployed_contracts": 11361,
+    "distinct_contract_deployers": 1377
+  },
+  {
+    "date": "2026-07-01",
+    "new_deployed_contracts": 87013,
+    "distinct_contract_deployers": 1416
+  },
+  {
+    "date": "2026-07-02",
+    "new_deployed_contracts": 98152,
+    "distinct_contract_deployers": 1701
+  },
+  {
+    "date": "2026-07-03",
+    "new_deployed_contracts": 189746,
+    "distinct_contract_deployers": 1532
+  },
+  {
+    "date": "2026-07-04",
+    "new_deployed_contracts": 66158,
+    "distinct_contract_deployers": 1218
+  },
+  {
+    "date": "2026-07-05",
+    "new_deployed_contracts": 20746,
+    "distinct_contract_deployers": 1327
+  },
+  {
+    "date": "2026-07-06",
+    "new_deployed_contracts": 22180,
+    "distinct_contract_deployers": 1260
+  },
+  {
+    "date": "2026-07-07",
+    "new_deployed_contracts": 23666,
+    "distinct_contract_deployers": 1420
+  },
+  {
+    "date": "2026-07-08",
+    "new_deployed_contracts": 25369,
+    "distinct_contract_deployers": 1351
+  },
+  {
+    "date": "2026-07-09",
+    "new_deployed_contracts": 9523,
+    "distinct_contract_deployers": 1357
+  },
+  {
+    "date": "2026-07-10",
+    "new_deployed_contracts": 7936,
+    "distinct_contract_deployers": 1184
+  },
+  {
+    "date": "2026-07-11",
+    "new_deployed_contracts": 7280,
+    "distinct_contract_deployers": 1108
+  },
+  {
+    "date": "2026-07-12",
+    "new_deployed_contracts": 9553,
+    "distinct_contract_deployers": 1151
+  },
+  {
+    "date": "2026-07-13",
+    "new_deployed_contracts": 4708,
+    "distinct_contract_deployers": 1215
+  },
+  {
+    "date": "2026-07-14",
+    "new_deployed_contracts": 5464,
+    "distinct_contract_deployers": 1325
+  },
+  {
+    "date": "2026-07-15",
+    "new_deployed_contracts": 7101,
+    "distinct_contract_deployers": 1699
+  },
+  {
+    "date": "2026-07-16",
+    "new_deployed_contracts": 6150,
+    "distinct_contract_deployers": 1767
+  },
+  {
+    "date": "2026-07-17",
+    "new_deployed_contracts": 5582,
+    "distinct_contract_deployers": 1583
+  },
+  {
+    "date": "2026-07-18",
+    "new_deployed_contracts": 5081,
+    "distinct_contract_deployers": 1278
+  },
+  {
+    "date": "2026-07-19",
+    "new_deployed_contracts": 38533,
+    "distinct_contract_deployers": 1137
+  },
+  {
+    "date": "2026-07-20",
+    "new_deployed_contracts": 93093,
+    "distinct_contract_deployers": 1215
+  },
+  {
+    "date": "2026-07-21",
+    "new_deployed_contracts": 48923,
+    "distinct_contract_deployers": 1350
+  },
+  {
+    "date": "2026-07-22",
+    "new_deployed_contracts": 64829,
+    "distinct_contract_deployers": 1492
+  },
+  {
+    "date": "2026-07-23",
+    "new_deployed_contracts": 43178,
+    "distinct_contract_deployers": 1955
+  },
+  {
+    "date": "2026-07-24",
+    "new_deployed_contracts": 6374,
+    "distinct_contract_deployers": 1578
+  },
+  {
+    "date": "2026-07-25",
+    "new_deployed_contracts": 28038,
+    "distinct_contract_deployers": 1235
+  },
+  {
+    "date": "2026-07-26",
+    "new_deployed_contracts": 20757,
+    "distinct_contract_deployers": 1214
+  },
+  {
+    "date": "2026-07-27",
+    "new_deployed_contracts": 11626,
+    "distinct_contract_deployers": 1690
+  },
+  {
+    "date": "2026-07-28",
+    "new_deployed_contracts": 5289,
+    "distinct_contract_deployers": 1489
+  },
+  {
+    "date": "2026-07-29",
+    "new_deployed_contracts": 41888,
+    "distinct_contract_deployers": 7396
+  },
+  {
+    "date": "2026-07-30",
+    "new_deployed_contracts": 19027,
+    "distinct_contract_deployers": 2288
+  },
+  {
+    "date": "2026-07-31",
+    "new_deployed_contracts": 11615,
+    "distinct_contract_deployers": 3419
+  },
+  {
+    "date": "2026-08-01",
+    "new_deployed_contracts": 7509,
+    "distinct_contract_deployers": 2400
+  },
+  {
+    "date": "2026-08-02",
+    "new_deployed_contracts": 21293,
+    "distinct_contract_deployers": 1518
+  },
+  {
+    "date": "2026-08-03",
+    "new_deployed_contracts": 6152,
+    "distinct_contract_deployers": 1837
+  },
+  {
+    "date": "2026-08-04",
+    "new_deployed_contracts": 18737,
+    "distinct_contract_deployers": 8104
+  },
+  {
+    "date": "2026-08-05",
+    "new_deployed_contracts": 60193,
+    "distinct_contract_deployers": 4213
+  },
+  {
+    "date": "2026-08-06",
+    "new_deployed_contracts": 7744,
+    "distinct_contract_deployers": 2544
+  },
+  {
+    "date": "2026-08-07",
+    "new_deployed_contracts": 6668,
+    "distinct_contract_deployers": 2045
+  },
+  {
+    "date": "2026-08-08",
+    "new_deployed_contracts": 31436,
+    "distinct_contract_deployers": 1935
+  },
+  {
+    "date": "2026-08-09",
+    "new_deployed_contracts": 14399,
+    "distinct_contract_deployers": 1762
+  },
+  {
+    "date": "2026-08-10",
+    "new_deployed_contracts": 14446,
+    "distinct_contract_deployers": 1736
+  },
+  {
+    "date": "2026-08-11",
+    "new_deployed_contracts": 14901,
+    "distinct_contract_deployers": 1837
+  },
+  {
+    "date": "2026-08-12",
+    "new_deployed_contracts": 8289,
+    "distinct_contract_deployers": 1565
+  },
+  {
+    "date": "2026-08-13",
+    "new_deployed_contracts": 6474,
+    "distinct_contract_deployers": 1698
+  },
+  {
+    "date": "2026-08-14",
+    "new_deployed_contracts": 6544,
+    "distinct_contract_deployers": 1833
+  },
+  {
+    "date": "2026-08-15",
+    "new_deployed_contracts": 6646,
+    "distinct_contract_deployers": 1774
+  },
+  {
+    "date": "2026-08-16",
+    "new_deployed_contracts": 6420,
+    "distinct_contract_deployers": 1539
+  },
+  {
+    "date": "2026-08-17",
+    "new_deployed_contracts": 29004,
+    "distinct_contract_deployers": 1630
+  },
+  {
+    "date": "2026-08-18",
+    "new_deployed_contracts": 67497,
+    "distinct_contract_deployers": 1732
+  },
+  {
+    "date": "2026-08-19",
+    "new_deployed_contracts": 31393,
+    "distinct_contract_deployers": 1569
+  },
+  {
+    "date": "2026-08-20",
+    "new_deployed_contracts": 28673,
+    "distinct_contract_deployers": 1467
+  },
+  {
+    "date": "2026-08-21",
+    "new_deployed_contracts": 25472,
+    "distinct_contract_deployers": 1463
+  },
+  {
+    "date": "2026-08-22",
+    "new_deployed_contracts": 31106,
+    "distinct_contract_deployers": 1314
+  },
+  {
+    "date": "2026-08-23",
+    "new_deployed_contracts": 19555,
+    "distinct_contract_deployers": 1462
+  },
+  {
+    "date": "2026-08-24",
+    "new_deployed_contracts": 36913,
+    "distinct_contract_deployers": 1718
+  },
+  {
+    "date": "2026-08-25",
+    "new_deployed_contracts": 57650,
+    "distinct_contract_deployers": 1670
+  },
+  {
+    "date": "2026-08-26",
+    "new_deployed_contracts": 41028,
+    "distinct_contract_deployers": 1478
+  },
+  {
+    "date": "2026-08-27",
+    "new_deployed_contracts": 44632,
+    "distinct_contract_deployers": 1526
+  },
+  {
+    "date": "2026-08-28",
+    "new_deployed_contracts": 17331,
+    "distinct_contract_deployers": 1313
+  },
+  {
+    "date": "2026-08-29",
+    "new_deployed_contracts": 6658,
+    "distinct_contract_deployers": 1360
+  },
+  {
+    "date": "2026-08-30",
+    "new_deployed_contracts": 7649,
+    "distinct_contract_deployers": 2034
+  },
+  {
+    "date": "2026-08-31",
+    "new_deployed_contracts": 6342,
+    "distinct_contract_deployers": 1559
+  },
+  {
+    "date": "2026-09-01",
+    "new_deployed_contracts": 6550,
+    "distinct_contract_deployers": 1500
+  },
+  {
+    "date": "2026-09-02",
+    "new_deployed_contracts": 6250,
+    "distinct_contract_deployers": 1481
+  },
+  {
+    "date": "2026-09-03",
+    "new_deployed_contracts": 6350,
+    "distinct_contract_deployers": 1534
+  },
+  {
+    "date": "2026-09-04",
+    "new_deployed_contracts": 5619,
+    "distinct_contract_deployers": 1269
+  },
+  {
+    "date": "2026-09-05",
+    "new_deployed_contracts": 5611,
+    "distinct_contract_deployers": 1163
+  },
+  {
+    "date": "2026-09-06",
+    "new_deployed_contracts": 6065,
+    "distinct_contract_deployers": 1279
+  },
+  {
+    "date": "2026-09-07",
+    "new_deployed_contracts": 6721,
+    "distinct_contract_deployers": 1601
+  },
+  {
+    "date": "2026-09-08",
+    "new_deployed_contracts": 36277,
+    "distinct_contract_deployers": 1649
+  },
+  {
+    "date": "2026-09-09",
+    "new_deployed_contracts": 23156,
+    "distinct_contract_deployers": 1647
+  },
+  {
+    "date": "2026-09-10",
+    "new_deployed_contracts": 39991,
+    "distinct_contract_deployers": 2058
+  },
+  {
+    "date": "2026-09-11",
+    "new_deployed_contracts": 28475,
+    "distinct_contract_deployers": 1575
+  },
+  {
+    "date": "2026-09-12",
+    "new_deployed_contracts": 22089,
+    "distinct_contract_deployers": 1355
+  },
+  {
+    "date": "2026-09-13",
+    "new_deployed_contracts": 29864,
+    "distinct_contract_deployers": 1293
+  },
+  {
+    "date": "2026-09-14",
+    "new_deployed_contracts": 30987,
+    "distinct_contract_deployers": 1332
+  },
+  {
+    "date": "2026-09-15",
+    "new_deployed_contracts": 50911,
+    "distinct_contract_deployers": 1440
+  }
+]

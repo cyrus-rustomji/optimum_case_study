@@ -1,0 +1,3117 @@
+[
+  {
+    "date": "2025-01-01",
+    "new_addresses": 12264,
+    "returning_addresses": 49956
+  },
+  {
+    "date": "2025-01-02",
+    "new_addresses": 24050,
+    "returning_addresses": 74164
+  },
+  {
+    "date": "2025-01-03",
+    "new_addresses": 14306,
+    "returning_addresses": 74229
+  },
+  {
+    "date": "2025-01-04",
+    "new_addresses": 15748,
+    "returning_addresses": 53673
+  },
+  {
+    "date": "2025-01-05",
+    "new_addresses": 17384,
+    "returning_addresses": 58226
+  },
+  {
+    "date": "2025-01-06",
+    "new_addresses": 14485,
+    "returning_addresses": 58779
+  },
+  {
+    "date": "2025-01-07",
+    "new_addresses": 16776,
+    "returning_addresses": 52660
+  },
+  {
+    "date": "2025-01-08",
+    "new_addresses": 21719,
+    "returning_addresses": 64651
+  },
+  {
+    "date": "2025-01-09",
+    "new_addresses": 15635,
+    "returning_addresses": 73126
+  },
+  {
+    "date": "2025-01-10",
+    "new_addresses": 13231,
+    "returning_addresses": 68795
+  },
+  {
+    "date": "2025-01-11",
+    "new_addresses": 13417,
+    "returning_addresses": 74200
+  },
+  {
+    "date": "2025-01-12",
+    "new_addresses": 12705,
+    "returning_addresses": 54258
+  },
+  {
+    "date": "2025-01-13",
+    "new_addresses": 20406,
+    "returning_addresses": 68583
+  },
+  {
+    "date": "2025-01-14",
+    "new_addresses": 15204,
+    "returning_addresses": 77866
+  },
+  {
+    "date": "2025-01-15",
+    "new_addresses": 11206,
+    "returning_addresses": 66079
+  },
+  {
+    "date": "2025-01-16",
+    "new_addresses": 14727,
+    "returning_addresses": 65180
+  },
+  {
+    "date": "2025-01-17",
+    "new_addresses": 14181,
+    "returning_addresses": 67303
+  },
+  {
+    "date": "2025-01-18",
+    "new_addresses": 11761,
+    "returning_addresses": 52945
+  },
+  {
+    "date": "2025-01-19",
+    "new_addresses": 15503,
+    "returning_addresses": 61384
+  },
+  {
+    "date": "2025-01-20",
+    "new_addresses": 25101,
+    "returning_addresses": 74296
+  },
+  {
+    "date": "2025-01-21",
+    "new_addresses": 19349,
+    "returning_addresses": 72928
+  },
+  {
+    "date": "2025-01-22",
+    "new_addresses": 16691,
+    "returning_addresses": 63268
+  },
+  {
+    "date": "2025-01-23",
+    "new_addresses": 16350,
+    "returning_addresses": 66185
+  },
+  {
+    "date": "2025-01-24",
+    "new_addresses": 18358,
+    "returning_addresses": 62743
+  },
+  {
+    "date": "2025-01-25",
+    "new_addresses": 19497,
+    "returning_addresses": 85268
+  },
+  {
+    "date": "2025-01-26",
+    "new_addresses": 22012,
+    "returning_addresses": 61283
+  },
+  {
+    "date": "2025-01-27",
+    "new_addresses": 19691,
+    "returning_addresses": 72045
+  },
+  {
+    "date": "2025-01-28",
+    "new_addresses": 13336,
+    "returning_addresses": 63052
+  },
+  {
+    "date": "2025-01-29",
+    "new_addresses": 14399,
+    "returning_addresses": 57439
+  },
+  {
+    "date": "2025-01-30",
+    "new_addresses": 14147,
+    "returning_addresses": 52950
+  },
+  {
+    "date": "2025-01-31",
+    "new_addresses": 13519,
+    "returning_addresses": 58500
+  },
+  {
+    "date": "2025-02-01",
+    "new_addresses": 11730,
+    "returning_addresses": 56632
+  },
+  {
+    "date": "2025-02-02",
+    "new_addresses": 13277,
+    "returning_addresses": 57085
+  },
+  {
+    "date": "2025-02-03",
+    "new_addresses": 16603,
+    "returning_addresses": 70190
+  },
+  {
+    "date": "2025-02-04",
+    "new_addresses": 16728,
+    "returning_addresses": 68178
+  },
+  {
+    "date": "2025-02-05",
+    "new_addresses": 13073,
+    "returning_addresses": 61668
+  },
+  {
+    "date": "2025-02-06",
+    "new_addresses": 12641,
+    "returning_addresses": 57360
+  },
+  {
+    "date": "2025-02-07",
+    "new_addresses": 27012,
+    "returning_addresses": 64777
+  },
+  {
+    "date": "2025-02-08",
+    "new_addresses": 31022,
+    "returning_addresses": 70904
+  },
+  {
+    "date": "2025-02-09",
+    "new_addresses": 20763,
+    "returning_addresses": 93739
+  },
+  {
+    "date": "2025-02-10",
+    "new_addresses": 24163,
+    "returning_addresses": 70754
+  },
+  {
+    "date": "2025-02-11",
+    "new_addresses": 23915,
+    "returning_addresses": 89420
+  },
+  {
+    "date": "2025-02-12",
+    "new_addresses": 17333,
+    "returning_addresses": 82019
+  },
+  {
+    "date": "2025-02-13",
+    "new_addresses": 42473,
+    "returning_addresses": 87658
+  },
+  {
+    "date": "2025-02-14",
+    "new_addresses": 23664,
+    "returning_addresses": 102761
+  },
+  {
+    "date": "2025-02-15",
+    "new_addresses": 18606,
+    "returning_addresses": 77026
+  },
+  {
+    "date": "2025-02-16",
+    "new_addresses": 19299,
+    "returning_addresses": 56822
+  },
+  {
+    "date": "2025-02-17",
+    "new_addresses": 32868,
+    "returning_addresses": 77514
+  },
+  {
+    "date": "2025-02-18",
+    "new_addresses": 35573,
+    "returning_addresses": 72312
+  },
+  {
+    "date": "2025-02-19",
+    "new_addresses": 31358,
+    "returning_addresses": 57821
+  },
+  {
+    "date": "2025-02-20",
+    "new_addresses": 25974,
+    "returning_addresses": 58796
+  },
+  {
+    "date": "2025-02-21",
+    "new_addresses": 62705,
+    "returning_addresses": 75575
+  },
+  {
+    "date": "2025-02-22",
+    "new_addresses": 61836,
+    "returning_addresses": 59060
+  },
+  {
+    "date": "2025-02-23",
+    "new_addresses": 83132,
+    "returning_addresses": 55593
+  },
+  {
+    "date": "2025-02-24",
+    "new_addresses": 22299,
+    "returning_addresses": 66631
+  },
+  {
+    "date": "2025-02-25",
+    "new_addresses": 30009,
+    "returning_addresses": 101914
+  },
+  {
+    "date": "2025-02-26",
+    "new_addresses": 31177,
+    "returning_addresses": 71688
+  },
+  {
+    "date": "2025-02-27",
+    "new_addresses": 26001,
+    "returning_addresses": 70473
+  },
+  {
+    "date": "2025-02-28",
+    "new_addresses": 35322,
+    "returning_addresses": 62946
+  },
+  {
+    "date": "2025-03-01",
+    "new_addresses": 19525,
+    "returning_addresses": 56467
+  },
+  {
+    "date": "2025-03-02",
+    "new_addresses": 18644,
+    "returning_addresses": 69578
+  },
+  {
+    "date": "2025-03-03",
+    "new_addresses": 23536,
+    "returning_addresses": 80003
+  },
+  {
+    "date": "2025-03-04",
+    "new_addresses": 19193,
+    "returning_addresses": 81146
+  },
+  {
+    "date": "2025-03-05",
+    "new_addresses": 18780,
+    "returning_addresses": 83825
+  },
+  {
+    "date": "2025-03-06",
+    "new_addresses": 19879,
+    "returning_addresses": 55552
+  },
+  {
+    "date": "2025-03-07",
+    "new_addresses": 14924,
+    "returning_addresses": 50245
+  },
+  {
+    "date": "2025-03-08",
+    "new_addresses": 13183,
+    "returning_addresses": 48012
+  },
+  {
+    "date": "2025-03-09",
+    "new_addresses": 15379,
+    "returning_addresses": 47546
+  },
+  {
+    "date": "2025-03-10",
+    "new_addresses": 15567,
+    "returning_addresses": 53974
+  },
+  {
+    "date": "2025-03-11",
+    "new_addresses": 13460,
+    "returning_addresses": 53225
+  },
+  {
+    "date": "2025-03-12",
+    "new_addresses": 11440,
+    "returning_addresses": 51497
+  },
+  {
+    "date": "2025-03-13",
+    "new_addresses": 11492,
+    "returning_addresses": 47956
+  },
+  {
+    "date": "2025-03-14",
+    "new_addresses": 13385,
+    "returning_addresses": 46211
+  },
+  {
+    "date": "2025-03-15",
+    "new_addresses": 10451,
+    "returning_addresses": 44814
+  },
+  {
+    "date": "2025-03-16",
+    "new_addresses": 10630,
+    "returning_addresses": 46505
+  },
+  {
+    "date": "2025-03-17",
+    "new_addresses": 13060,
+    "returning_addresses": 52458
+  },
+  {
+    "date": "2025-03-18",
+    "new_addresses": 17102,
+    "returning_addresses": 54747
+  },
+  {
+    "date": "2025-03-19",
+    "new_addresses": 16666,
+    "returning_addresses": 56242
+  },
+  {
+    "date": "2025-03-20",
+    "new_addresses": 12963,
+    "returning_addresses": 55983
+  },
+  {
+    "date": "2025-03-21",
+    "new_addresses": 10868,
+    "returning_addresses": 51409
+  },
+  {
+    "date": "2025-03-22",
+    "new_addresses": 8217,
+    "returning_addresses": 46079
+  },
+  {
+    "date": "2025-03-23",
+    "new_addresses": 12081,
+    "returning_addresses": 45443
+  },
+  {
+    "date": "2025-03-24",
+    "new_addresses": 13781,
+    "returning_addresses": 55315
+  },
+  {
+    "date": "2025-03-25",
+    "new_addresses": 12359,
+    "returning_addresses": 52625
+  },
+  {
+    "date": "2025-03-26",
+    "new_addresses": 10353,
+    "returning_addresses": 49347
+  },
+  {
+    "date": "2025-03-27",
+    "new_addresses": 16508,
+    "returning_addresses": 53842
+  },
+  {
+    "date": "2025-03-28",
+    "new_addresses": 11011,
+    "returning_addresses": 48233
+  },
+  {
+    "date": "2025-03-29",
+    "new_addresses": 9415,
+    "returning_addresses": 48323
+  },
+  {
+    "date": "2025-03-30",
+    "new_addresses": 8879,
+    "returning_addresses": 47056
+  },
+  {
+    "date": "2025-03-31",
+    "new_addresses": 9177,
+    "returning_addresses": 56178
+  },
+  {
+    "date": "2025-04-01",
+    "new_addresses": 9749,
+    "returning_addresses": 49319
+  },
+  {
+    "date": "2025-04-02",
+    "new_addresses": 8935,
+    "returning_addresses": 49392
+  },
+  {
+    "date": "2025-04-03",
+    "new_addresses": 10814,
+    "returning_addresses": 49428
+  },
+  {
+    "date": "2025-04-04",
+    "new_addresses": 7072,
+    "returning_addresses": 45852
+  },
+  {
+    "date": "2025-04-05",
+    "new_addresses": 7684,
+    "returning_addresses": 45662
+  },
+  {
+    "date": "2025-04-06",
+    "new_addresses": 6868,
+    "returning_addresses": 45858
+  },
+  {
+    "date": "2025-04-07",
+    "new_addresses": 10716,
+    "returning_addresses": 49443
+  },
+  {
+    "date": "2025-04-08",
+    "new_addresses": 13649,
+    "returning_addresses": 51189
+  },
+  {
+    "date": "2025-04-09",
+    "new_addresses": 18120,
+    "returning_addresses": 54766
+  },
+  {
+    "date": "2025-04-10",
+    "new_addresses": 16193,
+    "returning_addresses": 57653
+  },
+  {
+    "date": "2025-04-11",
+    "new_addresses": 14296,
+    "returning_addresses": 53134
+  },
+  {
+    "date": "2025-04-12",
+    "new_addresses": 35427,
+    "returning_addresses": 54539
+  },
+  {
+    "date": "2025-04-13",
+    "new_addresses": 31833,
+    "returning_addresses": 52266
+  },
+  {
+    "date": "2025-04-14",
+    "new_addresses": 20936,
+    "returning_addresses": 53788
+  },
+  {
+    "date": "2025-04-15",
+    "new_addresses": 40769,
+    "returning_addresses": 286350
+  },
+  {
+    "date": "2025-04-16",
+    "new_addresses": 22254,
+    "returning_addresses": 80960
+  },
+  {
+    "date": "2025-04-17",
+    "new_addresses": 19967,
+    "returning_addresses": 65734
+  },
+  {
+    "date": "2025-04-18",
+    "new_addresses": 27179,
+    "returning_addresses": 66805
+  },
+  {
+    "date": "2025-04-19",
+    "new_addresses": 38915,
+    "returning_addresses": 57681
+  },
+  {
+    "date": "2025-04-20",
+    "new_addresses": 23918,
+    "returning_addresses": 54594
+  },
+  {
+    "date": "2025-04-21",
+    "new_addresses": 28286,
+    "returning_addresses": 104478
+  },
+  {
+    "date": "2025-04-22",
+    "new_addresses": 19747,
+    "returning_addresses": 75948
+  },
+  {
+    "date": "2025-04-23",
+    "new_addresses": 22822,
+    "returning_addresses": 74369
+  },
+  {
+    "date": "2025-04-24",
+    "new_addresses": 25081,
+    "returning_addresses": 73503
+  },
+  {
+    "date": "2025-04-25",
+    "new_addresses": 67299,
+    "returning_addresses": 95457
+  },
+  {
+    "date": "2025-04-26",
+    "new_addresses": 28727,
+    "returning_addresses": 88626
+  },
+  {
+    "date": "2025-04-27",
+    "new_addresses": 45805,
+    "returning_addresses": 76104
+  },
+  {
+    "date": "2025-04-28",
+    "new_addresses": 45390,
+    "returning_addresses": 82165
+  },
+  {
+    "date": "2025-04-29",
+    "new_addresses": 35469,
+    "returning_addresses": 81956
+  },
+  {
+    "date": "2025-04-30",
+    "new_addresses": 21371,
+    "returning_addresses": 85682
+  },
+  {
+    "date": "2025-05-01",
+    "new_addresses": 33441,
+    "returning_addresses": 88894
+  },
+  {
+    "date": "2025-05-02",
+    "new_addresses": 29901,
+    "returning_addresses": 88568
+  },
+  {
+    "date": "2025-05-03",
+    "new_addresses": 28273,
+    "returning_addresses": 72016
+  },
+  {
+    "date": "2025-05-04",
+    "new_addresses": 29714,
+    "returning_addresses": 68387
+  },
+  {
+    "date": "2025-05-05",
+    "new_addresses": 30004,
+    "returning_addresses": 71481
+  },
+  {
+    "date": "2025-05-06",
+    "new_addresses": 46681,
+    "returning_addresses": 112475
+  },
+  {
+    "date": "2025-05-07",
+    "new_addresses": 28449,
+    "returning_addresses": 111084
+  },
+  {
+    "date": "2025-05-08",
+    "new_addresses": 35413,
+    "returning_addresses": 145393
+  },
+  {
+    "date": "2025-05-09",
+    "new_addresses": 117779,
+    "returning_addresses": 105561
+  },
+  {
+    "date": "2025-05-10",
+    "new_addresses": 99510,
+    "returning_addresses": 83277
+  },
+  {
+    "date": "2025-05-11",
+    "new_addresses": 57612,
+    "returning_addresses": 83455
+  },
+  {
+    "date": "2025-05-12",
+    "new_addresses": 64157,
+    "returning_addresses": 79841
+  },
+  {
+    "date": "2025-05-13",
+    "new_addresses": 30259,
+    "returning_addresses": 83639
+  },
+  {
+    "date": "2025-05-14",
+    "new_addresses": 18865,
+    "returning_addresses": 91136
+  },
+  {
+    "date": "2025-05-15",
+    "new_addresses": 22692,
+    "returning_addresses": 92189
+  },
+  {
+    "date": "2025-05-16",
+    "new_addresses": 25404,
+    "returning_addresses": 80675
+  },
+  {
+    "date": "2025-05-17",
+    "new_addresses": 22729,
+    "returning_addresses": 75288
+  },
+  {
+    "date": "2025-05-18",
+    "new_addresses": 21580,
+    "returning_addresses": 80376
+  },
+  {
+    "date": "2025-05-19",
+    "new_addresses": 41597,
+    "returning_addresses": 99373
+  },
+  {
+    "date": "2025-05-20",
+    "new_addresses": 51087,
+    "returning_addresses": 116133
+  },
+  {
+    "date": "2025-05-21",
+    "new_addresses": 14659,
+    "returning_addresses": 86445
+  },
+  {
+    "date": "2025-05-22",
+    "new_addresses": 34206,
+    "returning_addresses": 80226
+  },
+  {
+    "date": "2025-05-23",
+    "new_addresses": 41418,
+    "returning_addresses": 81757
+  },
+  {
+    "date": "2025-05-24",
+    "new_addresses": 42953,
+    "returning_addresses": 84807
+  },
+  {
+    "date": "2025-05-25",
+    "new_addresses": 62771,
+    "returning_addresses": 77269
+  },
+  {
+    "date": "2025-05-26",
+    "new_addresses": 65106,
+    "returning_addresses": 94540
+  },
+  {
+    "date": "2025-05-27",
+    "new_addresses": 82631,
+    "returning_addresses": 89656
+  },
+  {
+    "date": "2025-05-28",
+    "new_addresses": 41245,
+    "returning_addresses": 68260
+  },
+  {
+    "date": "2025-05-29",
+    "new_addresses": 60548,
+    "returning_addresses": 84887
+  },
+  {
+    "date": "2025-05-30",
+    "new_addresses": 93368,
+    "returning_addresses": 83998
+  },
+  {
+    "date": "2025-05-31",
+    "new_addresses": 76825,
+    "returning_addresses": 95135
+  },
+  {
+    "date": "2025-06-01",
+    "new_addresses": 32123,
+    "returning_addresses": 60461
+  },
+  {
+    "date": "2025-06-02",
+    "new_addresses": 47401,
+    "returning_addresses": 60917
+  },
+  {
+    "date": "2025-06-03",
+    "new_addresses": 27857,
+    "returning_addresses": 68654
+  },
+  {
+    "date": "2025-06-04",
+    "new_addresses": 46464,
+    "returning_addresses": 61432
+  },
+  {
+    "date": "2025-06-05",
+    "new_addresses": 44600,
+    "returning_addresses": 53202
+  },
+  {
+    "date": "2025-06-06",
+    "new_addresses": 35714,
+    "returning_addresses": 59298
+  },
+  {
+    "date": "2025-06-07",
+    "new_addresses": 37424,
+    "returning_addresses": 68593
+  },
+  {
+    "date": "2025-06-08",
+    "new_addresses": 55870,
+    "returning_addresses": 46507
+  },
+  {
+    "date": "2025-06-09",
+    "new_addresses": 46516,
+    "returning_addresses": 60671
+  },
+  {
+    "date": "2025-06-10",
+    "new_addresses": 17811,
+    "returning_addresses": 60864
+  },
+  {
+    "date": "2025-06-11",
+    "new_addresses": 18113,
+    "returning_addresses": 58040
+  },
+  {
+    "date": "2025-06-12",
+    "new_addresses": 44087,
+    "returning_addresses": 55095
+  },
+  {
+    "date": "2025-06-13",
+    "new_addresses": 26378,
+    "returning_addresses": 54191
+  },
+  {
+    "date": "2025-06-14",
+    "new_addresses": 62856,
+    "returning_addresses": 61241
+  },
+  {
+    "date": "2025-06-15",
+    "new_addresses": 67873,
+    "returning_addresses": 68349
+  },
+  {
+    "date": "2025-06-16",
+    "new_addresses": 24851,
+    "returning_addresses": 54390
+  },
+  {
+    "date": "2025-06-17",
+    "new_addresses": 75910,
+    "returning_addresses": 82779
+  },
+  {
+    "date": "2025-06-18",
+    "new_addresses": 84438,
+    "returning_addresses": 84110
+  },
+  {
+    "date": "2025-06-19",
+    "new_addresses": 32878,
+    "returning_addresses": 62108
+  },
+  {
+    "date": "2025-06-20",
+    "new_addresses": 10228,
+    "returning_addresses": 49509
+  },
+  {
+    "date": "2025-06-21",
+    "new_addresses": 10007,
+    "returning_addresses": 60670
+  },
+  {
+    "date": "2025-06-22",
+    "new_addresses": 9802,
+    "returning_addresses": 51201
+  },
+  {
+    "date": "2025-06-23",
+    "new_addresses": 12929,
+    "returning_addresses": 54260
+  },
+  {
+    "date": "2025-06-24",
+    "new_addresses": 45404,
+    "returning_addresses": 56842
+  },
+  {
+    "date": "2025-06-25",
+    "new_addresses": 55124,
+    "returning_addresses": 50276
+  },
+  {
+    "date": "2025-06-26",
+    "new_addresses": 74387,
+    "returning_addresses": 52906
+  },
+  {
+    "date": "2025-06-27",
+    "new_addresses": 88451,
+    "returning_addresses": 65660
+  },
+  {
+    "date": "2025-06-28",
+    "new_addresses": 76114,
+    "returning_addresses": 42399
+  },
+  {
+    "date": "2025-06-29",
+    "new_addresses": 67352,
+    "returning_addresses": 43678
+  },
+  {
+    "date": "2025-06-30",
+    "new_addresses": 98339,
+    "returning_addresses": 49286
+  },
+  {
+    "date": "2025-07-01",
+    "new_addresses": 79275,
+    "returning_addresses": 63736
+  },
+  {
+    "date": "2025-07-02",
+    "new_addresses": 60624,
+    "returning_addresses": 64233
+  },
+  {
+    "date": "2025-07-03",
+    "new_addresses": 48400,
+    "returning_addresses": 49230
+  },
+  {
+    "date": "2025-07-04",
+    "new_addresses": 35033,
+    "returning_addresses": 55046
+  },
+  {
+    "date": "2025-07-05",
+    "new_addresses": 31913,
+    "returning_addresses": 60125
+  },
+  {
+    "date": "2025-07-06",
+    "new_addresses": 19783,
+    "returning_addresses": 55593
+  },
+  {
+    "date": "2025-07-07",
+    "new_addresses": 12026,
+    "returning_addresses": 54651
+  },
+  {
+    "date": "2025-07-08",
+    "new_addresses": 15313,
+    "returning_addresses": 63136
+  },
+  {
+    "date": "2025-07-09",
+    "new_addresses": 42385,
+    "returning_addresses": 68263
+  },
+  {
+    "date": "2025-07-10",
+    "new_addresses": 46357,
+    "returning_addresses": 60279
+  },
+  {
+    "date": "2025-07-11",
+    "new_addresses": 51762,
+    "returning_addresses": 53103
+  },
+  {
+    "date": "2025-07-12",
+    "new_addresses": 25425,
+    "returning_addresses": 50004
+  },
+  {
+    "date": "2025-07-13",
+    "new_addresses": 13642,
+    "returning_addresses": 45106
+  },
+  {
+    "date": "2025-07-14",
+    "new_addresses": 12749,
+    "returning_addresses": 52978
+  },
+  {
+    "date": "2025-07-15",
+    "new_addresses": 23050,
+    "returning_addresses": 59967
+  },
+  {
+    "date": "2025-07-16",
+    "new_addresses": 32918,
+    "returning_addresses": 61220
+  },
+  {
+    "date": "2025-07-17",
+    "new_addresses": 24815,
+    "returning_addresses": 62951
+  },
+  {
+    "date": "2025-07-18",
+    "new_addresses": 33146,
+    "returning_addresses": 68310
+  },
+  {
+    "date": "2025-07-19",
+    "new_addresses": 34773,
+    "returning_addresses": 55422
+  },
+  {
+    "date": "2025-07-20",
+    "new_addresses": 45708,
+    "returning_addresses": 58220
+  },
+  {
+    "date": "2025-07-21",
+    "new_addresses": 35697,
+    "returning_addresses": 66739
+  },
+  {
+    "date": "2025-07-22",
+    "new_addresses": 64454,
+    "returning_addresses": 68569
+  },
+  {
+    "date": "2025-07-23",
+    "new_addresses": 17993,
+    "returning_addresses": 64366
+  },
+  {
+    "date": "2025-07-24",
+    "new_addresses": 24950,
+    "returning_addresses": 54240
+  },
+  {
+    "date": "2025-07-25",
+    "new_addresses": 26752,
+    "returning_addresses": 48921
+  },
+  {
+    "date": "2025-07-26",
+    "new_addresses": 11901,
+    "returning_addresses": 45925
+  },
+  {
+    "date": "2025-07-27",
+    "new_addresses": 8852,
+    "returning_addresses": 51190
+  },
+  {
+    "date": "2025-07-28",
+    "new_addresses": 12209,
+    "returning_addresses": 58958
+  },
+  {
+    "date": "2025-07-29",
+    "new_addresses": 9548,
+    "returning_addresses": 49638
+  },
+  {
+    "date": "2025-07-30",
+    "new_addresses": 10718,
+    "returning_addresses": 50470
+  },
+  {
+    "date": "2025-07-31",
+    "new_addresses": 13780,
+    "returning_addresses": 54832
+  },
+  {
+    "date": "2025-08-01",
+    "new_addresses": 14568,
+    "returning_addresses": 51865
+  },
+  {
+    "date": "2025-08-02",
+    "new_addresses": 8050,
+    "returning_addresses": 40949
+  },
+  {
+    "date": "2025-08-03",
+    "new_addresses": 8399,
+    "returning_addresses": 44265
+  },
+  {
+    "date": "2025-08-04",
+    "new_addresses": 17342,
+    "returning_addresses": 43470
+  },
+  {
+    "date": "2025-08-05",
+    "new_addresses": 13247,
+    "returning_addresses": 49719
+  },
+  {
+    "date": "2025-08-06",
+    "new_addresses": 29579,
+    "returning_addresses": 58658
+  },
+  {
+    "date": "2025-08-07",
+    "new_addresses": 12449,
+    "returning_addresses": 43464
+  },
+  {
+    "date": "2025-08-08",
+    "new_addresses": 13356,
+    "returning_addresses": 48484
+  },
+  {
+    "date": "2025-08-09",
+    "new_addresses": 28524,
+    "returning_addresses": 68612
+  },
+  {
+    "date": "2025-08-10",
+    "new_addresses": 22144,
+    "returning_addresses": 106750
+  },
+  {
+    "date": "2025-08-11",
+    "new_addresses": 13611,
+    "returning_addresses": 55894
+  },
+  {
+    "date": "2025-08-12",
+    "new_addresses": 18291,
+    "returning_addresses": 64116
+  },
+  {
+    "date": "2025-08-13",
+    "new_addresses": 12669,
+    "returning_addresses": 68053
+  },
+  {
+    "date": "2025-08-14",
+    "new_addresses": 11891,
+    "returning_addresses": 65696
+  },
+  {
+    "date": "2025-08-15",
+    "new_addresses": 10947,
+    "returning_addresses": 56978
+  },
+  {
+    "date": "2025-08-16",
+    "new_addresses": 14782,
+    "returning_addresses": 60026
+  },
+  {
+    "date": "2025-08-17",
+    "new_addresses": 20456,
+    "returning_addresses": 48083
+  },
+  {
+    "date": "2025-08-18",
+    "new_addresses": 27819,
+    "returning_addresses": 53819
+  },
+  {
+    "date": "2025-08-19",
+    "new_addresses": 11388,
+    "returning_addresses": 44062
+  },
+  {
+    "date": "2025-08-20",
+    "new_addresses": 18483,
+    "returning_addresses": 44345
+  },
+  {
+    "date": "2025-08-21",
+    "new_addresses": 67398,
+    "returning_addresses": 94367
+  },
+  {
+    "date": "2025-08-22",
+    "new_addresses": 53101,
+    "returning_addresses": 61981
+  },
+  {
+    "date": "2025-08-23",
+    "new_addresses": 16445,
+    "returning_addresses": 50931
+  },
+  {
+    "date": "2025-08-24",
+    "new_addresses": 18767,
+    "returning_addresses": 48915
+  },
+  {
+    "date": "2025-08-25",
+    "new_addresses": 16987,
+    "returning_addresses": 50296
+  },
+  {
+    "date": "2025-08-26",
+    "new_addresses": 13042,
+    "returning_addresses": 58253
+  },
+  {
+    "date": "2025-08-27",
+    "new_addresses": 13457,
+    "returning_addresses": 49052
+  },
+  {
+    "date": "2025-08-28",
+    "new_addresses": 12960,
+    "returning_addresses": 95536
+  },
+  {
+    "date": "2025-08-29",
+    "new_addresses": 13935,
+    "returning_addresses": 79612
+  },
+  {
+    "date": "2025-08-30",
+    "new_addresses": 6068,
+    "returning_addresses": 40039
+  },
+  {
+    "date": "2025-08-31",
+    "new_addresses": 9683,
+    "returning_addresses": 40742
+  },
+  {
+    "date": "2025-09-01",
+    "new_addresses": 9703,
+    "returning_addresses": 42405
+  },
+  {
+    "date": "2025-09-02",
+    "new_addresses": 9744,
+    "returning_addresses": 44578
+  },
+  {
+    "date": "2025-09-03",
+    "new_addresses": 10360,
+    "returning_addresses": 51259
+  },
+  {
+    "date": "2025-09-04",
+    "new_addresses": 22464,
+    "returning_addresses": 59957
+  },
+  {
+    "date": "2025-09-05",
+    "new_addresses": 18588,
+    "returning_addresses": 57344
+  },
+  {
+    "date": "2025-09-06",
+    "new_addresses": 12180,
+    "returning_addresses": 50905
+  },
+  {
+    "date": "2025-09-07",
+    "new_addresses": 13822,
+    "returning_addresses": 50089
+  },
+  {
+    "date": "2025-09-08",
+    "new_addresses": 14517,
+    "returning_addresses": 50311
+  },
+  {
+    "date": "2025-09-09",
+    "new_addresses": 15022,
+    "returning_addresses": 79618
+  },
+  {
+    "date": "2025-09-10",
+    "new_addresses": 28304,
+    "returning_addresses": 82527
+  },
+  {
+    "date": "2025-09-11",
+    "new_addresses": 21040,
+    "returning_addresses": 85891
+  },
+  {
+    "date": "2025-09-12",
+    "new_addresses": 23084,
+    "returning_addresses": 79510
+  },
+  {
+    "date": "2025-09-13",
+    "new_addresses": 17263,
+    "returning_addresses": 69289
+  },
+  {
+    "date": "2025-09-14",
+    "new_addresses": 21207,
+    "returning_addresses": 63219
+  },
+  {
+    "date": "2025-09-15",
+    "new_addresses": 19879,
+    "returning_addresses": 63218
+  },
+  {
+    "date": "2025-09-16",
+    "new_addresses": 13823,
+    "returning_addresses": 55550
+  },
+  {
+    "date": "2025-09-17",
+    "new_addresses": 12673,
+    "returning_addresses": 47384
+  },
+  {
+    "date": "2025-09-18",
+    "new_addresses": 23441,
+    "returning_addresses": 55515
+  },
+  {
+    "date": "2025-09-19",
+    "new_addresses": 17818,
+    "returning_addresses": 53056
+  },
+  {
+    "date": "2025-09-20",
+    "new_addresses": 11468,
+    "returning_addresses": 55463
+  },
+  {
+    "date": "2025-09-21",
+    "new_addresses": 29805,
+    "returning_addresses": 46837
+  },
+  {
+    "date": "2025-09-22",
+    "new_addresses": 39765,
+    "returning_addresses": 51154
+  },
+  {
+    "date": "2025-09-23",
+    "new_addresses": 46576,
+    "returning_addresses": 54458
+  },
+  {
+    "date": "2025-09-24",
+    "new_addresses": 29269,
+    "returning_addresses": 58749
+  },
+  {
+    "date": "2025-09-25",
+    "new_addresses": 26382,
+    "returning_addresses": 50041
+  },
+  {
+    "date": "2025-09-26",
+    "new_addresses": 18951,
+    "returning_addresses": 44143
+  },
+  {
+    "date": "2025-09-27",
+    "new_addresses": 7744,
+    "returning_addresses": 35097
+  },
+  {
+    "date": "2025-09-28",
+    "new_addresses": 8684,
+    "returning_addresses": 40230
+  },
+  {
+    "date": "2025-09-29",
+    "new_addresses": 17160,
+    "returning_addresses": 41141
+  },
+  {
+    "date": "2025-09-30",
+    "new_addresses": 22845,
+    "returning_addresses": 47570
+  },
+  {
+    "date": "2025-10-01",
+    "new_addresses": 22071,
+    "returning_addresses": 38537
+  },
+  {
+    "date": "2025-10-02",
+    "new_addresses": 37120,
+    "returning_addresses": 60063
+  },
+  {
+    "date": "2025-10-03",
+    "new_addresses": 23897,
+    "returning_addresses": 32663
+  },
+  {
+    "date": "2025-10-04",
+    "new_addresses": 28725,
+    "returning_addresses": 29377
+  },
+  {
+    "date": "2025-10-05",
+    "new_addresses": 11618,
+    "returning_addresses": 33042
+  },
+  {
+    "date": "2025-10-06",
+    "new_addresses": 12502,
+    "returning_addresses": 36799
+  },
+  {
+    "date": "2025-10-07",
+    "new_addresses": 50146,
+    "returning_addresses": 48673
+  },
+  {
+    "date": "2025-10-08",
+    "new_addresses": 12793,
+    "returning_addresses": 39051
+  },
+  {
+    "date": "2025-10-09",
+    "new_addresses": 66494,
+    "returning_addresses": 183171
+  },
+  {
+    "date": "2025-10-10",
+    "new_addresses": 39434,
+    "returning_addresses": 136959
+  },
+  {
+    "date": "2025-10-11",
+    "new_addresses": 24774,
+    "returning_addresses": 37178
+  },
+  {
+    "date": "2025-10-12",
+    "new_addresses": 9816,
+    "returning_addresses": 41019
+  },
+  {
+    "date": "2025-10-13",
+    "new_addresses": 16195,
+    "returning_addresses": 37319
+  },
+  {
+    "date": "2025-10-14",
+    "new_addresses": 16032,
+    "returning_addresses": 43506
+  },
+  {
+    "date": "2025-10-15",
+    "new_addresses": 11830,
+    "returning_addresses": 53151
+  },
+  {
+    "date": "2025-10-16",
+    "new_addresses": 11208,
+    "returning_addresses": 45991
+  },
+  {
+    "date": "2025-10-17",
+    "new_addresses": 7247,
+    "returning_addresses": 38106
+  },
+  {
+    "date": "2025-10-18",
+    "new_addresses": 5814,
+    "returning_addresses": 38679
+  },
+  {
+    "date": "2025-10-19",
+    "new_addresses": 7604,
+    "returning_addresses": 30389
+  },
+  {
+    "date": "2025-10-20",
+    "new_addresses": 11894,
+    "returning_addresses": 30848
+  },
+  {
+    "date": "2025-10-21",
+    "new_addresses": 5472,
+    "returning_addresses": 33896
+  },
+  {
+    "date": "2025-10-22",
+    "new_addresses": 6655,
+    "returning_addresses": 40288
+  },
+  {
+    "date": "2025-10-23",
+    "new_addresses": 4642,
+    "returning_addresses": 32601
+  },
+  {
+    "date": "2025-10-24",
+    "new_addresses": 6186,
+    "returning_addresses": 31397
+  },
+  {
+    "date": "2025-10-25",
+    "new_addresses": 4196,
+    "returning_addresses": 27338
+  },
+  {
+    "date": "2025-10-26",
+    "new_addresses": 5030,
+    "returning_addresses": 33985
+  },
+  {
+    "date": "2025-10-27",
+    "new_addresses": 5945,
+    "returning_addresses": 34759
+  },
+  {
+    "date": "2025-10-28",
+    "new_addresses": 6168,
+    "returning_addresses": 38000
+  },
+  {
+    "date": "2025-10-29",
+    "new_addresses": 7154,
+    "returning_addresses": 37259
+  },
+  {
+    "date": "2025-10-30",
+    "new_addresses": 9815,
+    "returning_addresses": 42368
+  },
+  {
+    "date": "2025-10-31",
+    "new_addresses": 7056,
+    "returning_addresses": 30984
+  },
+  {
+    "date": "2025-11-01",
+    "new_addresses": 5106,
+    "returning_addresses": 27479
+  },
+  {
+    "date": "2025-11-02",
+    "new_addresses": 4128,
+    "returning_addresses": 33380
+  },
+  {
+    "date": "2025-11-03",
+    "new_addresses": 7178,
+    "returning_addresses": 31600
+  },
+  {
+    "date": "2025-11-04",
+    "new_addresses": 6475,
+    "returning_addresses": 32046
+  },
+  {
+    "date": "2025-11-05",
+    "new_addresses": 6411,
+    "returning_addresses": 29400
+  },
+  {
+    "date": "2025-11-06",
+    "new_addresses": 11277,
+    "returning_addresses": 27642
+  },
+  {
+    "date": "2025-11-07",
+    "new_addresses": 12062,
+    "returning_addresses": 26949
+  },
+  {
+    "date": "2025-11-08",
+    "new_addresses": 11494,
+    "returning_addresses": 27543
+  },
+  {
+    "date": "2025-11-09",
+    "new_addresses": 8203,
+    "returning_addresses": 25633
+  },
+  {
+    "date": "2025-11-10",
+    "new_addresses": 12801,
+    "returning_addresses": 29368
+  },
+  {
+    "date": "2025-11-11",
+    "new_addresses": 23934,
+    "returning_addresses": 37984
+  },
+  {
+    "date": "2025-11-12",
+    "new_addresses": 8075,
+    "returning_addresses": 37903
+  },
+  {
+    "date": "2025-11-13",
+    "new_addresses": 6524,
+    "returning_addresses": 41642
+  },
+  {
+    "date": "2025-11-14",
+    "new_addresses": 5799,
+    "returning_addresses": 33977
+  },
+  {
+    "date": "2025-11-15",
+    "new_addresses": 6776,
+    "returning_addresses": 29676
+  },
+  {
+    "date": "2025-11-16",
+    "new_addresses": 8158,
+    "returning_addresses": 25788
+  },
+  {
+    "date": "2025-11-17",
+    "new_addresses": 20764,
+    "returning_addresses": 32897
+  },
+  {
+    "date": "2025-11-18",
+    "new_addresses": 5340,
+    "returning_addresses": 25606
+  },
+  {
+    "date": "2025-11-19",
+    "new_addresses": 8837,
+    "returning_addresses": 46330
+  },
+  {
+    "date": "2025-11-20",
+    "new_addresses": 68757,
+    "returning_addresses": 43321
+  },
+  {
+    "date": "2025-11-21",
+    "new_addresses": 62330,
+    "returning_addresses": 39082
+  },
+  {
+    "date": "2025-11-22",
+    "new_addresses": 81137,
+    "returning_addresses": 30477
+  },
+  {
+    "date": "2025-11-23",
+    "new_addresses": 11549,
+    "returning_addresses": 21817
+  },
+  {
+    "date": "2025-11-24",
+    "new_addresses": 6726,
+    "returning_addresses": 24613
+  },
+  {
+    "date": "2025-11-25",
+    "new_addresses": 7583,
+    "returning_addresses": 23936
+  },
+  {
+    "date": "2025-11-26",
+    "new_addresses": 8532,
+    "returning_addresses": 24607
+  },
+  {
+    "date": "2025-11-27",
+    "new_addresses": 7986,
+    "returning_addresses": 25019
+  },
+  {
+    "date": "2025-11-28",
+    "new_addresses": 6652,
+    "returning_addresses": 21271
+  },
+  {
+    "date": "2025-11-29",
+    "new_addresses": 11388,
+    "returning_addresses": 17042
+  },
+  {
+    "date": "2025-11-30",
+    "new_addresses": 5022,
+    "returning_addresses": 18247
+  },
+  {
+    "date": "2025-12-01",
+    "new_addresses": 5463,
+    "returning_addresses": 25528
+  },
+  {
+    "date": "2025-12-02",
+    "new_addresses": 7946,
+    "returning_addresses": 27233
+  },
+  {
+    "date": "2025-12-03",
+    "new_addresses": 4006,
+    "returning_addresses": 24057
+  },
+  {
+    "date": "2025-12-04",
+    "new_addresses": 4654,
+    "returning_addresses": 26074
+  },
+  {
+    "date": "2025-12-05",
+    "new_addresses": 3475,
+    "returning_addresses": 20070
+  },
+  {
+    "date": "2025-12-06",
+    "new_addresses": 3939,
+    "returning_addresses": 18798
+  },
+  {
+    "date": "2025-12-07",
+    "new_addresses": 3192,
+    "returning_addresses": 19441
+  },
+  {
+    "date": "2025-12-08",
+    "new_addresses": 5161,
+    "returning_addresses": 20774
+  },
+  {
+    "date": "2025-12-09",
+    "new_addresses": 4471,
+    "returning_addresses": 22709
+  },
+  {
+    "date": "2025-12-10",
+    "new_addresses": 4570,
+    "returning_addresses": 21801
+  },
+  {
+    "date": "2025-12-11",
+    "new_addresses": 7011,
+    "returning_addresses": 23683
+  },
+  {
+    "date": "2025-12-12",
+    "new_addresses": 4202,
+    "returning_addresses": 22744
+  },
+  {
+    "date": "2025-12-13",
+    "new_addresses": 9269,
+    "returning_addresses": 24930
+  },
+  {
+    "date": "2025-12-14",
+    "new_addresses": 3898,
+    "returning_addresses": 19347
+  },
+  {
+    "date": "2025-12-15",
+    "new_addresses": 5266,
+    "returning_addresses": 26800
+  },
+  {
+    "date": "2025-12-16",
+    "new_addresses": 11207,
+    "returning_addresses": 25256
+  },
+  {
+    "date": "2025-12-17",
+    "new_addresses": 5937,
+    "returning_addresses": 21566
+  },
+  {
+    "date": "2025-12-18",
+    "new_addresses": 5601,
+    "returning_addresses": 22502
+  },
+  {
+    "date": "2025-12-19",
+    "new_addresses": 6718,
+    "returning_addresses": 28994
+  },
+  {
+    "date": "2025-12-20",
+    "new_addresses": 5495,
+    "returning_addresses": 20190
+  },
+  {
+    "date": "2025-12-21",
+    "new_addresses": 3350,
+    "returning_addresses": 20598
+  },
+  {
+    "date": "2025-12-22",
+    "new_addresses": 5812,
+    "returning_addresses": 21487
+  },
+  {
+    "date": "2025-12-23",
+    "new_addresses": 5118,
+    "returning_addresses": 19487
+  },
+  {
+    "date": "2025-12-24",
+    "new_addresses": 6394,
+    "returning_addresses": 20891
+  },
+  {
+    "date": "2025-12-25",
+    "new_addresses": 9094,
+    "returning_addresses": 25882
+  },
+  {
+    "date": "2025-12-26",
+    "new_addresses": 8513,
+    "returning_addresses": 24016
+  },
+  {
+    "date": "2025-12-27",
+    "new_addresses": 3664,
+    "returning_addresses": 23097
+  },
+  {
+    "date": "2025-12-28",
+    "new_addresses": 3757,
+    "returning_addresses": 23527
+  },
+  {
+    "date": "2025-12-29",
+    "new_addresses": 3387,
+    "returning_addresses": 23518
+  },
+  {
+    "date": "2025-12-30",
+    "new_addresses": 5708,
+    "returning_addresses": 18956
+  },
+  {
+    "date": "2025-12-31",
+    "new_addresses": 4905,
+    "returning_addresses": 19922
+  },
+  {
+    "date": "2026-01-01",
+    "new_addresses": 3204,
+    "returning_addresses": 17496
+  },
+  {
+    "date": "2026-01-02",
+    "new_addresses": 4559,
+    "returning_addresses": 19364
+  },
+  {
+    "date": "2026-01-03",
+    "new_addresses": 8922,
+    "returning_addresses": 23767
+  },
+  {
+    "date": "2026-01-04",
+    "new_addresses": 6924,
+    "returning_addresses": 17049
+  },
+  {
+    "date": "2026-01-05",
+    "new_addresses": 6752,
+    "returning_addresses": 20902
+  },
+  {
+    "date": "2026-01-06",
+    "new_addresses": 10759,
+    "returning_addresses": 72586
+  },
+  {
+    "date": "2026-01-07",
+    "new_addresses": 19323,
+    "returning_addresses": 96325
+  },
+  {
+    "date": "2026-01-08",
+    "new_addresses": 17475,
+    "returning_addresses": 53906
+  },
+  {
+    "date": "2026-01-09",
+    "new_addresses": 19775,
+    "returning_addresses": 44298
+  },
+  {
+    "date": "2026-01-10",
+    "new_addresses": 16558,
+    "returning_addresses": 47777
+  },
+  {
+    "date": "2026-01-11",
+    "new_addresses": 16582,
+    "returning_addresses": 17669
+  },
+  {
+    "date": "2026-01-12",
+    "new_addresses": 10673,
+    "returning_addresses": 36457
+  },
+  {
+    "date": "2026-01-13",
+    "new_addresses": 7597,
+    "returning_addresses": 44676
+  },
+  {
+    "date": "2026-01-14",
+    "new_addresses": 9171,
+    "returning_addresses": 47535
+  },
+  {
+    "date": "2026-01-15",
+    "new_addresses": 4571,
+    "returning_addresses": 21190
+  },
+  {
+    "date": "2026-01-16",
+    "new_addresses": 8941,
+    "returning_addresses": 17794
+  },
+  {
+    "date": "2026-01-17",
+    "new_addresses": 20125,
+    "returning_addresses": 19991
+  },
+  {
+    "date": "2026-01-18",
+    "new_addresses": 9977,
+    "returning_addresses": 22671
+  },
+  {
+    "date": "2026-01-19",
+    "new_addresses": 10485,
+    "returning_addresses": 18765
+  },
+  {
+    "date": "2026-01-20",
+    "new_addresses": 11205,
+    "returning_addresses": 40264
+  },
+  {
+    "date": "2026-01-21",
+    "new_addresses": 5410,
+    "returning_addresses": 63694
+  },
+  {
+    "date": "2026-01-22",
+    "new_addresses": 5343,
+    "returning_addresses": 28946
+  },
+  {
+    "date": "2026-01-23",
+    "new_addresses": 4195,
+    "returning_addresses": 68709
+  },
+  {
+    "date": "2026-01-24",
+    "new_addresses": 3657,
+    "returning_addresses": 39547
+  },
+  {
+    "date": "2026-01-25",
+    "new_addresses": 5048,
+    "returning_addresses": 18930
+  },
+  {
+    "date": "2026-01-26",
+    "new_addresses": 5188,
+    "returning_addresses": 16382
+  },
+  {
+    "date": "2026-01-27",
+    "new_addresses": 4989,
+    "returning_addresses": 19063
+  },
+  {
+    "date": "2026-01-28",
+    "new_addresses": 7393,
+    "returning_addresses": 28580
+  },
+  {
+    "date": "2026-01-29",
+    "new_addresses": 5782,
+    "returning_addresses": 28001
+  },
+  {
+    "date": "2026-01-30",
+    "new_addresses": 5604,
+    "returning_addresses": 21242
+  },
+  {
+    "date": "2026-01-31",
+    "new_addresses": 5083,
+    "returning_addresses": 20598
+  },
+  {
+    "date": "2026-02-01",
+    "new_addresses": 5903,
+    "returning_addresses": 17228
+  },
+  {
+    "date": "2026-02-02",
+    "new_addresses": 6418,
+    "returning_addresses": 16097
+  },
+  {
+    "date": "2026-02-03",
+    "new_addresses": 9112,
+    "returning_addresses": 22276
+  },
+  {
+    "date": "2026-02-04",
+    "new_addresses": 6512,
+    "returning_addresses": 17908
+  },
+  {
+    "date": "2026-02-05",
+    "new_addresses": 5830,
+    "returning_addresses": 21876
+  },
+  {
+    "date": "2026-02-06",
+    "new_addresses": 6188,
+    "returning_addresses": 20452
+  },
+  {
+    "date": "2026-02-07",
+    "new_addresses": 3892,
+    "returning_addresses": 14353
+  },
+  {
+    "date": "2026-02-08",
+    "new_addresses": 11438,
+    "returning_addresses": 13105
+  },
+  {
+    "date": "2026-02-09",
+    "new_addresses": 11573,
+    "returning_addresses": 14764
+  },
+  {
+    "date": "2026-02-10",
+    "new_addresses": 11979,
+    "returning_addresses": 17012
+  },
+  {
+    "date": "2026-02-11",
+    "new_addresses": 6308,
+    "returning_addresses": 27977
+  },
+  {
+    "date": "2026-02-12",
+    "new_addresses": 11964,
+    "returning_addresses": 25303
+  },
+  {
+    "date": "2026-02-13",
+    "new_addresses": 21851,
+    "returning_addresses": 26475
+  },
+  {
+    "date": "2026-02-14",
+    "new_addresses": 10045,
+    "returning_addresses": 14111
+  },
+  {
+    "date": "2026-02-15",
+    "new_addresses": 5916,
+    "returning_addresses": 17131
+  },
+  {
+    "date": "2026-02-16",
+    "new_addresses": 4908,
+    "returning_addresses": 13512
+  },
+  {
+    "date": "2026-02-17",
+    "new_addresses": 4298,
+    "returning_addresses": 14931
+  },
+  {
+    "date": "2026-02-18",
+    "new_addresses": 4418,
+    "returning_addresses": 14863
+  },
+  {
+    "date": "2026-02-19",
+    "new_addresses": 5558,
+    "returning_addresses": 17364
+  },
+  {
+    "date": "2026-02-20",
+    "new_addresses": 4638,
+    "returning_addresses": 16968
+  },
+  {
+    "date": "2026-02-21",
+    "new_addresses": 2876,
+    "returning_addresses": 12916
+  },
+  {
+    "date": "2026-02-22",
+    "new_addresses": 2840,
+    "returning_addresses": 13667
+  },
+  {
+    "date": "2026-02-23",
+    "new_addresses": 3614,
+    "returning_addresses": 13366
+  },
+  {
+    "date": "2026-02-24",
+    "new_addresses": 3183,
+    "returning_addresses": 15832
+  },
+  {
+    "date": "2026-02-25",
+    "new_addresses": 4469,
+    "returning_addresses": 18785
+  },
+  {
+    "date": "2026-02-26",
+    "new_addresses": 4601,
+    "returning_addresses": 18976
+  },
+  {
+    "date": "2026-02-27",
+    "new_addresses": 2602,
+    "returning_addresses": 15077
+  },
+  {
+    "date": "2026-02-28",
+    "new_addresses": 3397,
+    "returning_addresses": 15717
+  },
+  {
+    "date": "2026-03-01",
+    "new_addresses": 3187,
+    "returning_addresses": 15085
+  },
+  {
+    "date": "2026-03-02",
+    "new_addresses": 2899,
+    "returning_addresses": 14100
+  },
+  {
+    "date": "2026-03-03",
+    "new_addresses": 3589,
+    "returning_addresses": 16230
+  },
+  {
+    "date": "2026-03-04",
+    "new_addresses": 2859,
+    "returning_addresses": 22337
+  },
+  {
+    "date": "2026-03-05",
+    "new_addresses": 3226,
+    "returning_addresses": 29977
+  },
+  {
+    "date": "2026-03-06",
+    "new_addresses": 3483,
+    "returning_addresses": 18282
+  },
+  {
+    "date": "2026-03-07",
+    "new_addresses": 2819,
+    "returning_addresses": 15702
+  },
+  {
+    "date": "2026-03-08",
+    "new_addresses": 2527,
+    "returning_addresses": 10465
+  },
+  {
+    "date": "2026-03-09",
+    "new_addresses": 2777,
+    "returning_addresses": 12485
+  },
+  {
+    "date": "2026-03-10",
+    "new_addresses": 2923,
+    "returning_addresses": 14181
+  },
+  {
+    "date": "2026-03-11",
+    "new_addresses": 2470,
+    "returning_addresses": 24253
+  },
+  {
+    "date": "2026-03-12",
+    "new_addresses": 2303,
+    "returning_addresses": 26477
+  },
+  {
+    "date": "2026-03-13",
+    "new_addresses": 2399,
+    "returning_addresses": 17304
+  },
+  {
+    "date": "2026-03-14",
+    "new_addresses": 2079,
+    "returning_addresses": 14657
+  },
+  {
+    "date": "2026-03-15",
+    "new_addresses": 1648,
+    "returning_addresses": 12287
+  },
+  {
+    "date": "2026-03-16",
+    "new_addresses": 2493,
+    "returning_addresses": 13833
+  },
+  {
+    "date": "2026-03-17",
+    "new_addresses": 3773,
+    "returning_addresses": 18335
+  },
+  {
+    "date": "2026-03-18",
+    "new_addresses": 6880,
+    "returning_addresses": 19165
+  },
+  {
+    "date": "2026-03-19",
+    "new_addresses": 3135,
+    "returning_addresses": 19156
+  },
+  {
+    "date": "2026-03-20",
+    "new_addresses": 10660,
+    "returning_addresses": 41894
+  },
+  {
+    "date": "2026-03-21",
+    "new_addresses": 3783,
+    "returning_addresses": 12983
+  },
+  {
+    "date": "2026-03-22",
+    "new_addresses": 6975,
+    "returning_addresses": 13048
+  },
+  {
+    "date": "2026-03-23",
+    "new_addresses": 5129,
+    "returning_addresses": 13046
+  },
+  {
+    "date": "2026-03-24",
+    "new_addresses": 3539,
+    "returning_addresses": 14868
+  },
+  {
+    "date": "2026-03-25",
+    "new_addresses": 6288,
+    "returning_addresses": 26035
+  },
+  {
+    "date": "2026-03-26",
+    "new_addresses": 3537,
+    "returning_addresses": 27602
+  },
+  {
+    "date": "2026-03-27",
+    "new_addresses": 3229,
+    "returning_addresses": 20069
+  },
+  {
+    "date": "2026-03-28",
+    "new_addresses": 2800,
+    "returning_addresses": 11934
+  },
+  {
+    "date": "2026-03-29",
+    "new_addresses": 2792,
+    "returning_addresses": 12236
+  },
+  {
+    "date": "2026-03-30",
+    "new_addresses": 4082,
+    "returning_addresses": 15022
+  },
+  {
+    "date": "2026-03-31",
+    "new_addresses": 4441,
+    "returning_addresses": 13823
+  },
+  {
+    "date": "2026-04-01",
+    "new_addresses": 4420,
+    "returning_addresses": 13924
+  },
+  {
+    "date": "2026-04-02",
+    "new_addresses": 4698,
+    "returning_addresses": 17320
+  },
+  {
+    "date": "2026-04-03",
+    "new_addresses": 5752,
+    "returning_addresses": 11411
+  },
+  {
+    "date": "2026-04-04",
+    "new_addresses": 4445,
+    "returning_addresses": 14782
+  },
+  {
+    "date": "2026-04-05",
+    "new_addresses": 4708,
+    "returning_addresses": 14005
+  },
+  {
+    "date": "2026-04-06",
+    "new_addresses": 6998,
+    "returning_addresses": 12783
+  },
+  {
+    "date": "2026-04-07",
+    "new_addresses": 8013,
+    "returning_addresses": 12900
+  },
+  {
+    "date": "2026-04-08",
+    "new_addresses": 9962,
+    "returning_addresses": 22213
+  },
+  {
+    "date": "2026-04-09",
+    "new_addresses": 9710,
+    "returning_addresses": 12147
+  },
+  {
+    "date": "2026-04-10",
+    "new_addresses": 4887,
+    "returning_addresses": 11343
+  },
+  {
+    "date": "2026-04-11",
+    "new_addresses": 4181,
+    "returning_addresses": 14297
+  },
+  {
+    "date": "2026-04-12",
+    "new_addresses": 2123,
+    "returning_addresses": 10356
+  },
+  {
+    "date": "2026-04-13",
+    "new_addresses": 4387,
+    "returning_addresses": 15640
+  },
+  {
+    "date": "2026-04-14",
+    "new_addresses": 3123,
+    "returning_addresses": 18055
+  },
+  {
+    "date": "2026-04-15",
+    "new_addresses": 7474,
+    "returning_addresses": 16844
+  },
+  {
+    "date": "2026-04-16",
+    "new_addresses": 4362,
+    "returning_addresses": 18799
+  },
+  {
+    "date": "2026-04-17",
+    "new_addresses": 4716,
+    "returning_addresses": 13029
+  },
+  {
+    "date": "2026-04-18",
+    "new_addresses": 4521,
+    "returning_addresses": 12094
+  },
+  {
+    "date": "2026-04-19",
+    "new_addresses": 4877,
+    "returning_addresses": 14144
+  },
+  {
+    "date": "2026-04-20",
+    "new_addresses": 6180,
+    "returning_addresses": 12821
+  },
+  {
+    "date": "2026-04-21",
+    "new_addresses": 9221,
+    "returning_addresses": 12465
+  },
+  {
+    "date": "2026-04-22",
+    "new_addresses": 5827,
+    "returning_addresses": 12603
+  },
+  {
+    "date": "2026-04-23",
+    "new_addresses": 4592,
+    "returning_addresses": 12541
+  },
+  {
+    "date": "2026-04-24",
+    "new_addresses": 6040,
+    "returning_addresses": 11370
+  },
+  {
+    "date": "2026-04-25",
+    "new_addresses": 12122,
+    "returning_addresses": 11222
+  },
+  {
+    "date": "2026-04-26",
+    "new_addresses": 6367,
+    "returning_addresses": 10571
+  },
+  {
+    "date": "2026-04-27",
+    "new_addresses": 3919,
+    "returning_addresses": 12340
+  },
+  {
+    "date": "2026-04-28",
+    "new_addresses": 3258,
+    "returning_addresses": 12541
+  },
+  {
+    "date": "2026-04-29",
+    "new_addresses": 5121,
+    "returning_addresses": 13778
+  },
+  {
+    "date": "2026-04-30",
+    "new_addresses": 5523,
+    "returning_addresses": 12958
+  },
+  {
+    "date": "2026-05-01",
+    "new_addresses": 4320,
+    "returning_addresses": 12917
+  },
+  {
+    "date": "2026-05-02",
+    "new_addresses": 3975,
+    "returning_addresses": 10901
+  },
+  {
+    "date": "2026-05-03",
+    "new_addresses": 4191,
+    "returning_addresses": 11797
+  },
+  {
+    "date": "2026-05-04",
+    "new_addresses": 4901,
+    "returning_addresses": 16796
+  },
+  {
+    "date": "2026-05-05",
+    "new_addresses": 4882,
+    "returning_addresses": 14616
+  },
+  {
+    "date": "2026-05-06",
+    "new_addresses": 4357,
+    "returning_addresses": 15102
+  },
+  {
+    "date": "2026-05-07",
+    "new_addresses": 3334,
+    "returning_addresses": 15176
+  },
+  {
+    "date": "2026-05-08",
+    "new_addresses": 3938,
+    "returning_addresses": 14902
+  },
+  {
+    "date": "2026-05-09",
+    "new_addresses": 3058,
+    "returning_addresses": 13179
+  },
+  {
+    "date": "2026-05-10",
+    "new_addresses": 2012,
+    "returning_addresses": 13550
+  },
+  {
+    "date": "2026-05-11",
+    "new_addresses": 2361,
+    "returning_addresses": 17152
+  },
+  {
+    "date": "2026-05-12",
+    "new_addresses": 2911,
+    "returning_addresses": 14208
+  },
+  {
+    "date": "2026-05-13",
+    "new_addresses": 6686,
+    "returning_addresses": 14125
+  },
+  {
+    "date": "2026-05-14",
+    "new_addresses": 3852,
+    "returning_addresses": 12896
+  },
+  {
+    "date": "2026-05-15",
+    "new_addresses": 2786,
+    "returning_addresses": 12056
+  },
+  {
+    "date": "2026-05-16",
+    "new_addresses": 2079,
+    "returning_addresses": 11548
+  },
+  {
+    "date": "2026-05-17",
+    "new_addresses": 1765,
+    "returning_addresses": 12176
+  },
+  {
+    "date": "2026-05-18",
+    "new_addresses": 2044,
+    "returning_addresses": 12344
+  },
+  {
+    "date": "2026-05-19",
+    "new_addresses": 2450,
+    "returning_addresses": 10305
+  },
+  {
+    "date": "2026-05-20",
+    "new_addresses": 2185,
+    "returning_addresses": 10928
+  },
+  {
+    "date": "2026-05-21",
+    "new_addresses": 2248,
+    "returning_addresses": 11857
+  },
+  {
+    "date": "2026-05-22",
+    "new_addresses": 1990,
+    "returning_addresses": 11972
+  },
+  {
+    "date": "2026-05-23",
+    "new_addresses": 2070,
+    "returning_addresses": 13950
+  },
+  {
+    "date": "2026-05-24",
+    "new_addresses": 1551,
+    "returning_addresses": 10442
+  },
+  {
+    "date": "2026-05-25",
+    "new_addresses": 1707,
+    "returning_addresses": 10560
+  },
+  {
+    "date": "2026-05-26",
+    "new_addresses": 3157,
+    "returning_addresses": 11794
+  },
+  {
+    "date": "2026-05-27",
+    "new_addresses": 2057,
+    "returning_addresses": 14892
+  },
+  {
+    "date": "2026-05-28",
+    "new_addresses": 1998,
+    "returning_addresses": 14977
+  },
+  {
+    "date": "2026-05-29",
+    "new_addresses": 1835,
+    "returning_addresses": 11990
+  },
+  {
+    "date": "2026-05-30",
+    "new_addresses": 1807,
+    "returning_addresses": 14994
+  },
+  {
+    "date": "2026-05-31",
+    "new_addresses": 2272,
+    "returning_addresses": 10348
+  },
+  {
+    "date": "2026-06-01",
+    "new_addresses": 1851,
+    "returning_addresses": 11893
+  },
+  {
+    "date": "2026-06-02",
+    "new_addresses": 7216,
+    "returning_addresses": 21337
+  },
+  {
+    "date": "2026-06-03",
+    "new_addresses": 5751,
+    "returning_addresses": 21658
+  },
+  {
+    "date": "2026-06-04",
+    "new_addresses": 5784,
+    "returning_addresses": 22692
+  },
+  {
+    "date": "2026-06-05",
+    "new_addresses": 3030,
+    "returning_addresses": 17367
+  },
+  {
+    "date": "2026-06-06",
+    "new_addresses": 2789,
+    "returning_addresses": 14745
+  },
+  {
+    "date": "2026-06-07",
+    "new_addresses": 3246,
+    "returning_addresses": 11229
+  },
+  {
+    "date": "2026-06-08",
+    "new_addresses": 3260,
+    "returning_addresses": 13707
+  },
+  {
+    "date": "2026-06-09",
+    "new_addresses": 5213,
+    "returning_addresses": 13274
+  },
+  {
+    "date": "2026-06-10",
+    "new_addresses": 3791,
+    "returning_addresses": 12933
+  },
+  {
+    "date": "2026-06-11",
+    "new_addresses": 2085,
+    "returning_addresses": 12818
+  },
+  {
+    "date": "2026-06-12",
+    "new_addresses": 1746,
+    "returning_addresses": 11837
+  },
+  {
+    "date": "2026-06-13",
+    "new_addresses": 1602,
+    "returning_addresses": 10007
+  },
+  {
+    "date": "2026-06-14",
+    "new_addresses": 1380,
+    "returning_addresses": 9765
+  },
+  {
+    "date": "2026-06-15",
+    "new_addresses": 1956,
+    "returning_addresses": 13126
+  },
+  {
+    "date": "2026-06-16",
+    "new_addresses": 1887,
+    "returning_addresses": 10379
+  },
+  {
+    "date": "2026-06-17",
+    "new_addresses": 1756,
+    "returning_addresses": 17884
+  },
+  {
+    "date": "2026-06-18",
+    "new_addresses": 2178,
+    "returning_addresses": 11062
+  },
+  {
+    "date": "2026-06-19",
+    "new_addresses": 2252,
+    "returning_addresses": 10121
+  },
+  {
+    "date": "2026-06-20",
+    "new_addresses": 1230,
+    "returning_addresses": 10502
+  },
+  {
+    "date": "2026-06-21",
+    "new_addresses": 1463,
+    "returning_addresses": 10032
+  },
+  {
+    "date": "2026-06-22",
+    "new_addresses": 1776,
+    "returning_addresses": 13524
+  },
+  {
+    "date": "2026-06-23",
+    "new_addresses": 1635,
+    "returning_addresses": 15979
+  },
+  {
+    "date": "2026-06-24",
+    "new_addresses": 1891,
+    "returning_addresses": 16742
+  },
+  {
+    "date": "2026-06-25",
+    "new_addresses": 2048,
+    "returning_addresses": 12401
+  },
+  {
+    "date": "2026-06-26",
+    "new_addresses": 8164,
+    "returning_addresses": 11644
+  },
+  {
+    "date": "2026-06-27",
+    "new_addresses": 8523,
+    "returning_addresses": 8806
+  },
+  {
+    "date": "2026-06-28",
+    "new_addresses": 6450,
+    "returning_addresses": 8365
+  },
+  {
+    "date": "2026-06-29",
+    "new_addresses": 8365,
+    "returning_addresses": 15920
+  },
+  {
+    "date": "2026-06-30",
+    "new_addresses": 7310,
+    "returning_addresses": 11160
+  },
+  {
+    "date": "2026-07-01",
+    "new_addresses": 3043,
+    "returning_addresses": 11508
+  },
+  {
+    "date": "2026-07-02",
+    "new_addresses": 2191,
+    "returning_addresses": 11905
+  },
+  {
+    "date": "2026-07-03",
+    "new_addresses": 2186,
+    "returning_addresses": 9844
+  },
+  {
+    "date": "2026-07-04",
+    "new_addresses": 1843,
+    "returning_addresses": 10328
+  },
+  {
+    "date": "2026-07-05",
+    "new_addresses": 1616,
+    "returning_addresses": 8857
+  },
+  {
+    "date": "2026-07-06",
+    "new_addresses": 2664,
+    "returning_addresses": 11540
+  },
+  {
+    "date": "2026-07-07",
+    "new_addresses": 2009,
+    "returning_addresses": 10627
+  },
+  {
+    "date": "2026-07-08",
+    "new_addresses": 2201,
+    "returning_addresses": 10433
+  },
+  {
+    "date": "2026-07-09",
+    "new_addresses": 544,
+    "returning_addresses": 11185
+  },
+  {
+    "date": "2026-07-10",
+    "new_addresses": 1113,
+    "returning_addresses": 12111
+  },
+  {
+    "date": "2026-07-11",
+    "new_addresses": 1295,
+    "returning_addresses": 9277
+  },
+  {
+    "date": "2026-07-12",
+    "new_addresses": 1850,
+    "returning_addresses": 10482
+  },
+  {
+    "date": "2026-07-13",
+    "new_addresses": 1655,
+    "returning_addresses": 10781
+  },
+  {
+    "date": "2026-07-14",
+    "new_addresses": 2628,
+    "returning_addresses": 10489
+  },
+  {
+    "date": "2026-07-15",
+    "new_addresses": 3568,
+    "returning_addresses": 12384
+  },
+  {
+    "date": "2026-07-16",
+    "new_addresses": 2531,
+    "returning_addresses": 10672
+  },
+  {
+    "date": "2026-07-17",
+    "new_addresses": 3449,
+    "returning_addresses": 29299
+  },
+  {
+    "date": "2026-07-18",
+    "new_addresses": 9621,
+    "returning_addresses": 10193
+  },
+  {
+    "date": "2026-07-19",
+    "new_addresses": 2102,
+    "returning_addresses": 11272
+  },
+  {
+    "date": "2026-07-20",
+    "new_addresses": 2169,
+    "returning_addresses": 10379
+  },
+  {
+    "date": "2026-07-21",
+    "new_addresses": 1674,
+    "returning_addresses": 12783
+  },
+  {
+    "date": "2026-07-22",
+    "new_addresses": 1622,
+    "returning_addresses": 11279
+  },
+  {
+    "date": "2026-07-23",
+    "new_addresses": 1879,
+    "returning_addresses": 11153
+  },
+  {
+    "date": "2026-07-24",
+    "new_addresses": 2694,
+    "returning_addresses": 11176
+  },
+  {
+    "date": "2026-07-25",
+    "new_addresses": 2420,
+    "returning_addresses": 7211
+  },
+  {
+    "date": "2026-07-26",
+    "new_addresses": 1887,
+    "returning_addresses": 9482
+  },
+  {
+    "date": "2026-07-27",
+    "new_addresses": 1603,
+    "returning_addresses": 8907
+  },
+  {
+    "date": "2026-07-28",
+    "new_addresses": 1980,
+    "returning_addresses": 9779
+  },
+  {
+    "date": "2026-07-29",
+    "new_addresses": 1676,
+    "returning_addresses": 10884
+  },
+  {
+    "date": "2026-07-30",
+    "new_addresses": 2063,
+    "returning_addresses": 10144
+  },
+  {
+    "date": "2026-07-31",
+    "new_addresses": 2085,
+    "returning_addresses": 11847
+  },
+  {
+    "date": "2026-08-01",
+    "new_addresses": 1446,
+    "returning_addresses": 12954
+  },
+  {
+    "date": "2026-08-02",
+    "new_addresses": 1269,
+    "returning_addresses": 11980
+  },
+  {
+    "date": "2026-08-03",
+    "new_addresses": 1907,
+    "returning_addresses": 14489
+  },
+  {
+    "date": "2026-08-04",
+    "new_addresses": 1883,
+    "returning_addresses": 8552
+  },
+  {
+    "date": "2026-08-05",
+    "new_addresses": 2492,
+    "returning_addresses": 9045
+  },
+  {
+    "date": "2026-08-06",
+    "new_addresses": 15017,
+    "returning_addresses": 18191
+  },
+  {
+    "date": "2026-08-07",
+    "new_addresses": 2586,
+    "returning_addresses": 8412
+  },
+  {
+    "date": "2026-08-08",
+    "new_addresses": 2161,
+    "returning_addresses": 7582
+  },
+  {
+    "date": "2026-08-09",
+    "new_addresses": 1734,
+    "returning_addresses": 12291
+  },
+  {
+    "date": "2026-08-10",
+    "new_addresses": 30739,
+    "returning_addresses": 26945
+  },
+  {
+    "date": "2026-08-11",
+    "new_addresses": 12756,
+    "returning_addresses": 15575
+  },
+  {
+    "date": "2026-08-12",
+    "new_addresses": 1938,
+    "returning_addresses": 10165
+  },
+  {
+    "date": "2026-08-13",
+    "new_addresses": 85240,
+    "returning_addresses": 68905
+  },
+  {
+    "date": "2026-08-14",
+    "new_addresses": 1786,
+    "returning_addresses": 8652
+  },
+  {
+    "date": "2026-08-15",
+    "new_addresses": 11359,
+    "returning_addresses": 7952
+  },
+  {
+    "date": "2026-08-16",
+    "new_addresses": 2003,
+    "returning_addresses": 9567
+  },
+  {
+    "date": "2026-08-17",
+    "new_addresses": 2373,
+    "returning_addresses": 11541
+  },
+  {
+    "date": "2026-08-18",
+    "new_addresses": 2179,
+    "returning_addresses": 10672
+  },
+  {
+    "date": "2026-08-19",
+    "new_addresses": 2644,
+    "returning_addresses": 14960
+  },
+  {
+    "date": "2026-08-20",
+    "new_addresses": 3046,
+    "returning_addresses": 13581
+  },
+  {
+    "date": "2026-08-21",
+    "new_addresses": 2744,
+    "returning_addresses": 13463
+  },
+  {
+    "date": "2026-08-22",
+    "new_addresses": 2419,
+    "returning_addresses": 11283
+  },
+  {
+    "date": "2026-08-23",
+    "new_addresses": 2297,
+    "returning_addresses": 10639
+  },
+  {
+    "date": "2026-08-24",
+    "new_addresses": 2482,
+    "returning_addresses": 10369
+  },
+  {
+    "date": "2026-08-25",
+    "new_addresses": 4373,
+    "returning_addresses": 13222
+  },
+  {
+    "date": "2026-08-26",
+    "new_addresses": 2565,
+    "returning_addresses": 10398
+  },
+  {
+    "date": "2026-08-27",
+    "new_addresses": 2493,
+    "returning_addresses": 11139
+  },
+  {
+    "date": "2026-08-28",
+    "new_addresses": 2249,
+    "returning_addresses": 10896
+  },
+  {
+    "date": "2026-08-29",
+    "new_addresses": 2177,
+    "returning_addresses": 12165
+  },
+  {
+    "date": "2026-08-30",
+    "new_addresses": 1743,
+    "returning_addresses": 10857
+  },
+  {
+    "date": "2026-08-31",
+    "new_addresses": 2509,
+    "returning_addresses": 14338
+  },
+  {
+    "date": "2026-09-01",
+    "new_addresses": 3330,
+    "returning_addresses": 16148
+  },
+  {
+    "date": "2026-09-02",
+    "new_addresses": 4152,
+    "returning_addresses": 10815
+  },
+  {
+    "date": "2026-09-03",
+    "new_addresses": 5687,
+    "returning_addresses": 11611
+  },
+  {
+    "date": "2026-09-04",
+    "new_addresses": 5851,
+    "returning_addresses": 10735
+  },
+  {
+    "date": "2026-09-05",
+    "new_addresses": 6379,
+    "returning_addresses": 9576
+  },
+  {
+    "date": "2026-09-06",
+    "new_addresses": 8093,
+    "returning_addresses": 10485
+  },
+  {
+    "date": "2026-09-07",
+    "new_addresses": 9265,
+    "returning_addresses": 10489
+  },
+  {
+    "date": "2026-09-08",
+    "new_addresses": 9784,
+    "returning_addresses": 10774
+  },
+  {
+    "date": "2026-09-09",
+    "new_addresses": 8553,
+    "returning_addresses": 11190
+  },
+  {
+    "date": "2026-09-10",
+    "new_addresses": 6828,
+    "returning_addresses": 12757
+  },
+  {
+    "date": "2026-09-11",
+    "new_addresses": 6276,
+    "returning_addresses": 16565
+  },
+  {
+    "date": "2026-09-12",
+    "new_addresses": 8659,
+    "returning_addresses": 18363
+  },
+  {
+    "date": "2026-09-13",
+    "new_addresses": 6551,
+    "returning_addresses": 11430
+  },
+  {
+    "date": "2026-09-14",
+    "new_addresses": 24791,
+    "returning_addresses": 14106
+  },
+  {
+    "date": "2026-09-15",
+    "new_addresses": 9547,
+    "returning_addresses": 13038
+  }
+]

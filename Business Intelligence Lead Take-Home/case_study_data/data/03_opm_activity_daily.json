@@ -1,0 +1,4986 @@
+[
+  {
+    "date": "2025-01-01",
+    "total_transactions": 667417,
+    "success_transactions": 640901,
+    "failed_transactions": 26516,
+    "active_addresses": 62220,
+    "active_contracts": 691943
+  },
+  {
+    "date": "2025-01-02",
+    "total_transactions": 877279,
+    "success_transactions": 841346,
+    "failed_transactions": 35933,
+    "active_addresses": 98214,
+    "active_contracts": 460857
+  },
+  {
+    "date": "2025-01-03",
+    "total_transactions": 825000,
+    "success_transactions": 795291,
+    "failed_transactions": 29709,
+    "active_addresses": 88535,
+    "active_contracts": 543165
+  },
+  {
+    "date": "2025-01-04",
+    "total_transactions": 901190,
+    "success_transactions": 872773,
+    "failed_transactions": 28417,
+    "active_addresses": 69421,
+    "active_contracts": 803891
+  },
+  {
+    "date": "2025-01-05",
+    "total_transactions": 784736,
+    "success_transactions": 759062,
+    "failed_transactions": 25674,
+    "active_addresses": 75610,
+    "active_contracts": 982599
+  },
+  {
+    "date": "2025-01-06",
+    "total_transactions": 726032,
+    "success_transactions": 695773,
+    "failed_transactions": 30259,
+    "active_addresses": 73264,
+    "active_contracts": 485880
+  },
+  {
+    "date": "2025-01-07",
+    "total_transactions": 856002,
+    "success_transactions": 800029,
+    "failed_transactions": 55973,
+    "active_addresses": 69436,
+    "active_contracts": 327582
+  },
+  {
+    "date": "2025-01-08",
+    "total_transactions": 840937,
+    "success_transactions": 788769,
+    "failed_transactions": 52168,
+    "active_addresses": 86370,
+    "active_contracts": 512681
+  },
+  {
+    "date": "2025-01-09",
+    "total_transactions": 798814,
+    "success_transactions": 753520,
+    "failed_transactions": 45294,
+    "active_addresses": 88761,
+    "active_contracts": 252096
+  },
+  {
+    "date": "2025-01-10",
+    "total_transactions": 820877,
+    "success_transactions": 778241,
+    "failed_transactions": 42636,
+    "active_addresses": 82026,
+    "active_contracts": 361383
+  },
+  {
+    "date": "2025-01-11",
+    "total_transactions": 797256,
+    "success_transactions": 773865,
+    "failed_transactions": 23391,
+    "active_addresses": 87617,
+    "active_contracts": 708173
+  },
+  {
+    "date": "2025-01-12",
+    "total_transactions": 755623,
+    "success_transactions": 735355,
+    "failed_transactions": 20268,
+    "active_addresses": 66963,
+    "active_contracts": 1008769
+  },
+  {
+    "date": "2025-01-13",
+    "total_transactions": 1186046,
+    "success_transactions": 1110717,
+    "failed_transactions": 75329,
+    "active_addresses": 88989,
+    "active_contracts": 328570
+  },
+  {
+    "date": "2025-01-14",
+    "total_transactions": 859720,
+    "success_transactions": 823768,
+    "failed_transactions": 35952,
+    "active_addresses": 93070,
+    "active_contracts": 436784
+  },
+  {
+    "date": "2025-01-15",
+    "total_transactions": 747089,
+    "success_transactions": 691419,
+    "failed_transactions": 55670,
+    "active_addresses": 77285,
+    "active_contracts": 217274
+  },
+  {
+    "date": "2025-01-16",
+    "total_transactions": 743372,
+    "success_transactions": 695647,
+    "failed_transactions": 47725,
+    "active_addresses": 79907,
+    "active_contracts": 328425
+  },
+  {
+    "date": "2025-01-17",
+    "total_transactions": 723184,
+    "success_transactions": 687866,
+    "failed_transactions": 35318,
+    "active_addresses": 81484,
+    "active_contracts": 527145
+  },
+  {
+    "date": "2025-01-18",
+    "total_transactions": 731949,
+    "success_transactions": 685775,
+    "failed_transactions": 46174,
+    "active_addresses": 64706,
+    "active_contracts": 472107
+  },
+  {
+    "date": "2025-01-19",
+    "total_transactions": 1257340,
+    "success_transactions": 1144150,
+    "failed_transactions": 113190,
+    "active_addresses": 76887,
+    "active_contracts": 524862
+  },
+  {
+    "date": "2025-01-20",
+    "total_transactions": 1035935,
+    "success_transactions": 909036,
+    "failed_transactions": 126899,
+    "active_addresses": 99397,
+    "active_contracts": 376033
+  },
+  {
+    "date": "2025-01-21",
+    "total_transactions": 880014,
+    "success_transactions": 812407,
+    "failed_transactions": 67607,
+    "active_addresses": 92277,
+    "active_contracts": 523657
+  },
+  {
+    "date": "2025-01-22",
+    "total_transactions": 759023,
+    "success_transactions": 722745,
+    "failed_transactions": 36278,
+    "active_addresses": 79959,
+    "active_contracts": 272584
+  },
+  {
+    "date": "2025-01-23",
+    "total_transactions": 814115,
+    "success_transactions": 757550,
+    "failed_transactions": 56565,
+    "active_addresses": 82535,
+    "active_contracts": 245448
+  },
+  {
+    "date": "2025-01-24",
+    "total_transactions": 796357,
+    "success_transactions": 754770,
+    "failed_transactions": 41587,
+    "active_addresses": 81101,
+    "active_contracts": 381408
+  },
+  {
+    "date": "2025-01-25",
+    "total_transactions": 786520,
+    "success_transactions": 762076,
+    "failed_transactions": 24444,
+    "active_addresses": 104765,
+    "active_contracts": 829871
+  },
+  {
+    "date": "2025-01-26",
+    "total_transactions": 734037,
+    "success_transactions": 710849,
+    "failed_transactions": 23188,
+    "active_addresses": 83295,
+    "active_contracts": 857897
+  },
+  {
+    "date": "2025-01-27",
+    "total_transactions": 947870,
+    "success_transactions": 872882,
+    "failed_transactions": 74988,
+    "active_addresses": 91736,
+    "active_contracts": 703613
+  },
+  {
+    "date": "2025-01-28",
+    "total_transactions": 700932,
+    "success_transactions": 666725,
+    "failed_transactions": 34207,
+    "active_addresses": 76388,
+    "active_contracts": 511930
+  },
+  {
+    "date": "2025-01-29",
+    "total_transactions": 819397,
+    "success_transactions": 769674,
+    "failed_transactions": 49723,
+    "active_addresses": 71838,
+    "active_contracts": 548902
+  },
+  {
+    "date": "2025-01-30",
+    "total_transactions": 878624,
+    "success_transactions": 839502,
+    "failed_transactions": 39122,
+    "active_addresses": 67097,
+    "active_contracts": 684389
+  },
+  {
+    "date": "2025-01-31",
+    "total_transactions": 844754,
+    "success_transactions": 793374,
+    "failed_transactions": 51380,
+    "active_addresses": 72019,
+    "active_contracts": 713675
+  },
+  {
+    "date": "2025-02-01",
+    "total_transactions": 870569,
+    "success_transactions": 828411,
+    "failed_transactions": 42158,
+    "active_addresses": 68362,
+    "active_contracts": 701880
+  },
+  {
+    "date": "2025-02-02",
+    "total_transactions": 1134791,
+    "success_transactions": 1030393,
+    "failed_transactions": 104398,
+    "active_addresses": 70362,
+    "active_contracts": 745582
+  },
+  {
+    "date": "2025-02-03",
+    "total_transactions": 1761928,
+    "success_transactions": 1519305,
+    "failed_transactions": 242623,
+    "active_addresses": 86793,
+    "active_contracts": 352981
+  },
+  {
+    "date": "2025-02-04",
+    "total_transactions": 1069386,
+    "success_transactions": 975076,
+    "failed_transactions": 94310,
+    "active_addresses": 84906,
+    "active_contracts": 286945
+  },
+  {
+    "date": "2025-02-05",
+    "total_transactions": 914658,
+    "success_transactions": 852781,
+    "failed_transactions": 61877,
+    "active_addresses": 74741,
+    "active_contracts": 212504
+  },
+  {
+    "date": "2025-02-06",
+    "total_transactions": 945930,
+    "success_transactions": 892060,
+    "failed_transactions": 53870,
+    "active_addresses": 70001,
+    "active_contracts": 299279
+  },
+  {
+    "date": "2025-02-07",
+    "total_transactions": 1101326,
+    "success_transactions": 1045149,
+    "failed_transactions": 56177,
+    "active_addresses": 91789,
+    "active_contracts": 264604
+  },
+  {
+    "date": "2025-02-08",
+    "total_transactions": 904991,
+    "success_transactions": 874244,
+    "failed_transactions": 30747,
+    "active_addresses": 101926,
+    "active_contracts": 265733
+  },
+  {
+    "date": "2025-02-09",
+    "total_transactions": 920585,
+    "success_transactions": 883797,
+    "failed_transactions": 36788,
+    "active_addresses": 114502,
+    "active_contracts": 395461
+  },
+  {
+    "date": "2025-02-10",
+    "total_transactions": 871770,
+    "success_transactions": 833942,
+    "failed_transactions": 37828,
+    "active_addresses": 94917,
+    "active_contracts": 399930
+  },
+  {
+    "date": "2025-02-11",
+    "total_transactions": 899272,
+    "success_transactions": 866126,
+    "failed_transactions": 33146,
+    "active_addresses": 113335,
+    "active_contracts": 229237
+  },
+  {
+    "date": "2025-02-12",
+    "total_transactions": 799300,
+    "success_transactions": 753839,
+    "failed_transactions": 45461,
+    "active_addresses": 99352,
+    "active_contracts": 500749
+  },
+  {
+    "date": "2025-02-13",
+    "total_transactions": 835104,
+    "success_transactions": 798465,
+    "failed_transactions": 36639,
+    "active_addresses": 130131,
+    "active_contracts": 392940
+  },
+  {
+    "date": "2025-02-14",
+    "total_transactions": 842046,
+    "success_transactions": 805971,
+    "failed_transactions": 36075,
+    "active_addresses": 126425,
+    "active_contracts": 531786
+  },
+  {
+    "date": "2025-02-15",
+    "total_transactions": 795552,
+    "success_transactions": 776432,
+    "failed_transactions": 19120,
+    "active_addresses": 95632,
+    "active_contracts": 894213
+  },
+  {
+    "date": "2025-02-16",
+    "total_transactions": 698240,
+    "success_transactions": 675170,
+    "failed_transactions": 23070,
+    "active_addresses": 76121,
+    "active_contracts": 953130
+  },
+  {
+    "date": "2025-02-17",
+    "total_transactions": 810113,
+    "success_transactions": 767673,
+    "failed_transactions": 42440,
+    "active_addresses": 110382,
+    "active_contracts": 548175
+  },
+  {
+    "date": "2025-02-18",
+    "total_transactions": 909049,
+    "success_transactions": 861419,
+    "failed_transactions": 47630,
+    "active_addresses": 107885,
+    "active_contracts": 426932
+  },
+  {
+    "date": "2025-02-19",
+    "total_transactions": 1161781,
+    "success_transactions": 1125206,
+    "failed_transactions": 36575,
+    "active_addresses": 89179,
+    "active_contracts": 187278
+  },
+  {
+    "date": "2025-02-20",
+    "total_transactions": 904470,
+    "success_transactions": 874639,
+    "failed_transactions": 29831,
+    "active_addresses": 84770,
+    "active_contracts": 213397
+  },
+  {
+    "date": "2025-02-21",
+    "total_transactions": 1011533,
+    "success_transactions": 962483,
+    "failed_transactions": 49050,
+    "active_addresses": 138280,
+    "active_contracts": 213540
+  },
+  {
+    "date": "2025-02-22",
+    "total_transactions": 913507,
+    "success_transactions": 885249,
+    "failed_transactions": 28258,
+    "active_addresses": 120896,
+    "active_contracts": 416260
+  },
+  {
+    "date": "2025-02-23",
+    "total_transactions": 993771,
+    "success_transactions": 962054,
+    "failed_transactions": 31717,
+    "active_addresses": 138725,
+    "active_contracts": 548799
+  },
+  {
+    "date": "2025-02-24",
+    "total_transactions": 1208693,
+    "success_transactions": 1118915,
+    "failed_transactions": 89778,
+    "active_addresses": 88930,
+    "active_contracts": 258961
+  },
+  {
+    "date": "2025-02-25",
+    "total_transactions": 1177497,
+    "success_transactions": 1081654,
+    "failed_transactions": 95843,
+    "active_addresses": 131923,
+    "active_contracts": 219364
+  },
+  {
+    "date": "2025-02-26",
+    "total_transactions": 952727,
+    "success_transactions": 888846,
+    "failed_transactions": 63881,
+    "active_addresses": 102865,
+    "active_contracts": 467484
+  },
+  {
+    "date": "2025-02-27",
+    "total_transactions": 954589,
+    "success_transactions": 894497,
+    "failed_transactions": 60092,
+    "active_addresses": 96474,
+    "active_contracts": 195335
+  },
+  {
+    "date": "2025-02-28",
+    "total_transactions": 1048049,
+    "success_transactions": 955364,
+    "failed_transactions": 92685,
+    "active_addresses": 98268,
+    "active_contracts": 213303
+  },
+  {
+    "date": "2025-03-01",
+    "total_transactions": 1029402,
+    "success_transactions": 978868,
+    "failed_transactions": 50534,
+    "active_addresses": 75992,
+    "active_contracts": 728882
+  },
+  {
+    "date": "2025-03-02",
+    "total_transactions": 1118235,
+    "success_transactions": 1037509,
+    "failed_transactions": 80726,
+    "active_addresses": 88222,
+    "active_contracts": 470738
+  },
+  {
+    "date": "2025-03-03",
+    "total_transactions": 1008483,
+    "success_transactions": 920563,
+    "failed_transactions": 87920,
+    "active_addresses": 103539,
+    "active_contracts": 603111
+  },
+  {
+    "date": "2025-03-04",
+    "total_transactions": 1161484,
+    "success_transactions": 1053410,
+    "failed_transactions": 108074,
+    "active_addresses": 100339,
+    "active_contracts": 555107
+  },
+  {
+    "date": "2025-03-05",
+    "total_transactions": 973711,
+    "success_transactions": 918295,
+    "failed_transactions": 55416,
+    "active_addresses": 102605,
+    "active_contracts": 462531
+  },
+  {
+    "date": "2025-03-06",
+    "total_transactions": 911326,
+    "success_transactions": 854640,
+    "failed_transactions": 56686,
+    "active_addresses": 75431,
+    "active_contracts": 586665
+  },
+  {
+    "date": "2025-03-07",
+    "total_transactions": 938053,
+    "success_transactions": 869744,
+    "failed_transactions": 68309,
+    "active_addresses": 65169,
+    "active_contracts": 264552
+  },
+  {
+    "date": "2025-03-08",
+    "total_transactions": 746897,
+    "success_transactions": 718354,
+    "failed_transactions": 28543,
+    "active_addresses": 61195,
+    "active_contracts": 382016
+  },
+  {
+    "date": "2025-03-09",
+    "total_transactions": 880833,
+    "success_transactions": 835632,
+    "failed_transactions": 45201,
+    "active_addresses": 62925,
+    "active_contracts": 261187
+  },
+  {
+    "date": "2025-03-10",
+    "total_transactions": 979051,
+    "success_transactions": 897609,
+    "failed_transactions": 81442,
+    "active_addresses": 69541,
+    "active_contracts": 368066
+  },
+  {
+    "date": "2025-03-11",
+    "total_transactions": 919525,
+    "success_transactions": 831528,
+    "failed_transactions": 87997,
+    "active_addresses": 66685,
+    "active_contracts": 248648
+  },
+  {
+    "date": "2025-03-12",
+    "total_transactions": 819554,
+    "success_transactions": 758590,
+    "failed_transactions": 60964,
+    "active_addresses": 62937,
+    "active_contracts": 251172
+  },
+  {
+    "date": "2025-03-13",
+    "total_transactions": 801812,
+    "success_transactions": 753846,
+    "failed_transactions": 47966,
+    "active_addresses": 59448,
+    "active_contracts": 274094
+  },
+  {
+    "date": "2025-03-14",
+    "total_transactions": 775620,
+    "success_transactions": 747868,
+    "failed_transactions": 27752,
+    "active_addresses": 59596,
+    "active_contracts": 331957
+  },
+  {
+    "date": "2025-03-15",
+    "total_transactions": 752026,
+    "success_transactions": 717226,
+    "failed_transactions": 34800,
+    "active_addresses": 55265,
+    "active_contracts": 370310
+  },
+  {
+    "date": "2025-03-16",
+    "total_transactions": 730945,
+    "success_transactions": 704081,
+    "failed_transactions": 26864,
+    "active_addresses": 57135,
+    "active_contracts": 764238
+  },
+  {
+    "date": "2025-03-17",
+    "total_transactions": 767683,
+    "success_transactions": 741389,
+    "failed_transactions": 26294,
+    "active_addresses": 65518,
+    "active_contracts": 270375
+  },
+  {
+    "date": "2025-03-18",
+    "total_transactions": 777210,
+    "success_transactions": 752289,
+    "failed_transactions": 24921,
+    "active_addresses": 71849,
+    "active_contracts": 201962
+  },
+  {
+    "date": "2025-03-19",
+    "total_transactions": 824742,
+    "success_transactions": 777726,
+    "failed_transactions": 47016,
+    "active_addresses": 72908,
+    "active_contracts": 228910
+  },
+  {
+    "date": "2025-03-20",
+    "total_transactions": 814761,
+    "success_transactions": 781894,
+    "failed_transactions": 32867,
+    "active_addresses": 68946,
+    "active_contracts": 280839
+  },
+  {
+    "date": "2025-03-21",
+    "total_transactions": 1718793,
+    "success_transactions": 1673770,
+    "failed_transactions": 45023,
+    "active_addresses": 62277,
+    "active_contracts": 284617
+  },
+  {
+    "date": "2025-03-22",
+    "total_transactions": 1508909,
+    "success_transactions": 1488289,
+    "failed_transactions": 20620,
+    "active_addresses": 54296,
+    "active_contracts": 336006
+  },
+  {
+    "date": "2025-03-23",
+    "total_transactions": 1100695,
+    "success_transactions": 1075730,
+    "failed_transactions": 24965,
+    "active_addresses": 57524,
+    "active_contracts": 715110
+  },
+  {
+    "date": "2025-03-24",
+    "total_transactions": 1191891,
+    "success_transactions": 1156307,
+    "failed_transactions": 35584,
+    "active_addresses": 69096,
+    "active_contracts": 273960
+  },
+  {
+    "date": "2025-03-25",
+    "total_transactions": 1112522,
+    "success_transactions": 1084622,
+    "failed_transactions": 27900,
+    "active_addresses": 64984,
+    "active_contracts": 366095
+  },
+  {
+    "date": "2025-03-26",
+    "total_transactions": 1100832,
+    "success_transactions": 1071578,
+    "failed_transactions": 29254,
+    "active_addresses": 59700,
+    "active_contracts": 153341
+  },
+  {
+    "date": "2025-03-27",
+    "total_transactions": 1191260,
+    "success_transactions": 1159990,
+    "failed_transactions": 31270,
+    "active_addresses": 70350,
+    "active_contracts": 184719
+  },
+  {
+    "date": "2025-03-28",
+    "total_transactions": 1029965,
+    "success_transactions": 990120,
+    "failed_transactions": 39845,
+    "active_addresses": 59244,
+    "active_contracts": 376882
+  },
+  {
+    "date": "2025-03-29",
+    "total_transactions": 1016299,
+    "success_transactions": 981993,
+    "failed_transactions": 34306,
+    "active_addresses": 57738,
+    "active_contracts": 303269
+  },
+  {
+    "date": "2025-03-30",
+    "total_transactions": 1125803,
+    "success_transactions": 1093133,
+    "failed_transactions": 32670,
+    "active_addresses": 55935,
+    "active_contracts": 370518
+  },
+  {
+    "date": "2025-03-31",
+    "total_transactions": 1036999,
+    "success_transactions": 992680,
+    "failed_transactions": 44319,
+    "active_addresses": 65355,
+    "active_contracts": 330876
+  },
+  {
+    "date": "2025-04-01",
+    "total_transactions": 914104,
+    "success_transactions": 878422,
+    "failed_transactions": 35682,
+    "active_addresses": 59068,
+    "active_contracts": 245746
+  },
+  {
+    "date": "2025-04-02",
+    "total_transactions": 1008353,
+    "success_transactions": 959089,
+    "failed_transactions": 49264,
+    "active_addresses": 58327,
+    "active_contracts": 124105
+  },
+  {
+    "date": "2025-04-03",
+    "total_transactions": 996625,
+    "success_transactions": 952706,
+    "failed_transactions": 43919,
+    "active_addresses": 60242,
+    "active_contracts": 174726
+  },
+  {
+    "date": "2025-04-04",
+    "total_transactions": 856716,
+    "success_transactions": 812271,
+    "failed_transactions": 44445,
+    "active_addresses": 52924,
+    "active_contracts": 179475
+  },
+  {
+    "date": "2025-04-05",
+    "total_transactions": 785294,
+    "success_transactions": 766324,
+    "failed_transactions": 18970,
+    "active_addresses": 53346,
+    "active_contracts": 222438
+  },
+  {
+    "date": "2025-04-06",
+    "total_transactions": 1095935,
+    "success_transactions": 1035216,
+    "failed_transactions": 60719,
+    "active_addresses": 52726,
+    "active_contracts": 261170
+  },
+  {
+    "date": "2025-04-07",
+    "total_transactions": 1142845,
+    "success_transactions": 1039441,
+    "failed_transactions": 103404,
+    "active_addresses": 60159,
+    "active_contracts": 145084
+  },
+  {
+    "date": "2025-04-08",
+    "total_transactions": 1186851,
+    "success_transactions": 1126135,
+    "failed_transactions": 60716,
+    "active_addresses": 64838,
+    "active_contracts": 347567
+  },
+  {
+    "date": "2025-04-09",
+    "total_transactions": 1157074,
+    "success_transactions": 1064534,
+    "failed_transactions": 92540,
+    "active_addresses": 72886,
+    "active_contracts": 155958
+  },
+  {
+    "date": "2025-04-10",
+    "total_transactions": 1024233,
+    "success_transactions": 969056,
+    "failed_transactions": 55177,
+    "active_addresses": 73846,
+    "active_contracts": 113942
+  },
+  {
+    "date": "2025-04-11",
+    "total_transactions": 931107,
+    "success_transactions": 891367,
+    "failed_transactions": 39740,
+    "active_addresses": 67430,
+    "active_contracts": 243133
+  },
+  {
+    "date": "2025-04-12",
+    "total_transactions": 900479,
+    "success_transactions": 870448,
+    "failed_transactions": 30031,
+    "active_addresses": 89966,
+    "active_contracts": 201384
+  },
+  {
+    "date": "2025-04-13",
+    "total_transactions": 986346,
+    "success_transactions": 941988,
+    "failed_transactions": 44358,
+    "active_addresses": 84099,
+    "active_contracts": 404690
+  },
+  {
+    "date": "2025-04-14",
+    "total_transactions": 973849,
+    "success_transactions": 921001,
+    "failed_transactions": 52848,
+    "active_addresses": 74724,
+    "active_contracts": 252901
+  },
+  {
+    "date": "2025-04-15",
+    "total_transactions": 1408836,
+    "success_transactions": 1348741,
+    "failed_transactions": 60095,
+    "active_addresses": 327119,
+    "active_contracts": 144755
+  },
+  {
+    "date": "2025-04-16",
+    "total_transactions": 1011768,
+    "success_transactions": 968876,
+    "failed_transactions": 42892,
+    "active_addresses": 103214,
+    "active_contracts": 172358
+  },
+  {
+    "date": "2025-04-17",
+    "total_transactions": 868108,
+    "success_transactions": 842854,
+    "failed_transactions": 25254,
+    "active_addresses": 85701,
+    "active_contracts": 156302
+  },
+  {
+    "date": "2025-04-18",
+    "total_transactions": 869920,
+    "success_transactions": 847319,
+    "failed_transactions": 22601,
+    "active_addresses": 93984,
+    "active_contracts": 195044
+  },
+  {
+    "date": "2025-04-19",
+    "total_transactions": 888696,
+    "success_transactions": 871844,
+    "failed_transactions": 16852,
+    "active_addresses": 96596,
+    "active_contracts": 345550
+  },
+  {
+    "date": "2025-04-20",
+    "total_transactions": 915109,
+    "success_transactions": 896537,
+    "failed_transactions": 18572,
+    "active_addresses": 78512,
+    "active_contracts": 511582
+  },
+  {
+    "date": "2025-04-21",
+    "total_transactions": 956134,
+    "success_transactions": 927505,
+    "failed_transactions": 28629,
+    "active_addresses": 132764,
+    "active_contracts": 221981
+  },
+  {
+    "date": "2025-04-22",
+    "total_transactions": 909162,
+    "success_transactions": 859650,
+    "failed_transactions": 49512,
+    "active_addresses": 95695,
+    "active_contracts": 152175
+  },
+  {
+    "date": "2025-04-23",
+    "total_transactions": 821593,
+    "success_transactions": 781331,
+    "failed_transactions": 40262,
+    "active_addresses": 97191,
+    "active_contracts": 194377
+  },
+  {
+    "date": "2025-04-24",
+    "total_transactions": 1000426,
+    "success_transactions": 959726,
+    "failed_transactions": 40700,
+    "active_addresses": 98584,
+    "active_contracts": 145942
+  },
+  {
+    "date": "2025-04-25",
+    "total_transactions": 914163,
+    "success_transactions": 877126,
+    "failed_transactions": 37037,
+    "active_addresses": 162756,
+    "active_contracts": 277751
+  },
+  {
+    "date": "2025-04-26",
+    "total_transactions": 815483,
+    "success_transactions": 781813,
+    "failed_transactions": 33670,
+    "active_addresses": 117353,
+    "active_contracts": 422971
+  },
+  {
+    "date": "2025-04-27",
+    "total_transactions": 829956,
+    "success_transactions": 796824,
+    "failed_transactions": 33132,
+    "active_addresses": 121909,
+    "active_contracts": 419481
+  },
+  {
+    "date": "2025-04-28",
+    "total_transactions": 811326,
+    "success_transactions": 768916,
+    "failed_transactions": 42410,
+    "active_addresses": 127555,
+    "active_contracts": 230159
+  },
+  {
+    "date": "2025-04-29",
+    "total_transactions": 825008,
+    "success_transactions": 789340,
+    "failed_transactions": 35668,
+    "active_addresses": 117425,
+    "active_contracts": 189287
+  },
+  {
+    "date": "2025-04-30",
+    "total_transactions": 839277,
+    "success_transactions": 801898,
+    "failed_transactions": 37379,
+    "active_addresses": 107053,
+    "active_contracts": 378691
+  },
+  {
+    "date": "2025-05-01",
+    "total_transactions": 847338,
+    "success_transactions": 804848,
+    "failed_transactions": 42490,
+    "active_addresses": 122335,
+    "active_contracts": 456600
+  },
+  {
+    "date": "2025-05-02",
+    "total_transactions": 864688,
+    "success_transactions": 830188,
+    "failed_transactions": 34500,
+    "active_addresses": 118469,
+    "active_contracts": 404715
+  },
+  {
+    "date": "2025-05-03",
+    "total_transactions": 788455,
+    "success_transactions": 765989,
+    "failed_transactions": 22466,
+    "active_addresses": 100289,
+    "active_contracts": 521856
+  },
+  {
+    "date": "2025-05-04",
+    "total_transactions": 761565,
+    "success_transactions": 737347,
+    "failed_transactions": 24218,
+    "active_addresses": 98101,
+    "active_contracts": 395080
+  },
+  {
+    "date": "2025-05-05",
+    "total_transactions": 798711,
+    "success_transactions": 771309,
+    "failed_transactions": 27402,
+    "active_addresses": 101485,
+    "active_contracts": 292805
+  },
+  {
+    "date": "2025-05-06",
+    "total_transactions": 906765,
+    "success_transactions": 878136,
+    "failed_transactions": 28629,
+    "active_addresses": 159156,
+    "active_contracts": 332990
+  },
+  {
+    "date": "2025-05-07",
+    "total_transactions": 912719,
+    "success_transactions": 877485,
+    "failed_transactions": 35234,
+    "active_addresses": 139533,
+    "active_contracts": 543263
+  },
+  {
+    "date": "2025-05-08",
+    "total_transactions": 1096174,
+    "success_transactions": 1028036,
+    "failed_transactions": 68138,
+    "active_addresses": 180806,
+    "active_contracts": 760519
+  },
+  {
+    "date": "2025-05-09",
+    "total_transactions": 1234951,
+    "success_transactions": 1139379,
+    "failed_transactions": 95572,
+    "active_addresses": 223340,
+    "active_contracts": 752739
+  },
+  {
+    "date": "2025-05-10",
+    "total_transactions": 1181713,
+    "success_transactions": 1113615,
+    "failed_transactions": 68098,
+    "active_addresses": 182787,
+    "active_contracts": 683377
+  },
+  {
+    "date": "2025-05-11",
+    "total_transactions": 988862,
+    "success_transactions": 924747,
+    "failed_transactions": 64115,
+    "active_addresses": 141067,
+    "active_contracts": 803870
+  },
+  {
+    "date": "2025-05-12",
+    "total_transactions": 1011323,
+    "success_transactions": 937553,
+    "failed_transactions": 73770,
+    "active_addresses": 143998,
+    "active_contracts": 807438
+  },
+  {
+    "date": "2025-05-13",
+    "total_transactions": 987082,
+    "success_transactions": 903729,
+    "failed_transactions": 83353,
+    "active_addresses": 113898,
+    "active_contracts": 1017314
+  },
+  {
+    "date": "2025-05-14",
+    "total_transactions": 974414,
+    "success_transactions": 898594,
+    "failed_transactions": 75820,
+    "active_addresses": 110001,
+    "active_contracts": 790619
+  },
+  {
+    "date": "2025-05-15",
+    "total_transactions": 986424,
+    "success_transactions": 900891,
+    "failed_transactions": 85533,
+    "active_addresses": 114881,
+    "active_contracts": 771055
+  },
+  {
+    "date": "2025-05-16",
+    "total_transactions": 971790,
+    "success_transactions": 908238,
+    "failed_transactions": 63552,
+    "active_addresses": 106079,
+    "active_contracts": 630491
+  },
+  {
+    "date": "2025-05-17",
+    "total_transactions": 932733,
+    "success_transactions": 892752,
+    "failed_transactions": 39981,
+    "active_addresses": 98017,
+    "active_contracts": 1010632
+  },
+  {
+    "date": "2025-05-18",
+    "total_transactions": 1003452,
+    "success_transactions": 952376,
+    "failed_transactions": 51076,
+    "active_addresses": 101956,
+    "active_contracts": 679315
+  },
+  {
+    "date": "2025-05-19",
+    "total_transactions": 1069589,
+    "success_transactions": 1012288,
+    "failed_transactions": 57301,
+    "active_addresses": 140970,
+    "active_contracts": 743640
+  },
+  {
+    "date": "2025-05-20",
+    "total_transactions": 1109737,
+    "success_transactions": 1048501,
+    "failed_transactions": 61236,
+    "active_addresses": 167220,
+    "active_contracts": 629999
+  },
+  {
+    "date": "2025-05-21",
+    "total_transactions": 1074763,
+    "success_transactions": 1009435,
+    "failed_transactions": 65328,
+    "active_addresses": 101104,
+    "active_contracts": 373108
+  },
+  {
+    "date": "2025-05-22",
+    "total_transactions": 1104482,
+    "success_transactions": 1033772,
+    "failed_transactions": 70710,
+    "active_addresses": 114432,
+    "active_contracts": 682201
+  },
+  {
+    "date": "2025-05-23",
+    "total_transactions": 1114616,
+    "success_transactions": 1038002,
+    "failed_transactions": 76614,
+    "active_addresses": 123175,
+    "active_contracts": 1102902
+  },
+  {
+    "date": "2025-05-24",
+    "total_transactions": 1014509,
+    "success_transactions": 984256,
+    "failed_transactions": 30253,
+    "active_addresses": 127760,
+    "active_contracts": 1082113
+  },
+  {
+    "date": "2025-05-25",
+    "total_transactions": 1011400,
+    "success_transactions": 977156,
+    "failed_transactions": 34244,
+    "active_addresses": 140040,
+    "active_contracts": 848000
+  },
+  {
+    "date": "2025-05-26",
+    "total_transactions": 1062222,
+    "success_transactions": 1027931,
+    "failed_transactions": 34291,
+    "active_addresses": 159646,
+    "active_contracts": 1075237
+  },
+  {
+    "date": "2025-05-27",
+    "total_transactions": 1137298,
+    "success_transactions": 1091860,
+    "failed_transactions": 45438,
+    "active_addresses": 172287,
+    "active_contracts": 836033
+  },
+  {
+    "date": "2025-05-28",
+    "total_transactions": 997299,
+    "success_transactions": 950323,
+    "failed_transactions": 46976,
+    "active_addresses": 109505,
+    "active_contracts": 1316790
+  },
+  {
+    "date": "2025-05-29",
+    "total_transactions": 1066103,
+    "success_transactions": 1020231,
+    "failed_transactions": 45872,
+    "active_addresses": 145435,
+    "active_contracts": 1215439
+  },
+  {
+    "date": "2025-05-30",
+    "total_transactions": 1226908,
+    "success_transactions": 1160419,
+    "failed_transactions": 66489,
+    "active_addresses": 177366,
+    "active_contracts": 1577730
+  },
+  {
+    "date": "2025-05-31",
+    "total_transactions": 964611,
+    "success_transactions": 921378,
+    "failed_transactions": 43233,
+    "active_addresses": 171960,
+    "active_contracts": 1132797
+  },
+  {
+    "date": "2025-06-01",
+    "total_transactions": 776280,
+    "success_transactions": 745076,
+    "failed_transactions": 31204,
+    "active_addresses": 92584,
+    "active_contracts": 871387
+  },
+  {
+    "date": "2025-06-02",
+    "total_transactions": 792258,
+    "success_transactions": 744373,
+    "failed_transactions": 47885,
+    "active_addresses": 108318,
+    "active_contracts": 1469352
+  },
+  {
+    "date": "2025-06-03",
+    "total_transactions": 859914,
+    "success_transactions": 827813,
+    "failed_transactions": 32101,
+    "active_addresses": 96511,
+    "active_contracts": 1813382
+  },
+  {
+    "date": "2025-06-04",
+    "total_transactions": 984047,
+    "success_transactions": 952679,
+    "failed_transactions": 31368,
+    "active_addresses": 107896,
+    "active_contracts": 1548446
+  },
+  {
+    "date": "2025-06-05",
+    "total_transactions": 1037886,
+    "success_transactions": 987579,
+    "failed_transactions": 50307,
+    "active_addresses": 97802,
+    "active_contracts": 1461642
+  },
+  {
+    "date": "2025-06-06",
+    "total_transactions": 1006464,
+    "success_transactions": 970406,
+    "failed_transactions": 36058,
+    "active_addresses": 95012,
+    "active_contracts": 1464508
+  },
+  {
+    "date": "2025-06-07",
+    "total_transactions": 1074584,
+    "success_transactions": 1054166,
+    "failed_transactions": 20418,
+    "active_addresses": 106017,
+    "active_contracts": 1838467
+  },
+  {
+    "date": "2025-06-08",
+    "total_transactions": 887797,
+    "success_transactions": 870090,
+    "failed_transactions": 17707,
+    "active_addresses": 102377,
+    "active_contracts": 1986361
+  },
+  {
+    "date": "2025-06-09",
+    "total_transactions": 1050306,
+    "success_transactions": 1022218,
+    "failed_transactions": 28088,
+    "active_addresses": 107187,
+    "active_contracts": 1558697
+  },
+  {
+    "date": "2025-06-10",
+    "total_transactions": 1088677,
+    "success_transactions": 1035395,
+    "failed_transactions": 53282,
+    "active_addresses": 78675,
+    "active_contracts": 1420053
+  },
+  {
+    "date": "2025-06-11",
+    "total_transactions": 1251625,
+    "success_transactions": 1196691,
+    "failed_transactions": 54934,
+    "active_addresses": 76153,
+    "active_contracts": 1159712
+  },
+  {
+    "date": "2025-06-12",
+    "total_transactions": 1240591,
+    "success_transactions": 1196727,
+    "failed_transactions": 43864,
+    "active_addresses": 99182,
+    "active_contracts": 865685
+  },
+  {
+    "date": "2025-06-13",
+    "total_transactions": 1188007,
+    "success_transactions": 1118232,
+    "failed_transactions": 69775,
+    "active_addresses": 80569,
+    "active_contracts": 916693
+  },
+  {
+    "date": "2025-06-14",
+    "total_transactions": 1062458,
+    "success_transactions": 1032973,
+    "failed_transactions": 29485,
+    "active_addresses": 124097,
+    "active_contracts": 1457358
+  },
+  {
+    "date": "2025-06-15",
+    "total_transactions": 1108594,
+    "success_transactions": 1075143,
+    "failed_transactions": 33451,
+    "active_addresses": 136222,
+    "active_contracts": 1337216
+  },
+  {
+    "date": "2025-06-16",
+    "total_transactions": 1495751,
+    "success_transactions": 1457143,
+    "failed_transactions": 38608,
+    "active_addresses": 79241,
+    "active_contracts": 418054
+  },
+  {
+    "date": "2025-06-17",
+    "total_transactions": 1406274,
+    "success_transactions": 1363409,
+    "failed_transactions": 42865,
+    "active_addresses": 158689,
+    "active_contracts": 605322
+  },
+  {
+    "date": "2025-06-18",
+    "total_transactions": 1402081,
+    "success_transactions": 1356826,
+    "failed_transactions": 45255,
+    "active_addresses": 168548,
+    "active_contracts": 542620
+  },
+  {
+    "date": "2025-06-19",
+    "total_transactions": 1185156,
+    "success_transactions": 1160672,
+    "failed_transactions": 24484,
+    "active_addresses": 94986,
+    "active_contracts": 1031127
+  },
+  {
+    "date": "2025-06-20",
+    "total_transactions": 1237161,
+    "success_transactions": 1206346,
+    "failed_transactions": 30815,
+    "active_addresses": 59737,
+    "active_contracts": 596061
+  },
+  {
+    "date": "2025-06-21",
+    "total_transactions": 1255071,
+    "success_transactions": 1217057,
+    "failed_transactions": 38014,
+    "active_addresses": 70677,
+    "active_contracts": 637763
+  },
+  {
+    "date": "2025-06-22",
+    "total_transactions": 1479196,
+    "success_transactions": 1416402,
+    "failed_transactions": 62794,
+    "active_addresses": 61003,
+    "active_contracts": 917289
+  },
+  {
+    "date": "2025-06-23",
+    "total_transactions": 1211872,
+    "success_transactions": 1141907,
+    "failed_transactions": 69965,
+    "active_addresses": 67189,
+    "active_contracts": 524189
+  },
+  {
+    "date": "2025-06-24",
+    "total_transactions": 1245629,
+    "success_transactions": 1195379,
+    "failed_transactions": 50250,
+    "active_addresses": 102246,
+    "active_contracts": 793355
+  },
+  {
+    "date": "2025-06-25",
+    "total_transactions": 1208301,
+    "success_transactions": 1175767,
+    "failed_transactions": 32534,
+    "active_addresses": 105400,
+    "active_contracts": 1371517
+  },
+  {
+    "date": "2025-06-26",
+    "total_transactions": 1232186,
+    "success_transactions": 1196580,
+    "failed_transactions": 35606,
+    "active_addresses": 127293,
+    "active_contracts": 1676222
+  },
+  {
+    "date": "2025-06-27",
+    "total_transactions": 1339623,
+    "success_transactions": 1310020,
+    "failed_transactions": 29603,
+    "active_addresses": 154111,
+    "active_contracts": 1486945
+  },
+  {
+    "date": "2025-06-28",
+    "total_transactions": 1227687,
+    "success_transactions": 1199752,
+    "failed_transactions": 27935,
+    "active_addresses": 118513,
+    "active_contracts": 1401905
+  },
+  {
+    "date": "2025-06-29",
+    "total_transactions": 1234483,
+    "success_transactions": 1212291,
+    "failed_transactions": 22192,
+    "active_addresses": 111030,
+    "active_contracts": 1234395
+  },
+  {
+    "date": "2025-06-30",
+    "total_transactions": 1324143,
+    "success_transactions": 1294589,
+    "failed_transactions": 29554,
+    "active_addresses": 147625,
+    "active_contracts": 1161083
+  },
+  {
+    "date": "2025-07-01",
+    "total_transactions": 1329057,
+    "success_transactions": 1299089,
+    "failed_transactions": 29968,
+    "active_addresses": 143011,
+    "active_contracts": 1121723
+  },
+  {
+    "date": "2025-07-02",
+    "total_transactions": 1438191,
+    "success_transactions": 1406514,
+    "failed_transactions": 31677,
+    "active_addresses": 124857,
+    "active_contracts": 1137701
+  },
+  {
+    "date": "2025-07-03",
+    "total_transactions": 1075903,
+    "success_transactions": 1047842,
+    "failed_transactions": 28061,
+    "active_addresses": 97630,
+    "active_contracts": 1300725
+  },
+  {
+    "date": "2025-07-04",
+    "total_transactions": 1127375,
+    "success_transactions": 1095783,
+    "failed_transactions": 31592,
+    "active_addresses": 90079,
+    "active_contracts": 1422449
+  },
+  {
+    "date": "2025-07-05",
+    "total_transactions": 1179306,
+    "success_transactions": 1164477,
+    "failed_transactions": 14829,
+    "active_addresses": 92038,
+    "active_contracts": 1447804
+  },
+  {
+    "date": "2025-07-06",
+    "total_transactions": 1143748,
+    "success_transactions": 1124771,
+    "failed_transactions": 18977,
+    "active_addresses": 75376,
+    "active_contracts": 1377125
+  },
+  {
+    "date": "2025-07-07",
+    "total_transactions": 1157425,
+    "success_transactions": 1130087,
+    "failed_transactions": 27338,
+    "active_addresses": 66677,
+    "active_contracts": 1061494
+  },
+  {
+    "date": "2025-07-08",
+    "total_transactions": 1119576,
+    "success_transactions": 1100638,
+    "failed_transactions": 18938,
+    "active_addresses": 78449,
+    "active_contracts": 997173
+  },
+  {
+    "date": "2025-07-09",
+    "total_transactions": 1183722,
+    "success_transactions": 1151601,
+    "failed_transactions": 32121,
+    "active_addresses": 110648,
+    "active_contracts": 917529
+  },
+  {
+    "date": "2025-07-10",
+    "total_transactions": 1194016,
+    "success_transactions": 1154889,
+    "failed_transactions": 39127,
+    "active_addresses": 106636,
+    "active_contracts": 483952
+  },
+  {
+    "date": "2025-07-11",
+    "total_transactions": 1246902,
+    "success_transactions": 1196284,
+    "failed_transactions": 50618,
+    "active_addresses": 104865,
+    "active_contracts": 909246
+  },
+  {
+    "date": "2025-07-12",
+    "total_transactions": 1218258,
+    "success_transactions": 1189122,
+    "failed_transactions": 29136,
+    "active_addresses": 75429,
+    "active_contracts": 609542
+  },
+  {
+    "date": "2025-07-13",
+    "total_transactions": 1190297,
+    "success_transactions": 1161212,
+    "failed_transactions": 29085,
+    "active_addresses": 58748,
+    "active_contracts": 806049
+  },
+  {
+    "date": "2025-07-14",
+    "total_transactions": 1201922,
+    "success_transactions": 1144344,
+    "failed_transactions": 57578,
+    "active_addresses": 65727,
+    "active_contracts": 801363
+  },
+  {
+    "date": "2025-07-15",
+    "total_transactions": 1357667,
+    "success_transactions": 1298070,
+    "failed_transactions": 59597,
+    "active_addresses": 83017,
+    "active_contracts": 928610
+  },
+  {
+    "date": "2025-07-16",
+    "total_transactions": 1287848,
+    "success_transactions": 1227376,
+    "failed_transactions": 60472,
+    "active_addresses": 94138,
+    "active_contracts": 318805
+  },
+  {
+    "date": "2025-07-17",
+    "total_transactions": 1323606,
+    "success_transactions": 1249888,
+    "failed_transactions": 73718,
+    "active_addresses": 87766,
+    "active_contracts": 662641
+  },
+  {
+    "date": "2025-07-18",
+    "total_transactions": 1514300,
+    "success_transactions": 1423802,
+    "failed_transactions": 90498,
+    "active_addresses": 101456,
+    "active_contracts": 815292
+  },
+  {
+    "date": "2025-07-19",
+    "total_transactions": 1102734,
+    "success_transactions": 1051238,
+    "failed_transactions": 51496,
+    "active_addresses": 90195,
+    "active_contracts": 1369086
+  },
+  {
+    "date": "2025-07-20",
+    "total_transactions": 1290516,
+    "success_transactions": 1222321,
+    "failed_transactions": 68195,
+    "active_addresses": 103928,
+    "active_contracts": 1597171
+  },
+  {
+    "date": "2025-07-21",
+    "total_transactions": 2015314,
+    "success_transactions": 1956688,
+    "failed_transactions": 58626,
+    "active_addresses": 102436,
+    "active_contracts": 715282
+  },
+  {
+    "date": "2025-07-22",
+    "total_transactions": 1975709,
+    "success_transactions": 1913891,
+    "failed_transactions": 61818,
+    "active_addresses": 133023,
+    "active_contracts": 686733
+  },
+  {
+    "date": "2025-07-23",
+    "total_transactions": 2026032,
+    "success_transactions": 1968905,
+    "failed_transactions": 57127,
+    "active_addresses": 82359,
+    "active_contracts": 1006167
+  },
+  {
+    "date": "2025-07-24",
+    "total_transactions": 1432745,
+    "success_transactions": 1380591,
+    "failed_transactions": 52154,
+    "active_addresses": 79190,
+    "active_contracts": 882249
+  },
+  {
+    "date": "2025-07-25",
+    "total_transactions": 1630457,
+    "success_transactions": 1580641,
+    "failed_transactions": 49816,
+    "active_addresses": 75673,
+    "active_contracts": 1507364
+  },
+  {
+    "date": "2025-07-26",
+    "total_transactions": 1585178,
+    "success_transactions": 1563975,
+    "failed_transactions": 21203,
+    "active_addresses": 57826,
+    "active_contracts": 1375176
+  },
+  {
+    "date": "2025-07-27",
+    "total_transactions": 1597711,
+    "success_transactions": 1572436,
+    "failed_transactions": 25275,
+    "active_addresses": 60042,
+    "active_contracts": 1473333
+  },
+  {
+    "date": "2025-07-28",
+    "total_transactions": 2152536,
+    "success_transactions": 2103166,
+    "failed_transactions": 49370,
+    "active_addresses": 71167,
+    "active_contracts": 889393
+  },
+  {
+    "date": "2025-07-29",
+    "total_transactions": 1754752,
+    "success_transactions": 1709738,
+    "failed_transactions": 45014,
+    "active_addresses": 59186,
+    "active_contracts": 859061
+  },
+  {
+    "date": "2025-07-30",
+    "total_transactions": 1294012,
+    "success_transactions": 1252344,
+    "failed_transactions": 41668,
+    "active_addresses": 61188,
+    "active_contracts": 1008213
+  },
+  {
+    "date": "2025-07-31",
+    "total_transactions": 1131378,
+    "success_transactions": 1098500,
+    "failed_transactions": 32878,
+    "active_addresses": 68612,
+    "active_contracts": 1399564
+  },
+  {
+    "date": "2025-08-01",
+    "total_transactions": 1408793,
+    "success_transactions": 1336675,
+    "failed_transactions": 72118,
+    "active_addresses": 66433,
+    "active_contracts": 1155602
+  },
+  {
+    "date": "2025-08-02",
+    "total_transactions": 1056528,
+    "success_transactions": 1016802,
+    "failed_transactions": 39726,
+    "active_addresses": 48999,
+    "active_contracts": 1187780
+  },
+  {
+    "date": "2025-08-03",
+    "total_transactions": 959437,
+    "success_transactions": 936551,
+    "failed_transactions": 22886,
+    "active_addresses": 52664,
+    "active_contracts": 1224856
+  },
+  {
+    "date": "2025-08-04",
+    "total_transactions": 992820,
+    "success_transactions": 955530,
+    "failed_transactions": 37290,
+    "active_addresses": 60812,
+    "active_contracts": 1423136
+  },
+  {
+    "date": "2025-08-05",
+    "total_transactions": 1032673,
+    "success_transactions": 997117,
+    "failed_transactions": 35556,
+    "active_addresses": 62966,
+    "active_contracts": 1036321
+  },
+  {
+    "date": "2025-08-06",
+    "total_transactions": 1017157,
+    "success_transactions": 985552,
+    "failed_transactions": 31605,
+    "active_addresses": 88237,
+    "active_contracts": 942485
+  },
+  {
+    "date": "2025-08-07",
+    "total_transactions": 1027892,
+    "success_transactions": 990768,
+    "failed_transactions": 37124,
+    "active_addresses": 55913,
+    "active_contracts": 1477146
+  },
+  {
+    "date": "2025-08-08",
+    "total_transactions": 1063076,
+    "success_transactions": 1010240,
+    "failed_transactions": 52836,
+    "active_addresses": 61840,
+    "active_contracts": 1375495
+  },
+  {
+    "date": "2025-08-09",
+    "total_transactions": 1520658,
+    "success_transactions": 1481404,
+    "failed_transactions": 39254,
+    "active_addresses": 97136,
+    "active_contracts": 1459870
+  },
+  {
+    "date": "2025-08-10",
+    "total_transactions": 1644452,
+    "success_transactions": 1609152,
+    "failed_transactions": 35300,
+    "active_addresses": 128894,
+    "active_contracts": 1146969
+  },
+  {
+    "date": "2025-08-11",
+    "total_transactions": 1120187,
+    "success_transactions": 1075287,
+    "failed_transactions": 44900,
+    "active_addresses": 69505,
+    "active_contracts": 747803
+  },
+  {
+    "date": "2025-08-12",
+    "total_transactions": 1107921,
+    "success_transactions": 1061553,
+    "failed_transactions": 46368,
+    "active_addresses": 82407,
+    "active_contracts": 1247960
+  },
+  {
+    "date": "2025-08-13",
+    "total_transactions": 1162057,
+    "success_transactions": 1101439,
+    "failed_transactions": 60618,
+    "active_addresses": 80722,
+    "active_contracts": 1582277
+  },
+  {
+    "date": "2025-08-14",
+    "total_transactions": 1101777,
+    "success_transactions": 1036698,
+    "failed_transactions": 65079,
+    "active_addresses": 77587,
+    "active_contracts": 1530693
+  },
+  {
+    "date": "2025-08-15",
+    "total_transactions": 1192001,
+    "success_transactions": 1147677,
+    "failed_transactions": 44324,
+    "active_addresses": 67925,
+    "active_contracts": 1419700
+  },
+  {
+    "date": "2025-08-16",
+    "total_transactions": 1130816,
+    "success_transactions": 1080482,
+    "failed_transactions": 50334,
+    "active_addresses": 74808,
+    "active_contracts": 2194144
+  },
+  {
+    "date": "2025-08-17",
+    "total_transactions": 984694,
+    "success_transactions": 956766,
+    "failed_transactions": 27928,
+    "active_addresses": 68539,
+    "active_contracts": 2288442
+  },
+  {
+    "date": "2025-08-18",
+    "total_transactions": 1252166,
+    "success_transactions": 1203711,
+    "failed_transactions": 48455,
+    "active_addresses": 81638,
+    "active_contracts": 808280
+  },
+  {
+    "date": "2025-08-19",
+    "total_transactions": 1133529,
+    "success_transactions": 1086241,
+    "failed_transactions": 47288,
+    "active_addresses": 55450,
+    "active_contracts": 1152826
+  },
+  {
+    "date": "2025-08-20",
+    "total_transactions": 1108986,
+    "success_transactions": 1069598,
+    "failed_transactions": 39388,
+    "active_addresses": 62828,
+    "active_contracts": 869078
+  },
+  {
+    "date": "2025-08-21",
+    "total_transactions": 1137710,
+    "success_transactions": 1104472,
+    "failed_transactions": 33238,
+    "active_addresses": 161765,
+    "active_contracts": 1953544
+  },
+  {
+    "date": "2025-08-22",
+    "total_transactions": 1241664,
+    "success_transactions": 1186751,
+    "failed_transactions": 54913,
+    "active_addresses": 115082,
+    "active_contracts": 1578729
+  },
+  {
+    "date": "2025-08-23",
+    "total_transactions": 1081464,
+    "success_transactions": 1045915,
+    "failed_transactions": 35549,
+    "active_addresses": 67376,
+    "active_contracts": 1997904
+  },
+  {
+    "date": "2025-08-24",
+    "total_transactions": 2351977,
+    "success_transactions": 2308747,
+    "failed_transactions": 43230,
+    "active_addresses": 67682,
+    "active_contracts": 1840676
+  },
+  {
+    "date": "2025-08-25",
+    "total_transactions": 1237142,
+    "success_transactions": 1179291,
+    "failed_transactions": 57851,
+    "active_addresses": 67283,
+    "active_contracts": 1671237
+  },
+  {
+    "date": "2025-08-26",
+    "total_transactions": 1235594,
+    "success_transactions": 1188479,
+    "failed_transactions": 47115,
+    "active_addresses": 71295,
+    "active_contracts": 2153198
+  },
+  {
+    "date": "2025-08-27",
+    "total_transactions": 1309310,
+    "success_transactions": 1259958,
+    "failed_transactions": 49352,
+    "active_addresses": 62509,
+    "active_contracts": 2111586
+  },
+  {
+    "date": "2025-08-28",
+    "total_transactions": 1225400,
+    "success_transactions": 1184965,
+    "failed_transactions": 40435,
+    "active_addresses": 108496,
+    "active_contracts": 2036511
+  },
+  {
+    "date": "2025-08-29",
+    "total_transactions": 1441139,
+    "success_transactions": 1372583,
+    "failed_transactions": 68556,
+    "active_addresses": 93547,
+    "active_contracts": 1581618
+  },
+  {
+    "date": "2025-08-30",
+    "total_transactions": 1079423,
+    "success_transactions": 1047619,
+    "failed_transactions": 31804,
+    "active_addresses": 46107,
+    "active_contracts": 1021576
+  },
+  {
+    "date": "2025-08-31",
+    "total_transactions": 1111575,
+    "success_transactions": 1078226,
+    "failed_transactions": 33349,
+    "active_addresses": 50425,
+    "active_contracts": 1372700
+  },
+  {
+    "date": "2025-09-01",
+    "total_transactions": 1157155,
+    "success_transactions": 1105125,
+    "failed_transactions": 52030,
+    "active_addresses": 52108,
+    "active_contracts": 1639580
+  },
+  {
+    "date": "2025-09-02",
+    "total_transactions": 1228765,
+    "success_transactions": 1172818,
+    "failed_transactions": 55947,
+    "active_addresses": 54322,
+    "active_contracts": 1694528
+  },
+  {
+    "date": "2025-09-03",
+    "total_transactions": 1150425,
+    "success_transactions": 1118151,
+    "failed_transactions": 32274,
+    "active_addresses": 61619,
+    "active_contracts": 1426277
+  },
+  {
+    "date": "2025-09-04",
+    "total_transactions": 1185183,
+    "success_transactions": 1147035,
+    "failed_transactions": 38148,
+    "active_addresses": 82421,
+    "active_contracts": 1483943
+  },
+  {
+    "date": "2025-09-05",
+    "total_transactions": 1331119,
+    "success_transactions": 1279091,
+    "failed_transactions": 52028,
+    "active_addresses": 75932,
+    "active_contracts": 1479532
+  },
+  {
+    "date": "2025-09-06",
+    "total_transactions": 1037151,
+    "success_transactions": 1018961,
+    "failed_transactions": 18190,
+    "active_addresses": 63085,
+    "active_contracts": 1566635
+  },
+  {
+    "date": "2025-09-07",
+    "total_transactions": 1057581,
+    "success_transactions": 1040814,
+    "failed_transactions": 16767,
+    "active_addresses": 63911,
+    "active_contracts": 1217864
+  },
+  {
+    "date": "2025-09-08",
+    "total_transactions": 1229966,
+    "success_transactions": 1186180,
+    "failed_transactions": 43786,
+    "active_addresses": 64828,
+    "active_contracts": 710496
+  },
+  {
+    "date": "2025-09-09",
+    "total_transactions": 1351713,
+    "success_transactions": 1288585,
+    "failed_transactions": 63128,
+    "active_addresses": 94640,
+    "active_contracts": 1998951
+  },
+  {
+    "date": "2025-09-10",
+    "total_transactions": 1186248,
+    "success_transactions": 1149197,
+    "failed_transactions": 37051,
+    "active_addresses": 110831,
+    "active_contracts": 1816710
+  },
+  {
+    "date": "2025-09-11",
+    "total_transactions": 1293738,
+    "success_transactions": 1259266,
+    "failed_transactions": 34472,
+    "active_addresses": 106931,
+    "active_contracts": 1509669
+  },
+  {
+    "date": "2025-09-12",
+    "total_transactions": 1139873,
+    "success_transactions": 1100313,
+    "failed_transactions": 39560,
+    "active_addresses": 102594,
+    "active_contracts": 1703930
+  },
+  {
+    "date": "2025-09-13",
+    "total_transactions": 1022845,
+    "success_transactions": 994667,
+    "failed_transactions": 28178,
+    "active_addresses": 86552,
+    "active_contracts": 853378
+  },
+  {
+    "date": "2025-09-14",
+    "total_transactions": 909627,
+    "success_transactions": 879558,
+    "failed_transactions": 30069,
+    "active_addresses": 84426,
+    "active_contracts": 1161203
+  },
+  {
+    "date": "2025-09-15",
+    "total_transactions": 1076009,
+    "success_transactions": 1038698,
+    "failed_transactions": 37311,
+    "active_addresses": 83097,
+    "active_contracts": 907142
+  },
+  {
+    "date": "2025-09-16",
+    "total_transactions": 1118535,
+    "success_transactions": 1083280,
+    "failed_transactions": 35255,
+    "active_addresses": 69373,
+    "active_contracts": 1123276
+  },
+  {
+    "date": "2025-09-17",
+    "total_transactions": 1319682,
+    "success_transactions": 1260780,
+    "failed_transactions": 58902,
+    "active_addresses": 60057,
+    "active_contracts": 1348466
+  },
+  {
+    "date": "2025-09-18",
+    "total_transactions": 1230488,
+    "success_transactions": 1192871,
+    "failed_transactions": 37617,
+    "active_addresses": 78956,
+    "active_contracts": 1285224
+  },
+  {
+    "date": "2025-09-19",
+    "total_transactions": 1136896,
+    "success_transactions": 1100190,
+    "failed_transactions": 36706,
+    "active_addresses": 70874,
+    "active_contracts": 2039452
+  },
+  {
+    "date": "2025-09-20",
+    "total_transactions": 1108192,
+    "success_transactions": 1085848,
+    "failed_transactions": 22344,
+    "active_addresses": 66931,
+    "active_contracts": 1693913
+  },
+  {
+    "date": "2025-09-21",
+    "total_transactions": 1348732,
+    "success_transactions": 1326540,
+    "failed_transactions": 22192,
+    "active_addresses": 76642,
+    "active_contracts": 1363798
+  },
+  {
+    "date": "2025-09-22",
+    "total_transactions": 1631537,
+    "success_transactions": 1565580,
+    "failed_transactions": 65957,
+    "active_addresses": 90919,
+    "active_contracts": 1362638
+  },
+  {
+    "date": "2025-09-23",
+    "total_transactions": 1433726,
+    "success_transactions": 1388584,
+    "failed_transactions": 45142,
+    "active_addresses": 101034,
+    "active_contracts": 1762523
+  },
+  {
+    "date": "2025-09-24",
+    "total_transactions": 1470646,
+    "success_transactions": 1425455,
+    "failed_transactions": 45191,
+    "active_addresses": 88018,
+    "active_contracts": 2003216
+  },
+  {
+    "date": "2025-09-25",
+    "total_transactions": 1845434,
+    "success_transactions": 1744196,
+    "failed_transactions": 101238,
+    "active_addresses": 76423,
+    "active_contracts": 1660183
+  },
+  {
+    "date": "2025-09-26",
+    "total_transactions": 1510106,
+    "success_transactions": 1422052,
+    "failed_transactions": 88054,
+    "active_addresses": 63094,
+    "active_contracts": 1626047
+  },
+  {
+    "date": "2025-09-27",
+    "total_transactions": 1208916,
+    "success_transactions": 1157308,
+    "failed_transactions": 51608,
+    "active_addresses": 42841,
+    "active_contracts": 1893463
+  },
+  {
+    "date": "2025-09-28",
+    "total_transactions": 1239869,
+    "success_transactions": 1187336,
+    "failed_transactions": 52533,
+    "active_addresses": 48914,
+    "active_contracts": 1735912
+  },
+  {
+    "date": "2025-09-29",
+    "total_transactions": 1145803,
+    "success_transactions": 1092671,
+    "failed_transactions": 53132,
+    "active_addresses": 58301,
+    "active_contracts": 1788936
+  },
+  {
+    "date": "2025-09-30",
+    "total_transactions": 1283607,
+    "success_transactions": 1232288,
+    "failed_transactions": 51319,
+    "active_addresses": 70415,
+    "active_contracts": 225564
+  },
+  {
+    "date": "2025-10-01",
+    "total_transactions": 1209271,
+    "success_transactions": 1156403,
+    "failed_transactions": 52868,
+    "active_addresses": 60608,
+    "active_contracts": 190542
+  },
+  {
+    "date": "2025-10-02",
+    "total_transactions": 1292312,
+    "success_transactions": 1236979,
+    "failed_transactions": 55333,
+    "active_addresses": 97183,
+    "active_contracts": 961683
+  },
+  {
+    "date": "2025-10-03",
+    "total_transactions": 1271904,
+    "success_transactions": 1218141,
+    "failed_transactions": 53763,
+    "active_addresses": 56560,
+    "active_contracts": 1062679
+  },
+  {
+    "date": "2025-10-04",
+    "total_transactions": 1281149,
+    "success_transactions": 1250974,
+    "failed_transactions": 30175,
+    "active_addresses": 58102,
+    "active_contracts": 945030
+  },
+  {
+    "date": "2025-10-05",
+    "total_transactions": 1842303,
+    "success_transactions": 1797473,
+    "failed_transactions": 44830,
+    "active_addresses": 44660,
+    "active_contracts": 633336
+  },
+  {
+    "date": "2025-10-06",
+    "total_transactions": 1615047,
+    "success_transactions": 1564651,
+    "failed_transactions": 50396,
+    "active_addresses": 49301,
+    "active_contracts": 563309
+  },
+  {
+    "date": "2025-10-07",
+    "total_transactions": 1791151,
+    "success_transactions": 1743955,
+    "failed_transactions": 47196,
+    "active_addresses": 98819,
+    "active_contracts": 326283
+  },
+  {
+    "date": "2025-10-08",
+    "total_transactions": 2083382,
+    "success_transactions": 1923919,
+    "failed_transactions": 159463,
+    "active_addresses": 51844,
+    "active_contracts": 315151
+  },
+  {
+    "date": "2025-10-09",
+    "total_transactions": 2844837,
+    "success_transactions": 2442252,
+    "failed_transactions": 402585,
+    "active_addresses": 249665,
+    "active_contracts": 448813
+  },
+  {
+    "date": "2025-10-10",
+    "total_transactions": 2948298,
+    "success_transactions": 2484142,
+    "failed_transactions": 464156,
+    "active_addresses": 176393,
+    "active_contracts": 325131
+  },
+  {
+    "date": "2025-10-11",
+    "total_transactions": 2572052,
+    "success_transactions": 2446410,
+    "failed_transactions": 125642,
+    "active_addresses": 61952,
+    "active_contracts": 506778
+  },
+  {
+    "date": "2025-10-12",
+    "total_transactions": 2430328,
+    "success_transactions": 2302692,
+    "failed_transactions": 127636,
+    "active_addresses": 50835,
+    "active_contracts": 460764
+  },
+  {
+    "date": "2025-10-13",
+    "total_transactions": 2472714,
+    "success_transactions": 2313624,
+    "failed_transactions": 159090,
+    "active_addresses": 53514,
+    "active_contracts": 141899
+  },
+  {
+    "date": "2025-10-14",
+    "total_transactions": 2531025,
+    "success_transactions": 2358081,
+    "failed_transactions": 172944,
+    "active_addresses": 59538,
+    "active_contracts": 236401
+  },
+  {
+    "date": "2025-10-15",
+    "total_transactions": 2353069,
+    "success_transactions": 2250594,
+    "failed_transactions": 102475,
+    "active_addresses": 64981,
+    "active_contracts": 425683
+  },
+  {
+    "date": "2025-10-16",
+    "total_transactions": 1998756,
+    "success_transactions": 1902766,
+    "failed_transactions": 95990,
+    "active_addresses": 57199,
+    "active_contracts": 1040135
+  },
+  {
+    "date": "2025-10-17",
+    "total_transactions": 1797152,
+    "success_transactions": 1697110,
+    "failed_transactions": 100042,
+    "active_addresses": 45353,
+    "active_contracts": 1081896
+  },
+  {
+    "date": "2025-10-18",
+    "total_transactions": 1327550,
+    "success_transactions": 1293739,
+    "failed_transactions": 33811,
+    "active_addresses": 44493,
+    "active_contracts": 1156085
+  },
+  {
+    "date": "2025-10-19",
+    "total_transactions": 1638044,
+    "success_transactions": 1591370,
+    "failed_transactions": 46674,
+    "active_addresses": 37993,
+    "active_contracts": 1002453
+  },
+  {
+    "date": "2025-10-20",
+    "total_transactions": 1876401,
+    "success_transactions": 1823659,
+    "failed_transactions": 52742,
+    "active_addresses": 42742,
+    "active_contracts": 777462
+  },
+  {
+    "date": "2025-10-21",
+    "total_transactions": 1848801,
+    "success_transactions": 1775887,
+    "failed_transactions": 72914,
+    "active_addresses": 39368,
+    "active_contracts": 353653
+  },
+  {
+    "date": "2025-10-22",
+    "total_transactions": 2326308,
+    "success_transactions": 2253463,
+    "failed_transactions": 72845,
+    "active_addresses": 46943,
+    "active_contracts": 638711
+  },
+  {
+    "date": "2025-10-23",
+    "total_transactions": 1712936,
+    "success_transactions": 1673210,
+    "failed_transactions": 39726,
+    "active_addresses": 37243,
+    "active_contracts": 1613429
+  },
+  {
+    "date": "2025-10-24",
+    "total_transactions": 1624669,
+    "success_transactions": 1585169,
+    "failed_transactions": 39500,
+    "active_addresses": 37583,
+    "active_contracts": 915513
+  },
+  {
+    "date": "2025-10-25",
+    "total_transactions": 1308027,
+    "success_transactions": 1291910,
+    "failed_transactions": 16117,
+    "active_addresses": 31534,
+    "active_contracts": 828484
+  },
+  {
+    "date": "2025-10-26",
+    "total_transactions": 1679455,
+    "success_transactions": 1644366,
+    "failed_transactions": 35089,
+    "active_addresses": 39015,
+    "active_contracts": 472377
+  },
+  {
+    "date": "2025-10-27",
+    "total_transactions": 1958408,
+    "success_transactions": 1917127,
+    "failed_transactions": 41281,
+    "active_addresses": 40704,
+    "active_contracts": 699903
+  },
+  {
+    "date": "2025-10-28",
+    "total_transactions": 2060062,
+    "success_transactions": 2013546,
+    "failed_transactions": 46516,
+    "active_addresses": 44168,
+    "active_contracts": 455156
+  },
+  {
+    "date": "2025-10-29",
+    "total_transactions": 1710281,
+    "success_transactions": 1661295,
+    "failed_transactions": 48986,
+    "active_addresses": 44413,
+    "active_contracts": 81867
+  },
+  {
+    "date": "2025-10-30",
+    "total_transactions": 1767403,
+    "success_transactions": 1701834,
+    "failed_transactions": 65569,
+    "active_addresses": 52183,
+    "active_contracts": 352144
+  },
+  {
+    "date": "2025-10-31",
+    "total_transactions": 1695693,
+    "success_transactions": 1643357,
+    "failed_transactions": 52336,
+    "active_addresses": 38040,
+    "active_contracts": 846011
+  },
+  {
+    "date": "2025-11-01",
+    "total_transactions": 1612989,
+    "success_transactions": 1587734,
+    "failed_transactions": 25255,
+    "active_addresses": 32585,
+    "active_contracts": 703193
+  },
+  {
+    "date": "2025-11-02",
+    "total_transactions": 1611283,
+    "success_transactions": 1575085,
+    "failed_transactions": 36198,
+    "active_addresses": 37508,
+    "active_contracts": 796033
+  },
+  {
+    "date": "2025-11-03",
+    "total_transactions": 1821360,
+    "success_transactions": 1730692,
+    "failed_transactions": 90668,
+    "active_addresses": 38778,
+    "active_contracts": 847091
+  },
+  {
+    "date": "2025-11-04",
+    "total_transactions": 2073512,
+    "success_transactions": 1941397,
+    "failed_transactions": 132115,
+    "active_addresses": 38521,
+    "active_contracts": 417764
+  },
+  {
+    "date": "2025-11-05",
+    "total_transactions": 1744994,
+    "success_transactions": 1678336,
+    "failed_transactions": 66658,
+    "active_addresses": 35811,
+    "active_contracts": 472588
+  },
+  {
+    "date": "2025-11-06",
+    "total_transactions": 1509039,
+    "success_transactions": 1448939,
+    "failed_transactions": 60100,
+    "active_addresses": 38919,
+    "active_contracts": 1156415
+  },
+  {
+    "date": "2025-11-07",
+    "total_transactions": 1661553,
+    "success_transactions": 1585695,
+    "failed_transactions": 75858,
+    "active_addresses": 39011,
+    "active_contracts": 330009
+  },
+  {
+    "date": "2025-11-08",
+    "total_transactions": 1649716,
+    "success_transactions": 1609065,
+    "failed_transactions": 40651,
+    "active_addresses": 39037,
+    "active_contracts": 762433
+  },
+  {
+    "date": "2025-11-09",
+    "total_transactions": 1717612,
+    "success_transactions": 1675268,
+    "failed_transactions": 42344,
+    "active_addresses": 33836,
+    "active_contracts": 740753
+  },
+  {
+    "date": "2025-11-10",
+    "total_transactions": 1854049,
+    "success_transactions": 1798722,
+    "failed_transactions": 55327,
+    "active_addresses": 42169,
+    "active_contracts": 279367
+  },
+  {
+    "date": "2025-11-11",
+    "total_transactions": 2191914,
+    "success_transactions": 2127534,
+    "failed_transactions": 64380,
+    "active_addresses": 61918,
+    "active_contracts": 390189
+  },
+  {
+    "date": "2025-11-12",
+    "total_transactions": 2286033,
+    "success_transactions": 2225312,
+    "failed_transactions": 60721,
+    "active_addresses": 45978,
+    "active_contracts": 481202
+  },
+  {
+    "date": "2025-11-13",
+    "total_transactions": 2107712,
+    "success_transactions": 2033887,
+    "failed_transactions": 73825,
+    "active_addresses": 48166,
+    "active_contracts": 684153
+  },
+  {
+    "date": "2025-11-14",
+    "total_transactions": 2164318,
+    "success_transactions": 2015030,
+    "failed_transactions": 149288,
+    "active_addresses": 39776,
+    "active_contracts": 541498
+  },
+  {
+    "date": "2025-11-15",
+    "total_transactions": 1891638,
+    "success_transactions": 1850647,
+    "failed_transactions": 40991,
+    "active_addresses": 36452,
+    "active_contracts": 765103
+  },
+  {
+    "date": "2025-11-16",
+    "total_transactions": 1893191,
+    "success_transactions": 1820138,
+    "failed_transactions": 73053,
+    "active_addresses": 33946,
+    "active_contracts": 776915
+  },
+  {
+    "date": "2025-11-17",
+    "total_transactions": 2061752,
+    "success_transactions": 1965369,
+    "failed_transactions": 96383,
+    "active_addresses": 53661,
+    "active_contracts": 559979
+  },
+  {
+    "date": "2025-11-18",
+    "total_transactions": 1867033,
+    "success_transactions": 1780332,
+    "failed_transactions": 86701,
+    "active_addresses": 30946,
+    "active_contracts": 173665
+  },
+  {
+    "date": "2025-11-19",
+    "total_transactions": 1823925,
+    "success_transactions": 1744091,
+    "failed_transactions": 79834,
+    "active_addresses": 55167,
+    "active_contracts": 93063
+  },
+  {
+    "date": "2025-11-20",
+    "total_transactions": 2116194,
+    "success_transactions": 2023463,
+    "failed_transactions": 92731,
+    "active_addresses": 112078,
+    "active_contracts": 256065
+  },
+  {
+    "date": "2025-11-21",
+    "total_transactions": 2366583,
+    "success_transactions": 2217415,
+    "failed_transactions": 149168,
+    "active_addresses": 101412,
+    "active_contracts": 74350
+  },
+  {
+    "date": "2025-11-22",
+    "total_transactions": 1714142,
+    "success_transactions": 1668862,
+    "failed_transactions": 45280,
+    "active_addresses": 111614,
+    "active_contracts": 126722
+  },
+  {
+    "date": "2025-11-23",
+    "total_transactions": 1590995,
+    "success_transactions": 1552353,
+    "failed_transactions": 38642,
+    "active_addresses": 33366,
+    "active_contracts": 399887
+  },
+  {
+    "date": "2025-11-24",
+    "total_transactions": 1528655,
+    "success_transactions": 1464348,
+    "failed_transactions": 64307,
+    "active_addresses": 31339,
+    "active_contracts": 179564
+  },
+  {
+    "date": "2025-11-25",
+    "total_transactions": 1380223,
+    "success_transactions": 1324790,
+    "failed_transactions": 55433,
+    "active_addresses": 31519,
+    "active_contracts": 497470
+  },
+  {
+    "date": "2025-11-26",
+    "total_transactions": 1355114,
+    "success_transactions": 1311967,
+    "failed_transactions": 43147,
+    "active_addresses": 33139,
+    "active_contracts": 469603
+  },
+  {
+    "date": "2025-11-27",
+    "total_transactions": 1300556,
+    "success_transactions": 1270704,
+    "failed_transactions": 29852,
+    "active_addresses": 33005,
+    "active_contracts": 540916
+  },
+  {
+    "date": "2025-11-28",
+    "total_transactions": 1749404,
+    "success_transactions": 1713813,
+    "failed_transactions": 35591,
+    "active_addresses": 27923,
+    "active_contracts": 450828
+  },
+  {
+    "date": "2025-11-29",
+    "total_transactions": 1207867,
+    "success_transactions": 1191236,
+    "failed_transactions": 16631,
+    "active_addresses": 28430,
+    "active_contracts": 587127
+  },
+  {
+    "date": "2025-11-30",
+    "total_transactions": 1272659,
+    "success_transactions": 1254834,
+    "failed_transactions": 17825,
+    "active_addresses": 23269,
+    "active_contracts": 465274
+  },
+  {
+    "date": "2025-12-01",
+    "total_transactions": 1928135,
+    "success_transactions": 1859155,
+    "failed_transactions": 68980,
+    "active_addresses": 30991,
+    "active_contracts": 416875
+  },
+  {
+    "date": "2025-12-02",
+    "total_transactions": 1449779,
+    "success_transactions": 1400116,
+    "failed_transactions": 49663,
+    "active_addresses": 35179,
+    "active_contracts": 161646
+  },
+  {
+    "date": "2025-12-03",
+    "total_transactions": 1637837,
+    "success_transactions": 1554632,
+    "failed_transactions": 83205,
+    "active_addresses": 28063,
+    "active_contracts": 416035
+  },
+  {
+    "date": "2025-12-04",
+    "total_transactions": 1714177,
+    "success_transactions": 1668869,
+    "failed_transactions": 45308,
+    "active_addresses": 30728,
+    "active_contracts": 103791
+  },
+  {
+    "date": "2025-12-05",
+    "total_transactions": 1840096,
+    "success_transactions": 1797253,
+    "failed_transactions": 42843,
+    "active_addresses": 23545,
+    "active_contracts": 132138
+  },
+  {
+    "date": "2025-12-06",
+    "total_transactions": 1664277,
+    "success_transactions": 1646147,
+    "failed_transactions": 18130,
+    "active_addresses": 22737,
+    "active_contracts": 307227
+  },
+  {
+    "date": "2025-12-07",
+    "total_transactions": 1170265,
+    "success_transactions": 1129176,
+    "failed_transactions": 41089,
+    "active_addresses": 22633,
+    "active_contracts": 269325
+  },
+  {
+    "date": "2025-12-08",
+    "total_transactions": 1276790,
+    "success_transactions": 1230267,
+    "failed_transactions": 46523,
+    "active_addresses": 25935,
+    "active_contracts": 615874
+  },
+  {
+    "date": "2025-12-09",
+    "total_transactions": 1460066,
+    "success_transactions": 1411979,
+    "failed_transactions": 48087,
+    "active_addresses": 27180,
+    "active_contracts": 714012
+  },
+  {
+    "date": "2025-12-10",
+    "total_transactions": 1532311,
+    "success_transactions": 1472998,
+    "failed_transactions": 59313,
+    "active_addresses": 26371,
+    "active_contracts": 504248
+  },
+  {
+    "date": "2025-12-11",
+    "total_transactions": 1709104,
+    "success_transactions": 1662401,
+    "failed_transactions": 46703,
+    "active_addresses": 30694,
+    "active_contracts": 268839
+  },
+  {
+    "date": "2025-12-12",
+    "total_transactions": 1724564,
+    "success_transactions": 1683547,
+    "failed_transactions": 41017,
+    "active_addresses": 26946,
+    "active_contracts": 50994
+  },
+  {
+    "date": "2025-12-13",
+    "total_transactions": 1551254,
+    "success_transactions": 1536831,
+    "failed_transactions": 14423,
+    "active_addresses": 34199,
+    "active_contracts": 104841
+  },
+  {
+    "date": "2025-12-14",
+    "total_transactions": 1753324,
+    "success_transactions": 1722852,
+    "failed_transactions": 30472,
+    "active_addresses": 23245,
+    "active_contracts": 64664
+  },
+  {
+    "date": "2025-12-15",
+    "total_transactions": 2045515,
+    "success_transactions": 1986364,
+    "failed_transactions": 59151,
+    "active_addresses": 32066,
+    "active_contracts": 93778
+  },
+  {
+    "date": "2025-12-16",
+    "total_transactions": 2274656,
+    "success_transactions": 2224202,
+    "failed_transactions": 50454,
+    "active_addresses": 36463,
+    "active_contracts": 254506
+  },
+  {
+    "date": "2025-12-17",
+    "total_transactions": 2178476,
+    "success_transactions": 2119402,
+    "failed_transactions": 59074,
+    "active_addresses": 27503,
+    "active_contracts": 281885
+  },
+  {
+    "date": "2025-12-18",
+    "total_transactions": 2163874,
+    "success_transactions": 2098908,
+    "failed_transactions": 64966,
+    "active_addresses": 28103,
+    "active_contracts": 98086
+  },
+  {
+    "date": "2025-12-19",
+    "total_transactions": 1943032,
+    "success_transactions": 1894163,
+    "failed_transactions": 48869,
+    "active_addresses": 35712,
+    "active_contracts": 64701
+  },
+  {
+    "date": "2025-12-20",
+    "total_transactions": 1658080,
+    "success_transactions": 1644469,
+    "failed_transactions": 13611,
+    "active_addresses": 25685,
+    "active_contracts": 194061
+  },
+  {
+    "date": "2025-12-21",
+    "total_transactions": 1547289,
+    "success_transactions": 1521279,
+    "failed_transactions": 26010,
+    "active_addresses": 23948,
+    "active_contracts": 533072
+  },
+  {
+    "date": "2025-12-22",
+    "total_transactions": 1721580,
+    "success_transactions": 1674345,
+    "failed_transactions": 47235,
+    "active_addresses": 27299,
+    "active_contracts": 350670
+  },
+  {
+    "date": "2025-12-23",
+    "total_transactions": 1800550,
+    "success_transactions": 1755765,
+    "failed_transactions": 44785,
+    "active_addresses": 24605,
+    "active_contracts": 273073
+  },
+  {
+    "date": "2025-12-24",
+    "total_transactions": 1920241,
+    "success_transactions": 1882157,
+    "failed_transactions": 38084,
+    "active_addresses": 27285,
+    "active_contracts": 238340
+  },
+  {
+    "date": "2025-12-25",
+    "total_transactions": 2257244,
+    "success_transactions": 2225840,
+    "failed_transactions": 31404,
+    "active_addresses": 34976,
+    "active_contracts": 88193
+  },
+  {
+    "date": "2025-12-26",
+    "total_transactions": 1934882,
+    "success_transactions": 1893391,
+    "failed_transactions": 41491,
+    "active_addresses": 32529,
+    "active_contracts": 249882
+  },
+  {
+    "date": "2025-12-27",
+    "total_transactions": 1509577,
+    "success_transactions": 1490852,
+    "failed_transactions": 18725,
+    "active_addresses": 26761,
+    "active_contracts": 79724
+  },
+  {
+    "date": "2025-12-28",
+    "total_transactions": 1682288,
+    "success_transactions": 1657602,
+    "failed_transactions": 24686,
+    "active_addresses": 27284,
+    "active_contracts": 157478
+  },
+  {
+    "date": "2025-12-29",
+    "total_transactions": 1830519,
+    "success_transactions": 1781476,
+    "failed_transactions": 49043,
+    "active_addresses": 26905,
+    "active_contracts": 171740
+  },
+  {
+    "date": "2025-12-30",
+    "total_transactions": 1737977,
+    "success_transactions": 1698985,
+    "failed_transactions": 38992,
+    "active_addresses": 24664,
+    "active_contracts": 180841
+  },
+  {
+    "date": "2025-12-31",
+    "total_transactions": 2162321,
+    "success_transactions": 2136114,
+    "failed_transactions": 26207,
+    "active_addresses": 24827,
+    "active_contracts": 27648
+  },
+  {
+    "date": "2026-01-01",
+    "total_transactions": 2179937,
+    "success_transactions": 2155214,
+    "failed_transactions": 24723,
+    "active_addresses": 20700,
+    "active_contracts": 91694
+  },
+  {
+    "date": "2026-01-02",
+    "total_transactions": 1983521,
+    "success_transactions": 1926540,
+    "failed_transactions": 56981,
+    "active_addresses": 23923,
+    "active_contracts": 136784
+  },
+  {
+    "date": "2026-01-03",
+    "total_transactions": 1841053,
+    "success_transactions": 1787445,
+    "failed_transactions": 53608,
+    "active_addresses": 32689,
+    "active_contracts": 277096
+  },
+  {
+    "date": "2026-01-04",
+    "total_transactions": 1848721,
+    "success_transactions": 1796225,
+    "failed_transactions": 52496,
+    "active_addresses": 23973,
+    "active_contracts": 333019
+  },
+  {
+    "date": "2026-01-05",
+    "total_transactions": 2123934,
+    "success_transactions": 2069838,
+    "failed_transactions": 54096,
+    "active_addresses": 27654,
+    "active_contracts": 42911
+  },
+  {
+    "date": "2026-01-06",
+    "total_transactions": 2337692,
+    "success_transactions": 2208780,
+    "failed_transactions": 128912,
+    "active_addresses": 83345,
+    "active_contracts": 69145
+  },
+  {
+    "date": "2026-01-07",
+    "total_transactions": 2299163,
+    "success_transactions": 2155380,
+    "failed_transactions": 143783,
+    "active_addresses": 115648,
+    "active_contracts": 189920
+  },
+  {
+    "date": "2026-01-08",
+    "total_transactions": 2285113,
+    "success_transactions": 2106506,
+    "failed_transactions": 178607,
+    "active_addresses": 71381,
+    "active_contracts": 243226
+  },
+  {
+    "date": "2026-01-09",
+    "total_transactions": 2518353,
+    "success_transactions": 2378101,
+    "failed_transactions": 140252,
+    "active_addresses": 64073,
+    "active_contracts": 190051
+  },
+  {
+    "date": "2026-01-10",
+    "total_transactions": 2143718,
+    "success_transactions": 2049537,
+    "failed_transactions": 94181,
+    "active_addresses": 64335,
+    "active_contracts": 86554
+  },
+  {
+    "date": "2026-01-11",
+    "total_transactions": 1933481,
+    "success_transactions": 1836016,
+    "failed_transactions": 97465,
+    "active_addresses": 34251,
+    "active_contracts": 60647
+  },
+  {
+    "date": "2026-01-12",
+    "total_transactions": 2369975,
+    "success_transactions": 2244739,
+    "failed_transactions": 125236,
+    "active_addresses": 47130,
+    "active_contracts": 68571
+  },
+  {
+    "date": "2026-01-13",
+    "total_transactions": 2245444,
+    "success_transactions": 2115806,
+    "failed_transactions": 129638,
+    "active_addresses": 52273,
+    "active_contracts": 86324
+  },
+  {
+    "date": "2026-01-14",
+    "total_transactions": 2526387,
+    "success_transactions": 2407920,
+    "failed_transactions": 118467,
+    "active_addresses": 56706,
+    "active_contracts": 118074
+  },
+  {
+    "date": "2026-01-15",
+    "total_transactions": 2181039,
+    "success_transactions": 2058978,
+    "failed_transactions": 122061,
+    "active_addresses": 25761,
+    "active_contracts": 62552
+  },
+  {
+    "date": "2026-01-16",
+    "total_transactions": 2236586,
+    "success_transactions": 2135954,
+    "failed_transactions": 100632,
+    "active_addresses": 26735,
+    "active_contracts": 69338
+  },
+  {
+    "date": "2026-01-17",
+    "total_transactions": 2171935,
+    "success_transactions": 2073879,
+    "failed_transactions": 98056,
+    "active_addresses": 40116,
+    "active_contracts": 167467
+  },
+  {
+    "date": "2026-01-18",
+    "total_transactions": 2001812,
+    "success_transactions": 1902403,
+    "failed_transactions": 99409,
+    "active_addresses": 32648,
+    "active_contracts": 119717
+  },
+  {
+    "date": "2026-01-19",
+    "total_transactions": 2227378,
+    "success_transactions": 2106206,
+    "failed_transactions": 121172,
+    "active_addresses": 29250,
+    "active_contracts": 164578
+  },
+  {
+    "date": "2026-01-20",
+    "total_transactions": 2418257,
+    "success_transactions": 2344244,
+    "failed_transactions": 74013,
+    "active_addresses": 51469,
+    "active_contracts": 95365
+  },
+  {
+    "date": "2026-01-21",
+    "total_transactions": 2499682,
+    "success_transactions": 2414056,
+    "failed_transactions": 85626,
+    "active_addresses": 69104,
+    "active_contracts": 34751
+  },
+  {
+    "date": "2026-01-22",
+    "total_transactions": 2265006,
+    "success_transactions": 2200144,
+    "failed_transactions": 64862,
+    "active_addresses": 34289,
+    "active_contracts": 37874
+  },
+  {
+    "date": "2026-01-23",
+    "total_transactions": 2072677,
+    "success_transactions": 2006744,
+    "failed_transactions": 65933,
+    "active_addresses": 72904,
+    "active_contracts": 31688
+  },
+  {
+    "date": "2026-01-24",
+    "total_transactions": 1948835,
+    "success_transactions": 1908335,
+    "failed_transactions": 40500,
+    "active_addresses": 43204,
+    "active_contracts": 104000
+  },
+  {
+    "date": "2026-01-25",
+    "total_transactions": 2262943,
+    "success_transactions": 2203230,
+    "failed_transactions": 59713,
+    "active_addresses": 23978,
+    "active_contracts": 68629
+  },
+  {
+    "date": "2026-01-26",
+    "total_transactions": 2303498,
+    "success_transactions": 2232218,
+    "failed_transactions": 71280,
+    "active_addresses": 21570,
+    "active_contracts": 86312
+  },
+  {
+    "date": "2026-01-27",
+    "total_transactions": 2095083,
+    "success_transactions": 2037295,
+    "failed_transactions": 57788,
+    "active_addresses": 24052,
+    "active_contracts": 91300
+  },
+  {
+    "date": "2026-01-28",
+    "total_transactions": 2122549,
+    "success_transactions": 2056656,
+    "failed_transactions": 65893,
+    "active_addresses": 35973,
+    "active_contracts": 29788
+  },
+  {
+    "date": "2026-01-29",
+    "total_transactions": 2358071,
+    "success_transactions": 2282620,
+    "failed_transactions": 75451,
+    "active_addresses": 33783,
+    "active_contracts": 48882
+  },
+  {
+    "date": "2026-01-30",
+    "total_transactions": 2412652,
+    "success_transactions": 2300782,
+    "failed_transactions": 111870,
+    "active_addresses": 26846,
+    "active_contracts": 50359
+  },
+  {
+    "date": "2026-01-31",
+    "total_transactions": 2785306,
+    "success_transactions": 2655874,
+    "failed_transactions": 129432,
+    "active_addresses": 25681,
+    "active_contracts": 75048
+  },
+  {
+    "date": "2026-02-01",
+    "total_transactions": 2523794,
+    "success_transactions": 2400774,
+    "failed_transactions": 123020,
+    "active_addresses": 23131,
+    "active_contracts": 41865
+  },
+  {
+    "date": "2026-02-02",
+    "total_transactions": 2461305,
+    "success_transactions": 2310213,
+    "failed_transactions": 151092,
+    "active_addresses": 22515,
+    "active_contracts": 62229
+  },
+  {
+    "date": "2026-02-03",
+    "total_transactions": 2493305,
+    "success_transactions": 2351907,
+    "failed_transactions": 141398,
+    "active_addresses": 31388,
+    "active_contracts": 38365
+  },
+  {
+    "date": "2026-02-04",
+    "total_transactions": 2272027,
+    "success_transactions": 2100476,
+    "failed_transactions": 171551,
+    "active_addresses": 24420,
+    "active_contracts": 123103
+  },
+  {
+    "date": "2026-02-05",
+    "total_transactions": 3823880,
+    "success_transactions": 3571900,
+    "failed_transactions": 251980,
+    "active_addresses": 27706,
+    "active_contracts": 437329
+  },
+  {
+    "date": "2026-02-06",
+    "total_transactions": 2477140,
+    "success_transactions": 2319348,
+    "failed_transactions": 157792,
+    "active_addresses": 26640,
+    "active_contracts": 65630
+  },
+  {
+    "date": "2026-02-07",
+    "total_transactions": 2765100,
+    "success_transactions": 2639241,
+    "failed_transactions": 125859,
+    "active_addresses": 18245,
+    "active_contracts": 41560
+  },
+  {
+    "date": "2026-02-08",
+    "total_transactions": 3108424,
+    "success_transactions": 3002964,
+    "failed_transactions": 105460,
+    "active_addresses": 24543,
+    "active_contracts": 114874
+  },
+  {
+    "date": "2026-02-09",
+    "total_transactions": 2640553,
+    "success_transactions": 2527650,
+    "failed_transactions": 112903,
+    "active_addresses": 26337,
+    "active_contracts": 39846
+  },
+  {
+    "date": "2026-02-10",
+    "total_transactions": 2297567,
+    "success_transactions": 2196624,
+    "failed_transactions": 100943,
+    "active_addresses": 28991,
+    "active_contracts": 22785
+  },
+  {
+    "date": "2026-02-11",
+    "total_transactions": 2497914,
+    "success_transactions": 2346824,
+    "failed_transactions": 151090,
+    "active_addresses": 34285,
+    "active_contracts": 27166
+  },
+  {
+    "date": "2026-02-12",
+    "total_transactions": 2485194,
+    "success_transactions": 2373931,
+    "failed_transactions": 111263,
+    "active_addresses": 37267,
+    "active_contracts": 62397
+  },
+  {
+    "date": "2026-02-13",
+    "total_transactions": 2344523,
+    "success_transactions": 2236776,
+    "failed_transactions": 107747,
+    "active_addresses": 48326,
+    "active_contracts": 162297
+  },
+  {
+    "date": "2026-02-14",
+    "total_transactions": 1998361,
+    "success_transactions": 1922151,
+    "failed_transactions": 76210,
+    "active_addresses": 24156,
+    "active_contracts": 174650
+  },
+  {
+    "date": "2026-02-15",
+    "total_transactions": 2250358,
+    "success_transactions": 2027662,
+    "failed_transactions": 222696,
+    "active_addresses": 23047,
+    "active_contracts": 95357
+  },
+  {
+    "date": "2026-02-16",
+    "total_transactions": 2271320,
+    "success_transactions": 2037590,
+    "failed_transactions": 233730,
+    "active_addresses": 18420,
+    "active_contracts": 41898
+  },
+  {
+    "date": "2026-02-17",
+    "total_transactions": 2062276,
+    "success_transactions": 1803274,
+    "failed_transactions": 259002,
+    "active_addresses": 19229,
+    "active_contracts": 17300
+  },
+  {
+    "date": "2026-02-18",
+    "total_transactions": 2357206,
+    "success_transactions": 2118015,
+    "failed_transactions": 239191,
+    "active_addresses": 19281,
+    "active_contracts": 48852
+  },
+  {
+    "date": "2026-02-19",
+    "total_transactions": 2503881,
+    "success_transactions": 2258627,
+    "failed_transactions": 245254,
+    "active_addresses": 22922,
+    "active_contracts": 20952
+  },
+  {
+    "date": "2026-02-20",
+    "total_transactions": 2498853,
+    "success_transactions": 2252753,
+    "failed_transactions": 246100,
+    "active_addresses": 21606,
+    "active_contracts": 53738
+  },
+  {
+    "date": "2026-02-21",
+    "total_transactions": 2171283,
+    "success_transactions": 2029974,
+    "failed_transactions": 141309,
+    "active_addresses": 15792,
+    "active_contracts": 108935
+  },
+  {
+    "date": "2026-02-22",
+    "total_transactions": 2162651,
+    "success_transactions": 2049996,
+    "failed_transactions": 112655,
+    "active_addresses": 16507,
+    "active_contracts": 58051
+  },
+  {
+    "date": "2026-02-23",
+    "total_transactions": 2454767,
+    "success_transactions": 2234257,
+    "failed_transactions": 220510,
+    "active_addresses": 16980,
+    "active_contracts": 20719
+  },
+  {
+    "date": "2026-02-24",
+    "total_transactions": 2232590,
+    "success_transactions": 2042485,
+    "failed_transactions": 190105,
+    "active_addresses": 19015,
+    "active_contracts": 23491
+  },
+  {
+    "date": "2026-02-25",
+    "total_transactions": 2440816,
+    "success_transactions": 2203557,
+    "failed_transactions": 237259,
+    "active_addresses": 23254,
+    "active_contracts": 16919
+  },
+  {
+    "date": "2026-02-26",
+    "total_transactions": 2160307,
+    "success_transactions": 1944708,
+    "failed_transactions": 215599,
+    "active_addresses": 23577,
+    "active_contracts": 204300
+  },
+  {
+    "date": "2026-02-27",
+    "total_transactions": 2363921,
+    "success_transactions": 2154208,
+    "failed_transactions": 209713,
+    "active_addresses": 17679,
+    "active_contracts": 38373
+  },
+  {
+    "date": "2026-02-28",
+    "total_transactions": 2185407,
+    "success_transactions": 1947994,
+    "failed_transactions": 237413,
+    "active_addresses": 19114,
+    "active_contracts": 15496
+  },
+  {
+    "date": "2026-03-01",
+    "total_transactions": 2033980,
+    "success_transactions": 1842155,
+    "failed_transactions": 191825,
+    "active_addresses": 18272,
+    "active_contracts": 90935
+  },
+  {
+    "date": "2026-03-02",
+    "total_transactions": 2238294,
+    "success_transactions": 2030724,
+    "failed_transactions": 207570,
+    "active_addresses": 16999,
+    "active_contracts": 31167
+  },
+  {
+    "date": "2026-03-03",
+    "total_transactions": 1862176,
+    "success_transactions": 1672314,
+    "failed_transactions": 189862,
+    "active_addresses": 19819,
+    "active_contracts": 80568
+  },
+  {
+    "date": "2026-03-04",
+    "total_transactions": 1635932,
+    "success_transactions": 1433164,
+    "failed_transactions": 202768,
+    "active_addresses": 25196,
+    "active_contracts": 175049
+  },
+  {
+    "date": "2026-03-05",
+    "total_transactions": 2037009,
+    "success_transactions": 1867010,
+    "failed_transactions": 169999,
+    "active_addresses": 33203,
+    "active_contracts": 27102
+  },
+  {
+    "date": "2026-03-06",
+    "total_transactions": 2260590,
+    "success_transactions": 2106637,
+    "failed_transactions": 153953,
+    "active_addresses": 21765,
+    "active_contracts": 78837
+  },
+  {
+    "date": "2026-03-07",
+    "total_transactions": 2072290,
+    "success_transactions": 1988464,
+    "failed_transactions": 83826,
+    "active_addresses": 18521,
+    "active_contracts": 29450
+  },
+  {
+    "date": "2026-03-08",
+    "total_transactions": 2167969,
+    "success_transactions": 1971061,
+    "failed_transactions": 196908,
+    "active_addresses": 12992,
+    "active_contracts": 81406
+  },
+  {
+    "date": "2026-03-09",
+    "total_transactions": 1785257,
+    "success_transactions": 1655298,
+    "failed_transactions": 129959,
+    "active_addresses": 15262,
+    "active_contracts": 57486
+  },
+  {
+    "date": "2026-03-10",
+    "total_transactions": 1686416,
+    "success_transactions": 1544721,
+    "failed_transactions": 141695,
+    "active_addresses": 17104,
+    "active_contracts": 105128
+  },
+  {
+    "date": "2026-03-11",
+    "total_transactions": 1751219,
+    "success_transactions": 1592696,
+    "failed_transactions": 158523,
+    "active_addresses": 26723,
+    "active_contracts": 61874
+  },
+  {
+    "date": "2026-03-12",
+    "total_transactions": 1457234,
+    "success_transactions": 1305248,
+    "failed_transactions": 151986,
+    "active_addresses": 28780,
+    "active_contracts": 43748
+  },
+  {
+    "date": "2026-03-13",
+    "total_transactions": 1685861,
+    "success_transactions": 1522878,
+    "failed_transactions": 162983,
+    "active_addresses": 19703,
+    "active_contracts": 22524
+  },
+  {
+    "date": "2026-03-14",
+    "total_transactions": 1647652,
+    "success_transactions": 1535646,
+    "failed_transactions": 112006,
+    "active_addresses": 16736,
+    "active_contracts": 41779
+  },
+  {
+    "date": "2026-03-15",
+    "total_transactions": 2032106,
+    "success_transactions": 1871725,
+    "failed_transactions": 160381,
+    "active_addresses": 13935,
+    "active_contracts": 113087
+  },
+  {
+    "date": "2026-03-16",
+    "total_transactions": 1960268,
+    "success_transactions": 1748788,
+    "failed_transactions": 211480,
+    "active_addresses": 16326,
+    "active_contracts": 82246
+  },
+  {
+    "date": "2026-03-17",
+    "total_transactions": 1916514,
+    "success_transactions": 1730451,
+    "failed_transactions": 186063,
+    "active_addresses": 22108,
+    "active_contracts": 37472
+  },
+  {
+    "date": "2026-03-18",
+    "total_transactions": 2419660,
+    "success_transactions": 2232075,
+    "failed_transactions": 187585,
+    "active_addresses": 26045,
+    "active_contracts": 15146
+  },
+  {
+    "date": "2026-03-19",
+    "total_transactions": 1839396,
+    "success_transactions": 1655777,
+    "failed_transactions": 183619,
+    "active_addresses": 22291,
+    "active_contracts": 45181
+  },
+  {
+    "date": "2026-03-20",
+    "total_transactions": 1788746,
+    "success_transactions": 1619609,
+    "failed_transactions": 169137,
+    "active_addresses": 52554,
+    "active_contracts": 28411
+  },
+  {
+    "date": "2026-03-21",
+    "total_transactions": 1684977,
+    "success_transactions": 1556836,
+    "failed_transactions": 128141,
+    "active_addresses": 16766,
+    "active_contracts": 37840
+  },
+  {
+    "date": "2026-03-22",
+    "total_transactions": 1723584,
+    "success_transactions": 1564474,
+    "failed_transactions": 159110,
+    "active_addresses": 20023,
+    "active_contracts": 32967
+  },
+  {
+    "date": "2026-03-23",
+    "total_transactions": 1937012,
+    "success_transactions": 1746385,
+    "failed_transactions": 190627,
+    "active_addresses": 18175,
+    "active_contracts": 39712
+  },
+  {
+    "date": "2026-03-24",
+    "total_transactions": 2057764,
+    "success_transactions": 1896945,
+    "failed_transactions": 160819,
+    "active_addresses": 18407,
+    "active_contracts": 40571
+  },
+  {
+    "date": "2026-03-25",
+    "total_transactions": 2297890,
+    "success_transactions": 2130663,
+    "failed_transactions": 167227,
+    "active_addresses": 32323,
+    "active_contracts": 222934
+  },
+  {
+    "date": "2026-03-26",
+    "total_transactions": 1992294,
+    "success_transactions": 1806630,
+    "failed_transactions": 185664,
+    "active_addresses": 31139,
+    "active_contracts": 147685
+  },
+  {
+    "date": "2026-03-27",
+    "total_transactions": 2234850,
+    "success_transactions": 1990844,
+    "failed_transactions": 244006,
+    "active_addresses": 23298,
+    "active_contracts": 54804
+  },
+  {
+    "date": "2026-03-28",
+    "total_transactions": 1972964,
+    "success_transactions": 1841845,
+    "failed_transactions": 131119,
+    "active_addresses": 14734,
+    "active_contracts": 57893
+  },
+  {
+    "date": "2026-03-29",
+    "total_transactions": 1780850,
+    "success_transactions": 1641315,
+    "failed_transactions": 139535,
+    "active_addresses": 15028,
+    "active_contracts": 119093
+  },
+  {
+    "date": "2026-03-30",
+    "total_transactions": 1905136,
+    "success_transactions": 1746799,
+    "failed_transactions": 158337,
+    "active_addresses": 19104,
+    "active_contracts": 56154
+  },
+  {
+    "date": "2026-03-31",
+    "total_transactions": 1751335,
+    "success_transactions": 1583691,
+    "failed_transactions": 167644,
+    "active_addresses": 18264,
+    "active_contracts": 34957
+  },
+  {
+    "date": "2026-04-01",
+    "total_transactions": 1964309,
+    "success_transactions": 1811631,
+    "failed_transactions": 152678,
+    "active_addresses": 18344,
+    "active_contracts": 21114
+  },
+  {
+    "date": "2026-04-02",
+    "total_transactions": 2007711,
+    "success_transactions": 1846848,
+    "failed_transactions": 160863,
+    "active_addresses": 22018,
+    "active_contracts": 23277
+  },
+  {
+    "date": "2026-04-03",
+    "total_transactions": 1520288,
+    "success_transactions": 1399280,
+    "failed_transactions": 121008,
+    "active_addresses": 17163,
+    "active_contracts": 89761
+  },
+  {
+    "date": "2026-04-04",
+    "total_transactions": 1571853,
+    "success_transactions": 1481608,
+    "failed_transactions": 90245,
+    "active_addresses": 19227,
+    "active_contracts": 33357
+  },
+  {
+    "date": "2026-04-05",
+    "total_transactions": 1831736,
+    "success_transactions": 1717873,
+    "failed_transactions": 113863,
+    "active_addresses": 18713,
+    "active_contracts": 34190
+  },
+  {
+    "date": "2026-04-06",
+    "total_transactions": 1892745,
+    "success_transactions": 1753664,
+    "failed_transactions": 139081,
+    "active_addresses": 19781,
+    "active_contracts": 63190
+  },
+  {
+    "date": "2026-04-07",
+    "total_transactions": 1840027,
+    "success_transactions": 1684192,
+    "failed_transactions": 155835,
+    "active_addresses": 20913,
+    "active_contracts": 41151
+  },
+  {
+    "date": "2026-04-08",
+    "total_transactions": 2109093,
+    "success_transactions": 1961618,
+    "failed_transactions": 147475,
+    "active_addresses": 32175,
+    "active_contracts": 181782
+  },
+  {
+    "date": "2026-04-09",
+    "total_transactions": 2130698,
+    "success_transactions": 1981321,
+    "failed_transactions": 149377,
+    "active_addresses": 21857,
+    "active_contracts": 501556
+  },
+  {
+    "date": "2026-04-10",
+    "total_transactions": 1943751,
+    "success_transactions": 1801639,
+    "failed_transactions": 142112,
+    "active_addresses": 16230,
+    "active_contracts": 59131
+  },
+  {
+    "date": "2026-04-11",
+    "total_transactions": 2078705,
+    "success_transactions": 1939835,
+    "failed_transactions": 138870,
+    "active_addresses": 18478,
+    "active_contracts": 47481
+  },
+  {
+    "date": "2026-04-12",
+    "total_transactions": 1982680,
+    "success_transactions": 1843922,
+    "failed_transactions": 138758,
+    "active_addresses": 12479,
+    "active_contracts": 43979
+  },
+  {
+    "date": "2026-04-13",
+    "total_transactions": 1904981,
+    "success_transactions": 1730667,
+    "failed_transactions": 174314,
+    "active_addresses": 20027,
+    "active_contracts": 57905
+  },
+  {
+    "date": "2026-04-14",
+    "total_transactions": 2156877,
+    "success_transactions": 2006011,
+    "failed_transactions": 150866,
+    "active_addresses": 21178,
+    "active_contracts": 43805
+  },
+  {
+    "date": "2026-04-15",
+    "total_transactions": 2033729,
+    "success_transactions": 1883245,
+    "failed_transactions": 150484,
+    "active_addresses": 24318,
+    "active_contracts": 53316
+  },
+  {
+    "date": "2026-04-16",
+    "total_transactions": 2066095,
+    "success_transactions": 1890270,
+    "failed_transactions": 175825,
+    "active_addresses": 23161,
+    "active_contracts": 48015
+  },
+  {
+    "date": "2026-04-17",
+    "total_transactions": 1741883,
+    "success_transactions": 1588491,
+    "failed_transactions": 153392,
+    "active_addresses": 17745,
+    "active_contracts": 52374
+  },
+  {
+    "date": "2026-04-18",
+    "total_transactions": 1600387,
+    "success_transactions": 1477155,
+    "failed_transactions": 123232,
+    "active_addresses": 16615,
+    "active_contracts": 126939
+  },
+  {
+    "date": "2026-04-19",
+    "total_transactions": 1446762,
+    "success_transactions": 1310574,
+    "failed_transactions": 136188,
+    "active_addresses": 19021,
+    "active_contracts": 163919
+  },
+  {
+    "date": "2026-04-20",
+    "total_transactions": 1456971,
+    "success_transactions": 1319937,
+    "failed_transactions": 137034,
+    "active_addresses": 19001,
+    "active_contracts": 212006
+  },
+  {
+    "date": "2026-04-21",
+    "total_transactions": 1465328,
+    "success_transactions": 1302275,
+    "failed_transactions": 163053,
+    "active_addresses": 21686,
+    "active_contracts": 467325
+  },
+  {
+    "date": "2026-04-22",
+    "total_transactions": 1267778,
+    "success_transactions": 1136776,
+    "failed_transactions": 131002,
+    "active_addresses": 18430,
+    "active_contracts": 247246
+  },
+  {
+    "date": "2026-04-23",
+    "total_transactions": 1369167,
+    "success_transactions": 1244754,
+    "failed_transactions": 124413,
+    "active_addresses": 17133,
+    "active_contracts": 95977
+  },
+  {
+    "date": "2026-04-24",
+    "total_transactions": 1332081,
+    "success_transactions": 1218123,
+    "failed_transactions": 113958,
+    "active_addresses": 17410,
+    "active_contracts": 129755
+  },
+  {
+    "date": "2026-04-25",
+    "total_transactions": 1376056,
+    "success_transactions": 1245128,
+    "failed_transactions": 130928,
+    "active_addresses": 23344,
+    "active_contracts": 120243
+  },
+  {
+    "date": "2026-04-26",
+    "total_transactions": 1276803,
+    "success_transactions": 1175261,
+    "failed_transactions": 101542,
+    "active_addresses": 16938,
+    "active_contracts": 136727
+  },
+  {
+    "date": "2026-04-27",
+    "total_transactions": 1187562,
+    "success_transactions": 1066435,
+    "failed_transactions": 121127,
+    "active_addresses": 16259,
+    "active_contracts": 249530
+  },
+  {
+    "date": "2026-04-28",
+    "total_transactions": 1136305,
+    "success_transactions": 1018175,
+    "failed_transactions": 118130,
+    "active_addresses": 15799,
+    "active_contracts": 310026
+  },
+  {
+    "date": "2026-04-29",
+    "total_transactions": 1231444,
+    "success_transactions": 1101659,
+    "failed_transactions": 129785,
+    "active_addresses": 18899,
+    "active_contracts": 202210
+  },
+  {
+    "date": "2026-04-30",
+    "total_transactions": 1355121,
+    "success_transactions": 1245603,
+    "failed_transactions": 109518,
+    "active_addresses": 18481,
+    "active_contracts": 176810
+  },
+  {
+    "date": "2026-05-01",
+    "total_transactions": 1251988,
+    "success_transactions": 1142469,
+    "failed_transactions": 109519,
+    "active_addresses": 17237,
+    "active_contracts": 222674
+  },
+  {
+    "date": "2026-05-02",
+    "total_transactions": 1243820,
+    "success_transactions": 1142224,
+    "failed_transactions": 101596,
+    "active_addresses": 14876,
+    "active_contracts": 179224
+  },
+  {
+    "date": "2026-05-03",
+    "total_transactions": 1251125,
+    "success_transactions": 1143631,
+    "failed_transactions": 107494,
+    "active_addresses": 15988,
+    "active_contracts": 236816
+  },
+  {
+    "date": "2026-05-04",
+    "total_transactions": 1332086,
+    "success_transactions": 1192742,
+    "failed_transactions": 139344,
+    "active_addresses": 21697,
+    "active_contracts": 172087
+  },
+  {
+    "date": "2026-05-05",
+    "total_transactions": 1378944,
+    "success_transactions": 1254918,
+    "failed_transactions": 124026,
+    "active_addresses": 19498,
+    "active_contracts": 200261
+  },
+  {
+    "date": "2026-05-06",
+    "total_transactions": 1312464,
+    "success_transactions": 1186798,
+    "failed_transactions": 125666,
+    "active_addresses": 19459,
+    "active_contracts": 289955
+  },
+  {
+    "date": "2026-05-07",
+    "total_transactions": 1316615,
+    "success_transactions": 1189570,
+    "failed_transactions": 127045,
+    "active_addresses": 18510,
+    "active_contracts": 178263
+  },
+  {
+    "date": "2026-05-08",
+    "total_transactions": 1648223,
+    "success_transactions": 1520296,
+    "failed_transactions": 127927,
+    "active_addresses": 18840,
+    "active_contracts": 150467
+  },
+  {
+    "date": "2026-05-09",
+    "total_transactions": 1633507,
+    "success_transactions": 1518431,
+    "failed_transactions": 115076,
+    "active_addresses": 16237,
+    "active_contracts": 176639
+  },
+  {
+    "date": "2026-05-10",
+    "total_transactions": 1437407,
+    "success_transactions": 1318520,
+    "failed_transactions": 118887,
+    "active_addresses": 15562,
+    "active_contracts": 191730
+  },
+  {
+    "date": "2026-05-11",
+    "total_transactions": 1338451,
+    "success_transactions": 1218850,
+    "failed_transactions": 119601,
+    "active_addresses": 19513,
+    "active_contracts": 209983
+  },
+  {
+    "date": "2026-05-12",
+    "total_transactions": 1500520,
+    "success_transactions": 1382062,
+    "failed_transactions": 118458,
+    "active_addresses": 17119,
+    "active_contracts": 203375
+  },
+  {
+    "date": "2026-05-13",
+    "total_transactions": 1640821,
+    "success_transactions": 1520049,
+    "failed_transactions": 120772,
+    "active_addresses": 20811,
+    "active_contracts": 150028
+  },
+  {
+    "date": "2026-05-14",
+    "total_transactions": 1364472,
+    "success_transactions": 1243167,
+    "failed_transactions": 121305,
+    "active_addresses": 16748,
+    "active_contracts": 173606
+  },
+  {
+    "date": "2026-05-15",
+    "total_transactions": 1415642,
+    "success_transactions": 1294025,
+    "failed_transactions": 121617,
+    "active_addresses": 14842,
+    "active_contracts": 232013
+  },
+  {
+    "date": "2026-05-16",
+    "total_transactions": 1333510,
+    "success_transactions": 1206270,
+    "failed_transactions": 127240,
+    "active_addresses": 13627,
+    "active_contracts": 643912
+  },
+  {
+    "date": "2026-05-17",
+    "total_transactions": 1202598,
+    "success_transactions": 1084316,
+    "failed_transactions": 118282,
+    "active_addresses": 13941,
+    "active_contracts": 501824
+  },
+  {
+    "date": "2026-05-18",
+    "total_transactions": 1970915,
+    "success_transactions": 1821252,
+    "failed_transactions": 149663,
+    "active_addresses": 14388,
+    "active_contracts": 517976
+  },
+  {
+    "date": "2026-05-19",
+    "total_transactions": 1299773,
+    "success_transactions": 1192840,
+    "failed_transactions": 106933,
+    "active_addresses": 12755,
+    "active_contracts": 172826
+  },
+  {
+    "date": "2026-05-20",
+    "total_transactions": 1180724,
+    "success_transactions": 1100714,
+    "failed_transactions": 80010,
+    "active_addresses": 13113,
+    "active_contracts": 42520
+  },
+  {
+    "date": "2026-05-21",
+    "total_transactions": 1552697,
+    "success_transactions": 1455218,
+    "failed_transactions": 97479,
+    "active_addresses": 14105,
+    "active_contracts": 73201
+  },
+  {
+    "date": "2026-05-22",
+    "total_transactions": 1659945,
+    "success_transactions": 1513436,
+    "failed_transactions": 146509,
+    "active_addresses": 13962,
+    "active_contracts": 35501
+  },
+  {
+    "date": "2026-05-23",
+    "total_transactions": 1962158,
+    "success_transactions": 1837843,
+    "failed_transactions": 124315,
+    "active_addresses": 16020,
+    "active_contracts": 97202
+  },
+  {
+    "date": "2026-05-24",
+    "total_transactions": 1535286,
+    "success_transactions": 1436480,
+    "failed_transactions": 98806,
+    "active_addresses": 11993,
+    "active_contracts": 29014
+  },
+  {
+    "date": "2026-05-25",
+    "total_transactions": 1677679,
+    "success_transactions": 1568274,
+    "failed_transactions": 109405,
+    "active_addresses": 12267,
+    "active_contracts": 146237
+  },
+  {
+    "date": "2026-05-26",
+    "total_transactions": 1720202,
+    "success_transactions": 1596247,
+    "failed_transactions": 123955,
+    "active_addresses": 14951,
+    "active_contracts": 76032
+  },
+  {
+    "date": "2026-05-27",
+    "total_transactions": 1564813,
+    "success_transactions": 1437694,
+    "failed_transactions": 127119,
+    "active_addresses": 16949,
+    "active_contracts": 50462
+  },
+  {
+    "date": "2026-05-28",
+    "total_transactions": 2375989,
+    "success_transactions": 2226776,
+    "failed_transactions": 149213,
+    "active_addresses": 16975,
+    "active_contracts": 217104
+  },
+  {
+    "date": "2026-05-29",
+    "total_transactions": 1533002,
+    "success_transactions": 1368127,
+    "failed_transactions": 164875,
+    "active_addresses": 13825,
+    "active_contracts": 134978
+  },
+  {
+    "date": "2026-05-30",
+    "total_transactions": 1211762,
+    "success_transactions": 1110279,
+    "failed_transactions": 101483,
+    "active_addresses": 16801,
+    "active_contracts": 40149
+  },
+  {
+    "date": "2026-05-31",
+    "total_transactions": 1290275,
+    "success_transactions": 1194938,
+    "failed_transactions": 95337,
+    "active_addresses": 12620,
+    "active_contracts": 100506
+  },
+  {
+    "date": "2026-06-01",
+    "total_transactions": 1462448,
+    "success_transactions": 1325225,
+    "failed_transactions": 137223,
+    "active_addresses": 13744,
+    "active_contracts": 50821
+  },
+  {
+    "date": "2026-06-02",
+    "total_transactions": 1942227,
+    "success_transactions": 1592591,
+    "failed_transactions": 349636,
+    "active_addresses": 28553,
+    "active_contracts": 54609
+  },
+  {
+    "date": "2026-06-03",
+    "total_transactions": 2034505,
+    "success_transactions": 1805726,
+    "failed_transactions": 228779,
+    "active_addresses": 27409,
+    "active_contracts": 69190
+  },
+  {
+    "date": "2026-06-04",
+    "total_transactions": 2513590,
+    "success_transactions": 2258628,
+    "failed_transactions": 254962,
+    "active_addresses": 28476,
+    "active_contracts": 31834
+  },
+  {
+    "date": "2026-06-05",
+    "total_transactions": 3133813,
+    "success_transactions": 2743629,
+    "failed_transactions": 390184,
+    "active_addresses": 20397,
+    "active_contracts": 29697
+  },
+  {
+    "date": "2026-06-06",
+    "total_transactions": 2280703,
+    "success_transactions": 2084829,
+    "failed_transactions": 195874,
+    "active_addresses": 17534,
+    "active_contracts": 54975
+  },
+  {
+    "date": "2026-06-07",
+    "total_transactions": 2035023,
+    "success_transactions": 1880010,
+    "failed_transactions": 155013,
+    "active_addresses": 14475,
+    "active_contracts": 48459
+  },
+  {
+    "date": "2026-06-08",
+    "total_transactions": 1691095,
+    "success_transactions": 1517464,
+    "failed_transactions": 173631,
+    "active_addresses": 16967,
+    "active_contracts": 337333
+  },
+  {
+    "date": "2026-06-09",
+    "total_transactions": 1414578,
+    "success_transactions": 1271765,
+    "failed_transactions": 142813,
+    "active_addresses": 18487,
+    "active_contracts": 163843
+  },
+  {
+    "date": "2026-06-10",
+    "total_transactions": 1440559,
+    "success_transactions": 1292343,
+    "failed_transactions": 148216,
+    "active_addresses": 16724,
+    "active_contracts": 50188
+  },
+  {
+    "date": "2026-06-11",
+    "total_transactions": 1484010,
+    "success_transactions": 1342044,
+    "failed_transactions": 141966,
+    "active_addresses": 14903,
+    "active_contracts": 38078
+  },
+  {
+    "date": "2026-06-12",
+    "total_transactions": 1731951,
+    "success_transactions": 1613101,
+    "failed_transactions": 118850,
+    "active_addresses": 13583,
+    "active_contracts": 40724
+  },
+  {
+    "date": "2026-06-13",
+    "total_transactions": 1650478,
+    "success_transactions": 1541991,
+    "failed_transactions": 108487,
+    "active_addresses": 11609,
+    "active_contracts": 46782
+  },
+  {
+    "date": "2026-06-14",
+    "total_transactions": 1384487,
+    "success_transactions": 1279109,
+    "failed_transactions": 105378,
+    "active_addresses": 11145,
+    "active_contracts": 48758
+  },
+  {
+    "date": "2026-06-15",
+    "total_transactions": 2345336,
+    "success_transactions": 2204612,
+    "failed_transactions": 140724,
+    "active_addresses": 15082,
+    "active_contracts": 37563
+  },
+  {
+    "date": "2026-06-16",
+    "total_transactions": 1819287,
+    "success_transactions": 1690306,
+    "failed_transactions": 128981,
+    "active_addresses": 12266,
+    "active_contracts": 28540
+  },
+  {
+    "date": "2026-06-17",
+    "total_transactions": 1618785,
+    "success_transactions": 1463582,
+    "failed_transactions": 155203,
+    "active_addresses": 19640,
+    "active_contracts": 36364
+  },
+  {
+    "date": "2026-06-18",
+    "total_transactions": 2099571,
+    "success_transactions": 1867703,
+    "failed_transactions": 231868,
+    "active_addresses": 13240,
+    "active_contracts": 52378
+  },
+  {
+    "date": "2026-06-19",
+    "total_transactions": 1718819,
+    "success_transactions": 1580830,
+    "failed_transactions": 137989,
+    "active_addresses": 12373,
+    "active_contracts": 50895
+  },
+  {
+    "date": "2026-06-20",
+    "total_transactions": 1821848,
+    "success_transactions": 1728395,
+    "failed_transactions": 93453,
+    "active_addresses": 11732,
+    "active_contracts": 48514
+  },
+  {
+    "date": "2026-06-21",
+    "total_transactions": 1229745,
+    "success_transactions": 1196717,
+    "failed_transactions": 33028,
+    "active_addresses": 11495,
+    "active_contracts": 53403
+  },
+  {
+    "date": "2026-06-22",
+    "total_transactions": 1393420,
+    "success_transactions": 1337615,
+    "failed_transactions": 55805,
+    "active_addresses": 15300,
+    "active_contracts": 36373
+  },
+  {
+    "date": "2026-06-23",
+    "total_transactions": 1648416,
+    "success_transactions": 1583713,
+    "failed_transactions": 64703,
+    "active_addresses": 17614,
+    "active_contracts": 41187
+  },
+  {
+    "date": "2026-06-24",
+    "total_transactions": 1899844,
+    "success_transactions": 1786429,
+    "failed_transactions": 113415,
+    "active_addresses": 18633,
+    "active_contracts": 40336
+  },
+  {
+    "date": "2026-06-25",
+    "total_transactions": 1946289,
+    "success_transactions": 1835678,
+    "failed_transactions": 110611,
+    "active_addresses": 14449,
+    "active_contracts": 50858
+  },
+  {
+    "date": "2026-06-26",
+    "total_transactions": 2117431,
+    "success_transactions": 2018953,
+    "failed_transactions": 98478,
+    "active_addresses": 19808,
+    "active_contracts": 79733
+  },
+  {
+    "date": "2026-06-27",
+    "total_transactions": 1458268,
+    "success_transactions": 1417152,
+    "failed_transactions": 41116,
+    "active_addresses": 17329,
+    "active_contracts": 49771
+  },
+  {
+    "date": "2026-06-28",
+    "total_transactions": 1434982,
+    "success_transactions": 1353537,
+    "failed_transactions": 81445,
+    "active_addresses": 14815,
+    "active_contracts": 48820
+  },
+  {
+    "date": "2026-06-29",
+    "total_transactions": 1623310,
+    "success_transactions": 1508796,
+    "failed_transactions": 114514,
+    "active_addresses": 24285,
+    "active_contracts": 140248
+  },
+  {
+    "date": "2026-06-30",
+    "total_transactions": 1738903,
+    "success_transactions": 1652972,
+    "failed_transactions": 85931,
+    "active_addresses": 18470,
+    "active_contracts": 47064
+  },
+  {
+    "date": "2026-07-01",
+    "total_transactions": 1784403,
+    "success_transactions": 1654901,
+    "failed_transactions": 129502,
+    "active_addresses": 14551,
+    "active_contracts": 111052
+  },
+  {
+    "date": "2026-07-02",
+    "total_transactions": 1849273,
+    "success_transactions": 1724503,
+    "failed_transactions": 124770,
+    "active_addresses": 14096,
+    "active_contracts": 140479
+  },
+  {
+    "date": "2026-07-03",
+    "total_transactions": 1652037,
+    "success_transactions": 1564807,
+    "failed_transactions": 87230,
+    "active_addresses": 12030,
+    "active_contracts": 215826
+  },
+  {
+    "date": "2026-07-04",
+    "total_transactions": 1520938,
+    "success_transactions": 1464723,
+    "failed_transactions": 56215,
+    "active_addresses": 12171,
+    "active_contracts": 129536
+  },
+  {
+    "date": "2026-07-05",
+    "total_transactions": 1234480,
+    "success_transactions": 1190876,
+    "failed_transactions": 43604,
+    "active_addresses": 10473,
+    "active_contracts": 54304
+  },
+  {
+    "date": "2026-07-06",
+    "total_transactions": 1708343,
+    "success_transactions": 1624751,
+    "failed_transactions": 83592,
+    "active_addresses": 14204,
+    "active_contracts": 65903
+  },
+  {
+    "date": "2026-07-07",
+    "total_transactions": 1924113,
+    "success_transactions": 1834337,
+    "failed_transactions": 89776,
+    "active_addresses": 12636,
+    "active_contracts": 45985
+  },
+  {
+    "date": "2026-07-08",
+    "total_transactions": 1611478,
+    "success_transactions": 1525822,
+    "failed_transactions": 85656,
+    "active_addresses": 12634,
+    "active_contracts": 61060
+  },
+  {
+    "date": "2026-07-09",
+    "total_transactions": 1282434,
+    "success_transactions": 1239113,
+    "failed_transactions": 43321,
+    "active_addresses": 11729,
+    "active_contracts": 32805
+  },
+  {
+    "date": "2026-07-10",
+    "total_transactions": 1639335,
+    "success_transactions": 1597037,
+    "failed_transactions": 42298,
+    "active_addresses": 13224,
+    "active_contracts": 50157
+  },
+  {
+    "date": "2026-07-11",
+    "total_transactions": 1415060,
+    "success_transactions": 1385101,
+    "failed_transactions": 29959,
+    "active_addresses": 10572,
+    "active_contracts": 28718
+  },
+  {
+    "date": "2026-07-12",
+    "total_transactions": 1528634,
+    "success_transactions": 1484335,
+    "failed_transactions": 44299,
+    "active_addresses": 12332,
+    "active_contracts": 36877
+  },
+  {
+    "date": "2026-07-13",
+    "total_transactions": 1817745,
+    "success_transactions": 1752229,
+    "failed_transactions": 65516,
+    "active_addresses": 12436,
+    "active_contracts": 50906
+  },
+  {
+    "date": "2026-07-14",
+    "total_transactions": 1810944,
+    "success_transactions": 1760953,
+    "failed_transactions": 49991,
+    "active_addresses": 13117,
+    "active_contracts": 30289
+  },
+  {
+    "date": "2026-07-15",
+    "total_transactions": 1829772,
+    "success_transactions": 1774575,
+    "failed_transactions": 55197,
+    "active_addresses": 15952,
+    "active_contracts": 43894
+  },
+  {
+    "date": "2026-07-16",
+    "total_transactions": 1582082,
+    "success_transactions": 1535810,
+    "failed_transactions": 46272,
+    "active_addresses": 13203,
+    "active_contracts": 30342
+  },
+  {
+    "date": "2026-07-17",
+    "total_transactions": 1880078,
+    "success_transactions": 1826698,
+    "failed_transactions": 53380,
+    "active_addresses": 32748,
+    "active_contracts": 48703
+  },
+  {
+    "date": "2026-07-18",
+    "total_transactions": 1658815,
+    "success_transactions": 1609080,
+    "failed_transactions": 49735,
+    "active_addresses": 19814,
+    "active_contracts": 47229
+  },
+  {
+    "date": "2026-07-19",
+    "total_transactions": 1317238,
+    "success_transactions": 1262213,
+    "failed_transactions": 55025,
+    "active_addresses": 13374,
+    "active_contracts": 80786
+  },
+  {
+    "date": "2026-07-20",
+    "total_transactions": 1466261,
+    "success_transactions": 1389598,
+    "failed_transactions": 76663,
+    "active_addresses": 12548,
+    "active_contracts": 125869
+  },
+  {
+    "date": "2026-07-21",
+    "total_transactions": 1419703,
+    "success_transactions": 1378184,
+    "failed_transactions": 41519,
+    "active_addresses": 14457,
+    "active_contracts": 73761
+  },
+  {
+    "date": "2026-07-22",
+    "total_transactions": 1551029,
+    "success_transactions": 1502273,
+    "failed_transactions": 48756,
+    "active_addresses": 12901,
+    "active_contracts": 87545
+  },
+  {
+    "date": "2026-07-23",
+    "total_transactions": 1232213,
+    "success_transactions": 1192954,
+    "failed_transactions": 39259,
+    "active_addresses": 13032,
+    "active_contracts": 94375
+  },
+  {
+    "date": "2026-07-24",
+    "total_transactions": 1053871,
+    "success_transactions": 1022163,
+    "failed_transactions": 31708,
+    "active_addresses": 13870,
+    "active_contracts": 55070
+  },
+  {
+    "date": "2026-07-25",
+    "total_transactions": 1043229,
+    "success_transactions": 1010287,
+    "failed_transactions": 32942,
+    "active_addresses": 9631,
+    "active_contracts": 74501
+  },
+  {
+    "date": "2026-07-26",
+    "total_transactions": 955500,
+    "success_transactions": 933135,
+    "failed_transactions": 22365,
+    "active_addresses": 11369,
+    "active_contracts": 44202
+  },
+  {
+    "date": "2026-07-27",
+    "total_transactions": 1501896,
+    "success_transactions": 1432130,
+    "failed_transactions": 69766,
+    "active_addresses": 10510,
+    "active_contracts": 40890
+  },
+  {
+    "date": "2026-07-28",
+    "total_transactions": 1641447,
+    "success_transactions": 1582916,
+    "failed_transactions": 58531,
+    "active_addresses": 11759,
+    "active_contracts": 44742
+  },
+  {
+    "date": "2026-07-29",
+    "total_transactions": 1712977,
+    "success_transactions": 1638095,
+    "failed_transactions": 74882,
+    "active_addresses": 12560,
+    "active_contracts": 64318
+  },
+  {
+    "date": "2026-07-30",
+    "total_transactions": 1789525,
+    "success_transactions": 1722130,
+    "failed_transactions": 67395,
+    "active_addresses": 12207,
+    "active_contracts": 60652
+  },
+  {
+    "date": "2026-07-31",
+    "total_transactions": 1613906,
+    "success_transactions": 1524051,
+    "failed_transactions": 89855,
+    "active_addresses": 13932,
+    "active_contracts": 38866
+  },
+  {
+    "date": "2026-08-01",
+    "total_transactions": 1949787,
+    "success_transactions": 1920230,
+    "failed_transactions": 29557,
+    "active_addresses": 14400,
+    "active_contracts": 40808
+  },
+  {
+    "date": "2026-08-02",
+    "total_transactions": 1584130,
+    "success_transactions": 1557512,
+    "failed_transactions": 26618,
+    "active_addresses": 13249,
+    "active_contracts": 50149
+  },
+  {
+    "date": "2026-08-03",
+    "total_transactions": 1564822,
+    "success_transactions": 1526911,
+    "failed_transactions": 37911,
+    "active_addresses": 16396,
+    "active_contracts": 56120
+  },
+  {
+    "date": "2026-08-04",
+    "total_transactions": 1353433,
+    "success_transactions": 1318950,
+    "failed_transactions": 34483,
+    "active_addresses": 10435,
+    "active_contracts": 41762
+  },
+  {
+    "date": "2026-08-05",
+    "total_transactions": 1384208,
+    "success_transactions": 1342944,
+    "failed_transactions": 41264,
+    "active_addresses": 11537,
+    "active_contracts": 84498
+  },
+  {
+    "date": "2026-08-06",
+    "total_transactions": 1455700,
+    "success_transactions": 1426647,
+    "failed_transactions": 29053,
+    "active_addresses": 33208,
+    "active_contracts": 32404
+  },
+  {
+    "date": "2026-08-07",
+    "total_transactions": 1652859,
+    "success_transactions": 1623943,
+    "failed_transactions": 28916,
+    "active_addresses": 10998,
+    "active_contracts": 32867
+  },
+  {
+    "date": "2026-08-08",
+    "total_transactions": 1389031,
+    "success_transactions": 1373126,
+    "failed_transactions": 15905,
+    "active_addresses": 9743,
+    "active_contracts": 56415
+  },
+  {
+    "date": "2026-08-09",
+    "total_transactions": 1264572,
+    "success_transactions": 1246716,
+    "failed_transactions": 17856,
+    "active_addresses": 14025,
+    "active_contracts": 58375
+  },
+  {
+    "date": "2026-08-10",
+    "total_transactions": 2311386,
+    "success_transactions": 2263724,
+    "failed_transactions": 47662,
+    "active_addresses": 57684,
+    "active_contracts": 81616
+  },
+  {
+    "date": "2026-08-11",
+    "total_transactions": 1818705,
+    "success_transactions": 1782915,
+    "failed_transactions": 35790,
+    "active_addresses": 28331,
+    "active_contracts": 40186
+  },
+  {
+    "date": "2026-08-12",
+    "total_transactions": 1517254,
+    "success_transactions": 1468704,
+    "failed_transactions": 48550,
+    "active_addresses": 12103,
+    "active_contracts": 33092
+  },
+  {
+    "date": "2026-08-13",
+    "total_transactions": 1808841,
+    "success_transactions": 1774945,
+    "failed_transactions": 33896,
+    "active_addresses": 154145,
+    "active_contracts": 31509
+  },
+  {
+    "date": "2026-08-14",
+    "total_transactions": 1725452,
+    "success_transactions": 1687827,
+    "failed_transactions": 37625,
+    "active_addresses": 10438,
+    "active_contracts": 70828
+  },
+  {
+    "date": "2026-08-15",
+    "total_transactions": 1537173,
+    "success_transactions": 1523994,
+    "failed_transactions": 13179,
+    "active_addresses": 19311,
+    "active_contracts": 28798
+  },
+  {
+    "date": "2026-08-16",
+    "total_transactions": 1721112,
+    "success_transactions": 1703943,
+    "failed_transactions": 17169,
+    "active_addresses": 11570,
+    "active_contracts": 36951
+  },
+  {
+    "date": "2026-08-17",
+    "total_transactions": 1769273,
+    "success_transactions": 1733211,
+    "failed_transactions": 36062,
+    "active_addresses": 13914,
+    "active_contracts": 73642
+  },
+  {
+    "date": "2026-08-18",
+    "total_transactions": 1930304,
+    "success_transactions": 1892826,
+    "failed_transactions": 37478,
+    "active_addresses": 12851,
+    "active_contracts": 99566
+  },
+  {
+    "date": "2026-08-19",
+    "total_transactions": 2873395,
+    "success_transactions": 2747207,
+    "failed_transactions": 126188,
+    "active_addresses": 17604,
+    "active_contracts": 67477
+  },
+  {
+    "date": "2026-08-20",
+    "total_transactions": 3137619,
+    "success_transactions": 3001354,
+    "failed_transactions": 136265,
+    "active_addresses": 16627,
+    "active_contracts": 140703
+  },
+  {
+    "date": "2026-08-21",
+    "total_transactions": 2829886,
+    "success_transactions": 2654915,
+    "failed_transactions": 174971,
+    "active_addresses": 16207,
+    "active_contracts": 49367
+  },
+  {
+    "date": "2026-08-22",
+    "total_transactions": 1781825,
+    "success_transactions": 1657707,
+    "failed_transactions": 124118,
+    "active_addresses": 13702,
+    "active_contracts": 78657
+  },
+  {
+    "date": "2026-08-23",
+    "total_transactions": 1454927,
+    "success_transactions": 1357280,
+    "failed_transactions": 97647,
+    "active_addresses": 12936,
+    "active_contracts": 52831
+  },
+  {
+    "date": "2026-08-24",
+    "total_transactions": 1560642,
+    "success_transactions": 1442417,
+    "failed_transactions": 118225,
+    "active_addresses": 12851,
+    "active_contracts": 60868
+  },
+  {
+    "date": "2026-08-25",
+    "total_transactions": 1565089,
+    "success_transactions": 1461199,
+    "failed_transactions": 103890,
+    "active_addresses": 17595,
+    "active_contracts": 129303
+  },
+  {
+    "date": "2026-08-26",
+    "total_transactions": 1446496,
+    "success_transactions": 1366739,
+    "failed_transactions": 79757,
+    "active_addresses": 12963,
+    "active_contracts": 74116
+  },
+  {
+    "date": "2026-08-27",
+    "total_transactions": 1520037,
+    "success_transactions": 1444715,
+    "failed_transactions": 75322,
+    "active_addresses": 13632,
+    "active_contracts": 70539
+  },
+  {
+    "date": "2026-08-28",
+    "total_transactions": 1417233,
+    "success_transactions": 1339907,
+    "failed_transactions": 77326,
+    "active_addresses": 13145,
+    "active_contracts": 41042
+  },
+  {
+    "date": "2026-08-29",
+    "total_transactions": 1172359,
+    "success_transactions": 1152431,
+    "failed_transactions": 19928,
+    "active_addresses": 14342,
+    "active_contracts": 27058
+  },
+  {
+    "date": "2026-08-30",
+    "total_transactions": 1423618,
+    "success_transactions": 1371026,
+    "failed_transactions": 52592,
+    "active_addresses": 12600,
+    "active_contracts": 56052
+  },
+  {
+    "date": "2026-08-31",
+    "total_transactions": 1503904,
+    "success_transactions": 1432616,
+    "failed_transactions": 71288,
+    "active_addresses": 16847,
+    "active_contracts": 51475
+  },
+  {
+    "date": "2026-09-01",
+    "total_transactions": 1910365,
+    "success_transactions": 1849519,
+    "failed_transactions": 60846,
+    "active_addresses": 19478,
+    "active_contracts": 29312
+  },
+  {
+    "date": "2026-09-02",
+    "total_transactions": 1758809,
+    "success_transactions": 1697383,
+    "failed_transactions": 61426,
+    "active_addresses": 14967,
+    "active_contracts": 29395
+  },
+  {
+    "date": "2026-09-03",
+    "total_transactions": 2156459,
+    "success_transactions": 2094086,
+    "failed_transactions": 62373,
+    "active_addresses": 17298,
+    "active_contracts": 70556
+  },
+  {
+    "date": "2026-09-04",
+    "total_transactions": 1633573,
+    "success_transactions": 1566753,
+    "failed_transactions": 66820,
+    "active_addresses": 16586,
+    "active_contracts": 30808
+  },
+  {
+    "date": "2026-09-05",
+    "total_transactions": 1432992,
+    "success_transactions": 1367239,
+    "failed_transactions": 65753,
+    "active_addresses": 15955,
+    "active_contracts": 26527
+  },
+  {
+    "date": "2026-09-06",
+    "total_transactions": 1632892,
+    "success_transactions": 1499803,
+    "failed_transactions": 133089,
+    "active_addresses": 18578,
+    "active_contracts": 55625
+  },
+  {
+    "date": "2026-09-07",
+    "total_transactions": 1670657,
+    "success_transactions": 1512387,
+    "failed_transactions": 158270,
+    "active_addresses": 19754,
+    "active_contracts": 76158
+  },
+  {
+    "date": "2026-09-08",
+    "total_transactions": 1695521,
+    "success_transactions": 1600842,
+    "failed_transactions": 94679,
+    "active_addresses": 20558,
+    "active_contracts": 59355
+  },
+  {
+    "date": "2026-09-09",
+    "total_transactions": 1482232,
+    "success_transactions": 1318881,
+    "failed_transactions": 163351,
+    "active_addresses": 19743,
+    "active_contracts": 47077
+  },
+  {
+    "date": "2026-09-10",
+    "total_transactions": 1443187,
+    "success_transactions": 1277825,
+    "failed_transactions": 165362,
+    "active_addresses": 19585,
+    "active_contracts": 64668
+  },
+  {
+    "date": "2026-09-11",
+    "total_transactions": 1449298,
+    "success_transactions": 1335187,
+    "failed_transactions": 114111,
+    "active_addresses": 22841,
+    "active_contracts": 49743
+  },
+  {
+    "date": "2026-09-12",
+    "total_transactions": 1186114,
+    "success_transactions": 1160756,
+    "failed_transactions": 25358,
+    "active_addresses": 27022,
+    "active_contracts": 41150
+  },
+  {
+    "date": "2026-09-13",
+    "total_transactions": 1329889,
+    "success_transactions": 1274925,
+    "failed_transactions": 54964,
+    "active_addresses": 17981,
+    "active_contracts": 79858
+  },
+  {
+    "date": "2026-09-14",
+    "total_transactions": 1559966,
+    "success_transactions": 1484491,
+    "failed_transactions": 75475,
+    "active_addresses": 38897,
+    "active_contracts": 120950
+  },
+  {
+    "date": "2026-09-15",
+    "total_transactions": 1758151,
+    "success_transactions": 1666168,
+    "failed_transactions": 91983,
+    "active_addresses": 22585,
+    "active_contracts": 69064
+  }
+]

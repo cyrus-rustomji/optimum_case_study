@@ -1,1 +1,0 @@
-- [Pipeline perf and nondeterminism](pipeline-perf-and-nondeterminism.md) — CSV-parse bound (parquet cache fix); outputs vary run-to-run, diff needs canonicalisation

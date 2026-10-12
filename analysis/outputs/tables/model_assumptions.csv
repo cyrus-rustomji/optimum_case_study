@@ -1,0 +1,4 @@
+name,eth_usd,gas_growth,spike_multiple,l1_cost_ratio,floor_mwei,elasticity_bot,elasticity_user,payments_wins,induced_multiple,fix_l1_data_fee
+Bear,1432.784801612903,-0.2,0.25,0.05583006434704006,2.5,-1.0,-0.2,0,1.0,True
+Base,2387.9746693548386,0.0,0.67,0.0322103396661394,2.5,-0.6,-0.1,2,2.0,True
+Bull,3343.164537096774,0.2,1.0,0.0322103396661394,4.0,-0.4,-0.05,4,3.0,True

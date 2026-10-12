@@ -1,0 +1,63 @@
+{
+  "inputs": {
+    "p_med_mwei": 1.282603561337034,
+    "p_med_90d_mwei": 1.3597536259888876,
+    "gas_yr_bot": 173719676661697.44,
+    "gas_yr_user": 28154043154749.668,
+    "spike_eth_l12m": 172.96000421240964,
+    "spike_multiple_ex_top_day": 0.6713613899202854,
+    "observed_elasticity_txs": -0.38151608194657666,
+    "observed_elasticity_gas": -0.07892455924553574,
+    "base_eth_l12m": 257.2792577875903,
+    "etherfi_gas_yr": 2223296927161.8887,
+    "l1_data_gap_usd_yr": 20431.291233851447,
+    "eth_usd_now": 2387.9746693548386,
+    "l1_ratio_llama": 0.0322103396661394,
+    "l1_ratio_gtp": 0.05583006434704006,
+    "net_l12m_usd": 1215538.206187422
+  },
+  "scenarios": [
+    {
+      "scenario": "Bear",
+      "baseline_usd": 297071.59754671896,
+      "spike_usd": 58494.741944341215,
+      "lever_a_min_base_fee_usd": 26007.510644417398,
+      "lever_b_payments_bd_usd": 0.0,
+      "lever_c_l1_fee_fix_usd": 20431.291233851447,
+      "bot_gas_change": -0.45609854960444507,
+      "user_gas_change": -0.1146723187279417,
+      "price_mwei": 2.5,
+      "no_action_usd": 355566.3394910602,
+      "total_usd": 402005.141369329,
+      "uplift_vs_no_action": 0.13060516905154462
+    },
+    {
+      "scenario": "Base",
+      "baseline_usd": 634381.7852330172,
+      "spike_usd": 267812.7095625853,
+      "lever_a_min_base_fee_usd": 215156.91971388515,
+      "lever_b_payments_bd_usd": 51381.663582285786,
+      "lever_c_l1_fee_fix_usd": 20431.291233851447,
+      "bot_gas_change": -0.3060756453912241,
+      "user_gas_change": -0.05908146937577097,
+      "price_mwei": 2.5,
+      "no_action_usd": 902194.4947956025,
+      "total_usd": 1189164.3693256248,
+      "uplift_vs_no_action": 0.31807983332356393
+    },
+    {
+      "scenario": "Bull",
+      "baseline_usd": 1065761.3991914687,
+      "spike_usd": 559608.646847193,
+      "lever_a_min_base_fee_usd": 1100737.3052772435,
+      "lever_b_payments_bd_usd": 345284.77927296044,
+      "lever_c_l1_fee_fix_usd": 20431.291233851447,
+      "bot_gas_change": -0.35052850669978697,
+      "user_gas_change": -0.05252008653281859,
+      "price_mwei": 4.0,
+      "no_action_usd": 1625370.0460386616,
+      "total_usd": 3091823.4218227174,
+      "uplift_vs_no_action": 0.9022273908382179
+    }
+  ]
+}

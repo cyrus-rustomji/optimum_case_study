@@ -1,0 +1,14 @@
+check,result,value
+06 fees reconcile to 01 (max daily deviation),PASS,0.01215%
+06 txs reconcile to 01 (max daily deviation),PASS,0.00000%
+01 USD = ETH x price,PASS,0.000000%
+01 price matches 02,PASS,0.000000%
+01 execution + L1 data = total (ETH),PASS,3.55e-15 ETH
+"06 unique (date, to_address)",PASS,0
+"01 one row per day, no gaps",PASS,623 days 2025-01-01..2026-09-15
+last-12-month window = 365 days,PASS,365
+07 labels: one row per tracked address,PASS,1082 labels / 1082 addresses
+segments cover 100% of fees,PASS,100.000000%
+L1 cost series has no missing days,PASS,0
+DefiLlama gross vs file 01 gross (last 12m),PASS,-3.37%
+no negative L1 cost days,PASS,0

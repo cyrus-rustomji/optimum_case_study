@@ -234,7 +234,8 @@ labels = {"eth_usd": "ETH price (avg, USD)", "gas_growth": "Organic gas change",
           "fix_l1_data_fee": "Lever C: re-tune L1 data-fee scalars"}
 fmt = {"eth_usd": lambda v: f"${float(v):,.0f}", "gas_growth": lambda v: f"{float(v):+.0%}",
        "l1_cost_ratio": lambda v: f"{float(v):.1%}", "spike_multiple": lambda v: f"{float(v):.2f}×",
-       "induced_multiple": lambda v: f"{float(v):.0f}×", "payments_wins": lambda v: f"{float(v):.0f}"}
+       "induced_multiple": lambda v: f"{float(v):.0f}×", "payments_wins": lambda v: f"{float(v):.0f}",
+       "fix_l1_data_fee": lambda v: "Yes" if str(v) == "True" else "No"}
 rows = [[labels[k]] + [fmt.get(k, str)(a.loc[k, sc]) for sc in ["Bear", "Base", "Bull"]] for k in labels]
 sc = pd.read_csv(TABLES / "model_scenarios.csv").set_index("scenario")
 rows += [["→ Net revenue, no action"] + [m(sc.loc[n, "no_action_usd"]) for n in ["Bear", "Base", "Bull"]],

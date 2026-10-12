@@ -32,7 +32,7 @@
   "jan25_gross": 679575.2354100706,
   "segments": {
     "long_tail": {
-      "fee_usd": 135296.4618591793,
+      "fee_usd": 135296.46185917928,
       "txs": 26091428.0,
       "fee_share": 0.10772187793252813,
       "tx_share": 0.04051666042562042
@@ -40,17 +40,17 @@
     "mev_bots": {
       "fee_usd": 114101.02910445485,
       "txs": 6033671.0,
-      "fee_share": 0.09084625688112198,
+      "fee_share": 0.090846256881122,
       "tx_share": 0.009369521630894008
     },
     "named_app": {
-      "fee_usd": 220477.13032004208,
+      "fee_usd": 220477.1303200421,
       "txs": 50167222.0,
-      "fee_share": 0.17554199269430723,
+      "fee_share": 0.1755419926943073,
       "tx_share": 0.07790329828902864
     },
     "unlabeled_bot": {
-      "fee_usd": 719637.2411569139,
+      "fee_usd": 719637.2411569138,
       "txs": 552026714.0,
       "fee_share": 0.5729689748154115,
       "tx_share": 0.8572270907138192
@@ -58,14 +58,14 @@
     "unlabeled_multi": {
       "fee_usd": 66467.55841505594,
       "txs": 9648847.0,
-      "fee_share": 0.052920897676631024,
+      "fee_share": 0.05292089767663103,
       "tx_share": 0.014983428940637757
     }
   },
-  "top10_customer_share": 0.5001576996098133,
-  "top50_customer_share": 0.8140917623967023,
+  "top10_customer_share": 0.5001576996098063,
+  "top50_customer_share": 0.8140917623966911,
   "n_customers": 724,
-  "hhi_customers": 443.42492926241204,
+  "hhi_customers": 443.42492926239976,
   "top10_bots": 7,
   "app_fees_l12m": 41253034.723699994,
   "app_revenue_l12m": 17437169.369299997,
@@ -87,7 +87,7 @@
   "median_mwei_per_gas": 1.2826035613370341,
   "gas_l12m": 233442597098947.0,
   "retention_logo_3m_avg_l12m": 0.5282789521279235,
-  "retention_nrr_3m_avg_l12m": 0.4336640171279713,
+  "retention_nrr_3m_avg_l12m": 0.4336640171279712,
   "decomp_summer": {
     "comp_period": "Summer 2026 (Jun-Aug)",
     "usd_per_day_base": 8748.649980386494,

@@ -10,8 +10,8 @@ d AS (
     WHERE f.date BETWEEN getvariable('l12m_start') AND getvariable('l12m_end')
 )
 SELECT date, total_fee_usd, fee_paying_txs, gas_used, mwei_per_gas,
-       row_number() OVER (ORDER BY total_fee_usd DESC)                                   AS day_rank,
-       sum(total_fee_usd) OVER (ORDER BY total_fee_usd DESC) / sum(total_fee_usd) OVER () AS cum_share,
+       row_number() OVER (ORDER BY total_fee_usd DESC, date)                             AS day_rank,
+       sum(total_fee_usd) OVER (ORDER BY total_fee_usd DESC, date ROWS UNBOUNDED PRECEDING) / sum(total_fee_usd) OVER () AS cum_share,
        median(mwei_per_gas) OVER ()                                                      AS median_mwei_per_gas
 FROM d
 ORDER BY day_rank;

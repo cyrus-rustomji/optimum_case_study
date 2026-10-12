@@ -10,8 +10,8 @@ WITH alias(protocol, app) AS (
 ),
 earn AS (
     SELECT coalesce(a.app, f.protocol) AS app,
-           string_agg(DISTINCT f.protocol, ', ') AS defillama_protocols,
-           any_value(f.category) AS category,
+           string_agg(DISTINCT f.protocol, ', ' ORDER BY f.protocol) AS defillama_protocols,
+           arg_max(f.category, f.fee_usd) AS category,  -- category of the app's largest fee day (some apps carry two)
            sum(f.fee_usd) AS app_fees_usd,
            sum(f.revenue_usd) AS app_revenue_usd,
            sum(f.holder_revenue_usd) AS app_holder_revenue_usd

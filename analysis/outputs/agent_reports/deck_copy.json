@@ -1,0 +1,522 @@
+{
+  "title": "OP Mainnet: Who Makes Money, What We Keep, How to Grow It",
+  "subtitle": "Sequencer revenue review for the last 12 months (Sep 16 2025 to Sep 15 2026) and a 12-month plan",
+  "answer_one_liner": "Apps make the money. OP kept $1.22M, mostly from bots, as blockspace prices fell 76%. A staged fee floor, L1 fix and payments lift next year to $1.19M, not $0.90M.",
+  "exec_summary": {
+    "finding": "OP's take is small and shrinking because the price of blockspace (the transaction capacity OP sells) collapsed, not the volume. OP kept $1.216M net in the last 12 months, while apps on OP Mainnet collected $41.3M in fees.",
+    "evidence": [
+      "Gross fees per day fell 70% ($11.6k to $3.4k) while transactions per day rose 71%. The price per unit of gas (compute) fell 76%.",
+      "Bots pay about two-thirds of fees (57% unnamed automated contracts plus 9% labelled MEV bots). Named apps pay 18%. The top 10 customers pay 50%.",
+      "Revenue is event-driven. The Oct 10 2025 crash day alone earned $250k, 20% of the year, and the 10 busiest days earned 32%."
+    ],
+    "implication": "With no action, net revenue for the next 12 months falls to $0.90M (-26%). Demand barely responded when blockspace got cheaper (+0.38% transactions per 1% price drop), so we should work on price, not volume.",
+    "action": "Phase in a minimum base fee toward 2.5 mwei/gas, re-tune the L1 data fee scalars, sign payments issuers and pursue chains as OP Enterprise customers. Base case: $1.19M, +32% versus no action."
+  },
+  "slides": {
+    "approach": {
+      "headline": "We define our share as user fees minus Ethereum posting costs.",
+      "bullets": [
+        "Our share = sequencer revenue: fees paid to OP's block producer (the sequencer), minus the L1 data cost of posting to Ethereum.",
+        "Window: the last 12 months (Sep 16 2025 to Sep 15 2026) against the prior 258 days, compared per day.",
+        "Fee change split into four drivers: transactions, gas (compute units) per transaction, price per unit of gas, and ETH/USD.",
+        "Fees assigned to the contract each transaction calls: 724 paying customers, grouped into apps, bots and the long tail."
+      ],
+      "notes": "Think of OP Mainnet as a toll road. Blockspace is the lane capacity we sell, and gas is the unit we meter it in, like kilowatt-hours. The sequencer is OP's toll booth: it orders transactions and collects the fees. Our cost is the L1 data cost, which is what we pay Ethereum to post a copy of every transaction for security. Our share is the fees minus that cost. We compared the last 12 months with the 258 days before, per day, so the uneven period lengths do not distort the picture. Customers are whoever's transactions pay the toll."
+    },
+    "revenue_trend": {
+      "headline": "We kept $1.22M net last year; the run-rate is now $49.7k/month.",
+      "bullets": [
+        "Last-12-month gross user fees were $1.256M (430 ETH). L1 cost was $40k, so net sequencer revenue was $1.216M, a 96.8% margin.",
+        "Gross fees per day fell 70%, from $11.6k in the prior period to $3.4k.",
+        "Jun to Aug 2026 averaged $50.5k/month gross, against $680k in Jan 2025 alone.",
+        "The margin holds on either cost source: L1 cost is 5.6% of gross (growthepie) or 2.1% (DefiLlama). Net stays at about 95-97%."
+      ],
+      "notes": "The headline for Finance is that costs are not the problem. We keep roughly 96 to 97 cents of every fee dollar. The problem is the top line. Daily fees are down 70%, and the current monthly run-rate is a small fraction of January 2025. Two data sources disagree on the Ethereum posting cost over the 64 days where they overlap, but either way net revenue stays at about 95 to 97% of gross, so the conclusion does not depend on which one we use. We tried rebuilding the cost directly from on-chain data, but the free data provider rate-limited us. That remains a follow-up for the Data team."
+    },
+    "decomposition": {
+      "headline": "Volume grew, but blockspace prices collapsed 76% and drove the decline.",
+      "bullets": [
+        "Transactions per day rose 71% (1.03M to 1.76M), adding $3.6k/day of fees.",
+        "Gas (compute units) per transaction fell 35%, removing $2.9k/day.",
+        "The price paid per unit of gas fell 76%, removing $9.5k/day: the main driver of the -$8.2k/day change.",
+        "Daily active addresses fell from ~81k to ~21k while transactions doubled, so the volume is automated."
+      ],
+      "notes": "This slide splits the drop in daily fees exactly into four pieces. Volume actually helped: we processed 71% more transactions per day. A higher ETH price also helped slightly, adding $0.5k a day. What hurt was price. The base fee, the automatic posted price per unit of gas, falls toward zero when blocks are not full, and it fell 76%. This also gives us a natural experiment. Blockspace got 76% cheaper, but transactions rose only 0.38% for every 1% price drop. Cutting the price did not buy volume, so a modest price increase should not lose much of it."
+    },
+    "spikes": {
+      "headline": "Revenue is event-driven: one crash day earned 20% of the year.",
+      "bullets": [
+        "The Oct 10 2025 market crash earned $250k, at 73x the median day's price of 1.28 mwei/gas.",
+        "The 10 busiest days delivered 32% of last-12-month fees.",
+        "About 40% of fees (173 of 430 ETH) was a congestion premium paid above the median price.",
+        "Budget off the base load and treat spikes as upside we cannot schedule."
+      ],
+      "notes": "mwei is the unit for the price of blockspace. One mwei is a trillionth of an ETH, charged per unit of gas. On a normal day blockspace is almost free. When markets crash, trading bots compete to get their transactions in first, and some searchers pay up to $350 per transaction. One day, October 10 2025, earned a fifth of the year. For Finance this means last year's total overstates the repeatable base. Our base case assumes no crash of that size: we take 0.67x of last year's congestion premium, which is last year without the top day."
+    },
+    "who_makes_money": {
+      "headline": "Apps collected $41.3M in fees; OP's gross take was $1.26M.",
+      "bullets": [
+        "Apps on OP Mainnet earned $41.3M in fees and kept $17.4M as revenue (DefiLlama).",
+        "OP's gross take of $1.26M is about 3% of what apps collect.",
+        "ether.fi earned $18.5M in app fees and $7.1M revenue, but its contracts paid OP only $10k in gas.",
+        "Uniswap $3.75M fees / $27k gas; Velodrome $3.36M / $7.6k; Chainlink $3.0M / $21k; Aave $2.1M / $0.6k."
+      ],
+      "notes": "To answer the question directly: the apps make the money. They collected $41.3M in fees. Gas paid by the contracts we could track for those apps was $111k, and that is a floor because some app contracts fall below our tracking threshold. ether.fi is the clearest example. It is a card issuer that moved about 70k cards onto OP Mainnet in 2026. It generated $1,849 of app fees for every $1 of gas it paid OP. The economic value created on OP Mainnet is large, and our toll on it is small. Growing app activity therefore helps the ecosystem far more than it helps our direct fees."
+    },
+    "segments": {
+      "headline": "Bots pay about two-thirds of our revenue; named apps pay 18%.",
+      "bullets": [
+        "Unnamed automated contracts (bots) pay 57% of fees and send 86% of transactions.",
+        "Labelled MEV bots, which profit from the order of trades, pay 9% of fees with 1% of transactions.",
+        "Named apps and infrastructure pay 18% of fees with 8% of transactions.",
+        "The long tail of small contracts pays 11%; unnamed multi-user contracts pay 5%."
+      ],
+      "notes": "MEV stands for maximal extractable value. It is the profit trading bots earn by being first in line, through arbitrage and liquidations. Together with unnamed automated contracts, bots pay about two-thirds of our revenue. They send huge volumes at very low prices. That makes them the group a price floor affects most, and also the biggest unknown in our forecast. One caveat: we label a contract as a bot with a rule of thumb (five or fewer senders a day, or 50 or more transactions per sender-day). Labels cover about 340 of 1,082 addresses, so these splits are directional."
+    },
+    "top_customers": {
+      "headline": "Revenue is concentrated: ten customers pay half, and seven are bots.",
+      "bullets": [
+        "Of 724 paying customers, the top 10 pay 50% of fees and the top 50 pay 81%.",
+        "Seven of the top 10 are bots or MEV searchers, not named consumer apps.",
+        "The HHI concentration index is 443, low overall, but key-account exposure at the top is real.",
+        "Some searchers pay up to $350 per transaction on spike days through priority-fee auctions."
+      ],
+      "notes": "From a BD and Finance angle, this looks like a key-account business we have never managed as one. Half our revenue comes from ten payers, and most of them are automated trading operations we do not have a relationship with. The overall concentration index is moderate because there is a long tail, but losing two or three top payers to another chain would show up in the numbers right away. Priority-fee auctions are tips that bots pay to jump the queue. They are why a few customers can pay hundreds of dollars per transaction on volatile days."
+    },
+    "retention": {
+      "headline": "Paying customers churn fast: only ~53% still pay three months later.",
+      "bullets": [
+        "Of addresses paying at least $10/month, only ~53% are still paying three months later.",
+        "Three-month net revenue retention averages 43%, so a cohort's spend shrinks by more than half.",
+        "The revenue base turns over constantly. Growth needs a steady pipeline of new flow, not just existing payers."
+      ],
+      "notes": "This is the subscription-business view of our customers. Take everyone paying at least $10 a month and look again three months later. Only about half are still paying, and the group as a whole pays 43% of what it paid before. Some of this is natural, because bots appear and disappear with trading strategies. For planning, though, it means today's revenue is not sticky. That is one reason we pair pricing with BD on payments, where issuers like ether.fi bring steady, recurring card flow instead of opportunistic trading volume."
+    },
+    "other_targets": {
+      "headline": "Payments flow is the growth signal; most other ecosystem metrics shrank.",
+      "bullets": [
+        "Adjusted stablecoin transfer volume rose 67%, from $1.08B to $1.81B per quarter (Q3 2025 to Q3 2026).",
+        "But stablecoin supply fell: native from $279M to $208M, bridged from $382M to $268M.",
+        "Bridges now bring in more than they send out ($1.08B in versus $0.71B out per quarter).",
+        "Base left the Superchain revenue share in Feb 2026. It had been ~90% of Collective inflows in Jan 2026."
+      ],
+      "notes": "We looked at other customer groups beyond direct fee payers. Stablecoin payments are the one clear growth line, and bridges have turned to net inflow. Most other indicators shrank. Exchange deposits and withdrawals fell to $4.5B a quarter from $9.4B, DeFi deposits (TVL) to $344M from $438M, DEX trading volume to $1.5B from $4.6B, and new addresses to 0.48M a quarter from 2.06M. Builders are the exception, with about 1.8k daily deployers, flat to slightly up. Base leaving the revenue share makes two things matter more: OP Mainnet's own sequencer margin, and other chains as paying OP Enterprise customers."
+    },
+    "scenarios": {
+      "headline": "Doing nothing yields $0.90M; three levers lift next year to $1.19M.",
+      "bullets": [
+        "No action: $0.90M net (-26% vs last 12 months), with ETH at $2,388, no crash like Oct 10, flat gas.",
+        "Lever A, a 2.5 mwei/gas fee floor: +$215k. Lever B, payments BD: +$51k. Lever C, L1 fee fix: +$20k.",
+        "Base case with levers: $1.19M, +32% versus no action and about flat versus the last 12 months.",
+        "Range: Bear case $0.40M, Bull case $3.09M (Bull assumes a 4.0 mwei floor)."
+      ],
+      "notes": "To be clear about what this plan achieves: the levers mostly defend revenue. Without them we drift to $0.90M. With them we hold roughly flat at $1.19M. The model is simple: base-load gas times price, plus a spike premium, converted at the ETH price, minus the Ethereum posting cost. The minimum base fee is a setting that has been live on the OP Stack since December 2025 (the Jovian upgrade), so this is configuration rather than new engineering. Lever B looks small on our income statement. Its real value is in ecosystem fees, stablecoin volume and deposits."
+    },
+    "sensitivity": {
+      "headline": "ETH price drives the range most; bot reaction is the biggest controllable unknown.",
+      "bullets": [
+        "ETH price at -40% or +40% gives $0.72M to $1.66M around the $1.19M base case.",
+        "A 1.5 to 4.0 mwei floor gives $0.98M to $1.44M. Bot elasticity of -1.2 to -0.3 gives $0.98M to $1.33M.",
+        "Organic gas at -20% or +20% gives $1.02M to $1.36M. A congestion premium of 0.25x to 1.0x gives $1.02M to $1.32M.",
+        "Payments wins of 0 to 4 give $1.14M to $1.24M. The L1 cost source gives $1.16M to $1.19M."
+      ],
+      "notes": "Each bar changes one assumption at a time. ETH price matters most, and we cannot control it. Of the things we can influence, the biggest unknown is bot elasticity, meaning how much bots cut their usage when the price rises. We assumed -0.6, which is cautious next to the -0.38 we observed. Even at -1.2, where bots react far more strongly than we assumed, the base case is $0.98M. That is still above the $0.90M no-action line. This is why we recommend a staged rollout: each stage measures the real bot response before we go further."
+    },
+    "floor_tradeoff": {
+      "headline": "A higher fee floor earns more but risks pushing flow to Base.",
+      "bullets": [
+        "Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M.",
+        "At 2.5 mwei a typical user transaction costs $0.0014. Modelled user gas falls 6% and bot gas falls 31%.",
+        "Base, our closest competitor, sets its minimum base fee at 0.5 mwei. If the gap gets too wide, flow may move.",
+        "We recommend 2.5 mwei, about 1.8x today's 90-day median of 1.36, reached in stages."
+      ],
+      "notes": "This is the pricing trade-off in one picture. Each step up the floor adds revenue, but each step also widens the gap with Base, Arbitrum and other chains that bots can move to. We stop at 2.5 mwei because users barely notice it: a typical transaction costs about $0.0014. Bots absorb most of the volume loss in the model. Before we act, the team needs to confirm OP Mainnet's current minimum base fee setting in the on-chain configuration, because this analysis did not verify it. Higher floors are an option for later, once we have the stage-one data."
+    }
+  },
+  "recommendations": [
+    {
+      "name": "Price blockspace with a staged minimum base fee",
+      "finding": "The 76% fall in blockspace price drove the decline, and demand barely responded to cheaper prices.",
+      "evidence": "Price effect -$9.5k/day. Observed elasticity: 0.38% more transactions and 0.08% more gas per 1% price drop. Median price 1.28 mwei/gas.",
+      "implication": "A floor recovers price on base-load blockspace, mostly paid by bots, at negligible cost to users ($0.0014 per typical transaction).",
+      "action": "Check the current minBaseFee setting, then raise the floor 1.5 -> 2.0 -> 2.5 mwei/gas. Each step goes ahead only if guardrails hold.",
+      "owner": "Product-Protocol (accountable), with Data monitoring and Finance signing off each stage",
+      "timeline": "Month 1: verify the setting and the governance path. Month 2: 1.5 mwei. Month 4: 2.0 mwei. Month 6: 2.5 mwei, then hold and review.",
+      "kpis": [
+        "Net revenue per day versus the no-action line ($0.90M/yr pace)",
+        "Bot gas decline no worse than the modelled -31% at 2.5 mwei",
+        "User gas decline no worse than the modelled -6%",
+        "Typical user transaction cost around $0.0014 at 2.5 mwei"
+      ],
+      "expected_impact": "+$215k a year at 2.5 mwei in the base case. The floor range 1.5-4.0 mwei gives a total of $0.98M-$1.44M."
+    },
+    {
+      "name": "Fix L1 fee hygiene",
+      "finding": "Since Oct 2025, users have paid less L1 data fee than OP's actual Ethereum posting cost, because the fee scalars are stale.",
+      "evidence": "The data leg runs at about -$20k/yr. L1 cost is $40k against $20k of L1 data fee collected in the last 12 months.",
+      "implication": "We subsidise Ethereum posting costs for free. It is small, but it is a pure leak that is easy to fix.",
+      "action": "Re-tune the L1 data fee scalars so the data leg breaks even. Reconcile the L1 cost source (2.1% DefiLlama vs 5.6% growthepie) with an on-chain batcher rebuild.",
+      "owner": "Product-Protocol (scalars) and Data (cost reconciliation)",
+      "timeline": "Months 1-2",
+      "kpis": [
+        "L1 data fee collected minus L1 cost >= 0 each month",
+        "L1 cost ratio reconciled to one agreed source"
+      ],
+      "expected_impact": "+$20k a year in the base case."
+    },
+    {
+      "name": "Grow payments and stablecoin flow",
+      "finding": "Stablecoin payments are the one clear growth line, and payments apps create far more value than they pay OP.",
+      "evidence": "Adjusted stablecoin transfer volume +67% to $1.81B/qtr. ether.fi: $18.5M app fees against $10k of gas paid to OP.",
+      "implication": "Each issuer adds little direct fee revenue but brings recurring, non-bot flow, plus deposits and stablecoin balances that strengthen the ecosystem.",
+      "action": "Target 2 more card or payments issuers of ether.fi's scale, with co-marketing and launch support.",
+      "owner": "Business Development",
+      "timeline": "Pipeline by month 3, first signing by month 6, both live by month 12",
+      "kpis": [
+        "Issuers signed (target: 2)",
+        "Adjusted stablecoin transfer volume above $1.81B/qtr",
+        "Native stablecoin supply recovering from $208M"
+      ],
+      "expected_impact": "+$51k a year of direct sequencer revenue in the base case (0-4 wins: $1.14M-$1.24M total). The main value is ecosystem fees, stablecoin volume and TVL."
+    },
+    {
+      "name": "Sell to chains as customers (OP Enterprise)",
+      "finding": "Base's exit from the Superchain revenue share removed the largest source of Collective inflows.",
+      "evidence": "Base announced its exit on 2026-02-19. It had been ~90% of Collective inflows in Jan 2026.",
+      "implication": "OP needs paying chain customers to replace that inflow, on top of OP Mainnet's own margin.",
+      "action": "Package OP Enterprise (OP Stack plus services for chains) with clear pricing, and build a pipeline of target chains.",
+      "owner": "Business Development (pipeline) and Finance (pricing and contract terms)",
+      "timeline": "Offer and pricing by month 3, pipeline review by month 6, first contracts by month 12",
+      "kpis": [
+        "Chains in qualified pipeline",
+        "Signed chain contracts",
+        "Contracted annual revenue"
+      ],
+      "expected_impact": "Not modelled. This is upside outside the $1.19M base case and should be sized once pricing is set."
+    }
+  ],
+  "kpi_tree": [
+    {
+      "metric": "Net sequencer revenue",
+      "definition": "Gross user fees minus L1 data cost (Ethereum posting)",
+      "why": "This is 'our share', the number leadership asked about",
+      "target_or_guardrail": "Target $1.19M for the next 12 months. Guardrail: stay above the $0.90M no-action line",
+      "owner": "Finance"
+    },
+    {
+      "metric": "Effective blockspace price",
+      "definition": "Median ETH paid per unit of gas, in mwei/gas",
+      "why": "A 76% price fall was the main driver of the decline",
+      "target_or_guardrail": "From a 90-day median of 1.36 to a 2.5 mwei floor, in stages",
+      "owner": "Product-Protocol"
+    },
+    {
+      "metric": "Base-load gas by segment (bots vs users)",
+      "definition": "Gas used per day, excluding spike days, split by customer segment",
+      "why": "Measures the real elasticity response to the floor, which is our biggest unknown",
+      "target_or_guardrail": "Bot gas no worse than -31%, user gas no worse than -6% at 2.5 mwei",
+      "owner": "Data"
+    },
+    {
+      "metric": "Typical user transaction cost",
+      "definition": "USD cost of a 234k-gas user transaction",
+      "why": "Protects user experience and the competitive position",
+      "target_or_guardrail": "Around $0.0014 at 2.5 mwei",
+      "owner": "Product-Protocol"
+    },
+    {
+      "metric": "Congestion premium share",
+      "definition": "Share of fees paid above the median price on volatile days",
+      "why": "Separates repeatable revenue from windfalls for budgeting",
+      "target_or_guardrail": "Track separately. Base case assumes 0.67x last year; last year it was ~40% of fees",
+      "owner": "Finance"
+    },
+    {
+      "metric": "L1 data leg balance",
+      "definition": "L1 data fees collected minus OP's Ethereum posting cost",
+      "why": "A direct margin leak today",
+      "target_or_guardrail": "At or above break-even, from about -$20k/yr today",
+      "owner": "Product-Protocol"
+    },
+    {
+      "metric": "Paying-customer retention",
+      "definition": "Share of $10+/month payers still paying after 3 months, and their net revenue retention",
+      "why": "Shows whether revenue is sticky or keeps turning over",
+      "target_or_guardrail": "Improve on the ~53% (customers) and 43% (revenue) baselines",
+      "owner": "Business Development"
+    },
+    {
+      "metric": "Payments flow",
+      "definition": "Adjusted stablecoin transfer volume per quarter, plus native stablecoin supply",
+      "why": "The leading indicator for Lever B and ecosystem health",
+      "target_or_guardrail": "Above $1.81B/qtr volume; supply recovering from $208M; 2 issuers signed",
+      "owner": "Business Development"
+    },
+    {
+      "metric": "Competitive price gap and flow share",
+      "definition": "OP's minimum base fee versus Base's 0.5 mwei, and the share of top bots still active",
+      "why": "An early warning that flow is moving to other chains",
+      "target_or_guardrail": "Pause the next floor stage if top-payer activity drops beyond the modelled bot response",
+      "owner": "Data"
+    }
+  ],
+  "risks": [
+    {
+      "risk": "Bots react more strongly to a floor than assumed. Bot elasticity is the biggest unknown.",
+      "mitigation": "Stage the rollout 1.5 -> 2.0 -> 2.5 mwei and measure at each step. Even at -1.2 the base case is $0.98M, above the $0.90M no-action line."
+    },
+    {
+      "risk": "Flow moves to Base, Arbitrum or other chains. Base's floor is 0.5 mwei.",
+      "mitigation": "Track top-payer activity weekly. Pause or roll back a stage if the bot response exceeds the modelled -31%."
+    },
+    {
+      "risk": "ETH price swings dominate the result: -40%/+40% gives $0.72M-$1.66M.",
+      "mitigation": "Finance plans in both ETH and USD and reports the levers' effect separately from ETH moves."
+    },
+    {
+      "risk": "Spike dependence: one day (Oct 10 2025) was 20% of the year, and a calm year undershoots.",
+      "mitigation": "Budget on base load. The base case already assumes no crash on that scale (0.67x last year's congestion premium)."
+    },
+    {
+      "risk": "Concentration: the top 10 customers pay 50%, and 7 of them are bots.",
+      "mitigation": "Monitor the top payers individually as key accounts, and diversify through payments and OP Enterprise."
+    },
+    {
+      "risk": "Measurement gaps: bot labels are heuristic (~340 of 1,082 addresses labelled), the L1 cost source is uncertain, and the current minBaseFee is unverified.",
+      "mitigation": "Data checks the on-chain configuration, rebuilds L1 cost from batcher transactions and improves address labels before stage one."
+    }
+  ],
+  "next_steps_30_60_90": {
+    "30": [
+      "Product-Protocol: verify OP Mainnet's current minBaseFee and the governance path for changing it",
+      "Product-Protocol: re-tune the L1 data fee scalars to break even",
+      "Data: build the KPI dashboard (price, base-load gas by segment, top-payer activity, L1 data leg)",
+      "Finance: re-base the 12-month budget to the $0.90M no-action line and the $1.19M plan"
+    ],
+    "60": [
+      "Product-Protocol: ship floor stage one at 1.5 mwei/gas",
+      "Data: measure the bot and user response against the modelled elasticities",
+      "BD: build a target list of payments issuers and an OP Enterprise offer with pricing (with Finance)"
+    ],
+    "90": [
+      "Leadership: go/no-go on 2.0 mwei based on the stage-one guardrails",
+      "BD: have the first issuer and chain conversations in qualified pipeline",
+      "Finance and Data: re-forecast with the measured elasticity and replace the assumed -0.6"
+    ]
+  },
+  "numbers_used": [
+    {
+      "number": "$1.256M / $1.26M L12M gross user fees",
+      "source_key": "headline.json gross_l12m_usd; brief s1"
+    },
+    {
+      "number": "430 ETH gross",
+      "source_key": "headline.json gross_eth_l12m"
+    },
+    {
+      "number": "$40k L1 cost",
+      "source_key": "headline.json l1_cost_l12m_usd"
+    },
+    {
+      "number": "$1.216M / $1.22M net sequencer revenue",
+      "source_key": "headline.json net_l12m_usd"
+    },
+    {
+      "number": "96.8% margin",
+      "source_key": "headline.json net_margin_l12m"
+    },
+    {
+      "number": "$20k L1 data fee collected",
+      "source_key": "headline.json l1_data_fee_l12m_usd"
+    },
+    {
+      "number": "5.6% vs 2.1% L1 cost ratio (growthepie vs DefiLlama, 64 overlap days)",
+      "source_key": "brief s1 cross-check; headline.json gtp_*_overlap, llama_cost_overlap, gtp_overlap_days"
+    },
+    {
+      "number": "95-97% net of gross",
+      "source_key": "brief s1"
+    },
+    {
+      "number": "-70% gross fees/day, $11.6k -> $3.4k",
+      "source_key": "headline.json gross_per_day_prior, gross_per_day_l12m"
+    },
+    {
+      "number": "$50.5k/month gross, $49.7k/month net (Jun-Aug 2026)",
+      "source_key": "headline.json run_rate_3m_gross_monthly, run_rate_3m_net_monthly"
+    },
+    {
+      "number": "$680k Jan 2025 gross",
+      "source_key": "headline.json jan25_gross"
+    },
+    {
+      "number": "258 prior days",
+      "source_key": "headline.json window.prior_days"
+    },
+    {
+      "number": "txs/day +71%, 1.03M -> 1.76M, +$3.6k/day",
+      "source_key": "headline.json decomp_l12m_vs_prior.pct_tx_volume, effect_tx_volume; txs_per_day_*"
+    },
+    {
+      "number": "gas per tx -35%, -$2.9k/day",
+      "source_key": "headline.json decomp_l12m_vs_prior.pct_gas_per_tx, effect_gas_per_tx"
+    },
+    {
+      "number": "blockspace price -76%, -$9.5k/day",
+      "source_key": "headline.json decomp_l12m_vs_prior.pct_blockspace_price, effect_blockspace_price"
+    },
+    {
+      "number": "-$8.2k/day total change",
+      "source_key": "headline.json decomp_l12m_vs_prior.change_usd_per_day"
+    },
+    {
+      "number": "ETH price effect +$0.5k/day",
+      "source_key": "headline.json decomp_l12m_vs_prior.effect_eth_price"
+    },
+    {
+      "number": "Daily active addresses ~81k -> ~21k; txs doubled",
+      "source_key": "brief s1"
+    },
+    {
+      "number": "Elasticity 0.38% txs, 0.08% gas per 1% price drop",
+      "source_key": "model.json inputs.observed_elasticity_txs, observed_elasticity_gas"
+    },
+    {
+      "number": "Median price 1.28 mwei/gas",
+      "source_key": "headline.json median_mwei_per_gas"
+    },
+    {
+      "number": "Oct 10 2025: $250k, 20% of year, 73x median",
+      "source_key": "headline.json top_day; brief s1"
+    },
+    {
+      "number": "Top 10 days = 32% of fees",
+      "source_key": "headline.json top10_days_share"
+    },
+    {
+      "number": "~40% congestion premium, 173 of 430 ETH",
+      "source_key": "model.json inputs.spike_eth_l12m; brief s1"
+    },
+    {
+      "number": "Up to $350 per tx on spike days",
+      "source_key": "brief s2"
+    },
+    {
+      "number": "Apps $41.3M fees, $17.4M revenue",
+      "source_key": "headline.json app_fees_l12m, app_revenue_l12m"
+    },
+    {
+      "number": "OP take about 3% of app fees",
+      "source_key": "brief s2"
+    },
+    {
+      "number": "Tracked app contracts paid $111k gas",
+      "source_key": "headline.json apps_paid_op_tracked"
+    },
+    {
+      "number": "ether.fi $18.5M fees, $7.1M revenue, $10k gas, 1,849x, ~70k cards",
+      "source_key": "headline.json etherfi; brief s2"
+    },
+    {
+      "number": "Uniswap $3.75M/$27k; Velodrome $3.36M/$7.6k; Chainlink $3.0M/$21k; Aave $2.1M/$0.6k",
+      "source_key": "brief s2"
+    },
+    {
+      "number": "Segments: bots 57%/86%; MEV 9%/1%; long tail 11%; multi 5%; named 18%/8%",
+      "source_key": "headline.json segments.*.fee_share, tx_share"
+    },
+    {
+      "number": "About two-thirds paid by bots",
+      "source_key": "brief s2"
+    },
+    {
+      "number": "724 customers; top 10 = 50%; top 50 = 81%; HHI 443; 7 of top 10 bots",
+      "source_key": "headline.json n_customers, top10_customer_share, top50_customer_share, hhi_customers, top10_bots"
+    },
+    {
+      "number": "Bot heuristic: <=5 senders/day or >=50 txs per sender-day; ~340 of 1,082 labelled",
+      "source_key": "brief caveats"
+    },
+    {
+      "number": "Retention ~53% logo, 43% NRR, $10/month threshold",
+      "source_key": "headline.json retention_logo_3m_avg_l12m, retention_nrr_3m_avg_l12m; brief s2"
+    },
+    {
+      "number": "Stablecoin adj. volume +67%, $1.08B -> $1.81B/qtr",
+      "source_key": "headline.json eco_q3_2025/eco_last_q.stable_adj_volume_usd_91d; brief s2"
+    },
+    {
+      "number": "Native stable supply $279M -> $208M; bridged $382M -> $268M",
+      "source_key": "headline.json eco_q3_2025/eco_last_q *_stable_supply_usd"
+    },
+    {
+      "number": "Bridges $1.08B in vs $0.71B out",
+      "source_key": "headline.json eco_last_q.bridge_in_usd_91d, bridge_out_usd_91d"
+    },
+    {
+      "number": "CEX $4.5B from $9.4B; TVL $344M from $438M; DEX $1.5B from $4.6B; new addresses 0.48M from 2.06M; deployers ~1.8k",
+      "source_key": "brief s2"
+    },
+    {
+      "number": "Base exit 2026-02-19, ~90% of Collective inflows in Jan 2026",
+      "source_key": "brief s2 (public context)"
+    },
+    {
+      "number": "No action $0.90M, -26% vs L12M",
+      "source_key": "model.json scenarios[Base].no_action_usd; brief s3"
+    },
+    {
+      "number": "ETH $2,388",
+      "source_key": "model.json inputs.eth_usd_now"
+    },
+    {
+      "number": "Congestion premium 0.67x",
+      "source_key": "model.json inputs.spike_multiple_ex_top_day"
+    },
+    {
+      "number": "Lever A +$215k at 2.5 mwei; bot gas -31%; user gas -6%",
+      "source_key": "model.json scenarios[Base].lever_a_min_base_fee_usd, bot_gas_change, user_gas_change"
+    },
+    {
+      "number": "90-day median 1.36 mwei; floor ~1.8x",
+      "source_key": "model.json inputs.p_med_90d_mwei; brief s3"
+    },
+    {
+      "number": "Bot elasticity -0.6, user -0.1 assumed",
+      "source_key": "tables/model_assumptions.csv Base"
+    },
+    {
+      "number": "Typical user tx 234k gas costs $0.0014",
+      "source_key": "model.json inputs.user_gas_per_tx, user_tx_cost_usd_at_2_5"
+    },
+    {
+      "number": "Lever B +$51k, 2 issuers",
+      "source_key": "model.json scenarios[Base].lever_b_payments_bd_usd; model_assumptions payments_wins"
+    },
+    {
+      "number": "Lever C +$20k; data leg ~-$20k/yr",
+      "source_key": "model.json scenarios[Base].lever_c_l1_fee_fix_usd; inputs.l1_data_gap_usd_yr"
+    },
+    {
+      "number": "Base with levers $1.19M, +32%; Bear $0.40M; Bull $3.09M (4.0 mwei)",
+      "source_key": "model.json scenarios[*].total_usd, uplift_vs_no_action, price_mwei"
+    },
+    {
+      "number": "Tornado: ETH +/-40% $0.72M-$1.66M; floor 1.5-4.0 $0.98M-$1.44M; bot elast. -1.2/-0.3 $0.98M-$1.33M; gas +/-20% $1.02M-$1.36M; congestion 0.25x-1.0x $1.02M-$1.32M; wins 0-4 $1.14M-$1.24M; L1 source $1.16M-$1.19M",
+      "source_key": "tables/model_tornado.csv"
+    },
+    {
+      "number": "Floor sweep: 1.5 $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M",
+      "source_key": "tables/model_floor_sweep.csv total_usd"
+    },
+    {
+      "number": "Base chain min base fee 0.5 mwei",
+      "source_key": "brief caveats"
+    },
+    {
+      "number": "minBaseFee live on OP Stack since Dec 2025 (Jovian)",
+      "source_key": "brief s3"
+    }
+  ],
+  "exec_headline": "Apps make the money; OP keeps ~$1.2M, mostly from bots. Pricing blockspace grows our take."
+}

@@ -2,6 +2,8 @@
 
 Every downstream script imports from here so the window and the source paths are defined once.
 """
+import os
+import re
 from pathlib import Path
 
 import duckdb
@@ -12,6 +14,7 @@ EXTERNAL = ROOT / "external"
 SQL = ROOT / "sql"
 TABLES = ROOT / "outputs" / "tables"
 CHARTS = ROOT / "outputs" / "charts"
+CACHE = ROOT / ".cache"  # parquet copies of the raw CSVs (gitignored); delete the folder to force a re-read
 
 # Last 12 months of data (data ends 2026-09-15) and the 12 months before it.
 L12M = ("2025-09-16", "2026-09-15")
@@ -36,11 +39,29 @@ VIEWS = {
 }
 
 
+def _parquet_copy(con: duckdb.DuckDBPyConnection, csv: Path) -> Path:
+    """Parquet copy of `csv`, written with the same read_csv_auto call the views always used, so the sniffed
+    schema and every row (in file order) are identical. Parsing the CSVs is most of the pipeline's runtime, and
+    without the copy each of the three scripts re-sniffed and re-parsed every file on every query.
+    The copy is rebuilt when the CSV's size or mtime, or the DuckDB version (i.e. the sniffer), changes."""
+    st = csv.stat()
+    pq = CACHE / f"{csv.stem}.{st.st_size}-{st.st_mtime_ns}-duckdb{duckdb.__version__}.parquet"
+    if not pq.exists():
+        CACHE.mkdir(exist_ok=True)
+        for old in CACHE.glob(f"{csv.stem}.*.parquet"):  # copies of an older version of this CSV
+            if old != pq:
+                old.unlink(missing_ok=True)
+        tmp = pq.with_suffix(f".{os.getpid()}.tmp")  # write then rename: a concurrent reader never sees half a file
+        # all_varchar off; let DuckDB sniff types. Labels file is all text by nature.
+        con.execute(f"COPY (SELECT * FROM read_csv_auto('{csv}', header=true)) TO '{tmp}' (FORMAT parquet)")
+        os.replace(tmp, pq)
+    return pq
+
+
 def connect() -> duckdb.DuckDBPyConnection:
     con = duckdb.connect()
     for view, stem in VIEWS.items():
-        # all_varchar off; let DuckDB sniff types. Labels file is all text by nature.
-        con.execute(f"CREATE VIEW {view} AS SELECT * FROM read_csv_auto('{DATA / (stem + '.csv')}', header=true)")
+        con.execute(f"CREATE VIEW {view} AS SELECT * FROM read_parquet('{_parquet_copy(con, DATA / (stem + '.csv'))}')")
     l1 = EXTERNAL / "l1_costs_daily.csv"
     if l1.exists():
         # explicit types: the on-chain columns can be entirely empty, which the sniffer would read as VARCHAR
@@ -56,8 +77,9 @@ def connect() -> duckdb.DuckDBPyConnection:
 def run_sql(con: duckdb.DuckDBPyConnection, name: str):
     """Run sql/<name>.sql and return a DataFrame. SQL files may contain several statements; the last one returns."""
     text = (SQL / f"{name}.sql").read_text()
-    # drop full-line comments first so a ';' inside a comment can't split a statement
-    text = "\n".join(l for l in text.splitlines() if not l.lstrip().startswith("--"))
+    # drop '--' comments (full-line and trailing) so a ';' inside a comment can't split a statement.
+    # Safe here because no SQL file uses '--' inside a string literal.
+    text = re.sub(r"--[^\n]*", "", text)
     stmts = [s for s in text.split(";") if s.strip()]
     for s in stmts[:-1]:
         con.execute(s)

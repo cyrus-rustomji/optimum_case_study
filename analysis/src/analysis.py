@@ -23,7 +23,7 @@ STEPS = [
 def main():
     con = connect()
     t = {name: save(run_sql(con, name), name) for name in STEPS}
-    save(con.execute("SELECT * FROM address_dim").df(), "address_dim")
+    save(con.execute("SELECT * FROM address_dim ORDER BY address").df(), "address_dim")
 
     # last-12-month period totals straight from the daily tables (not from monthly rollups, which cut Sep in half)
     p = con.execute("""
@@ -78,7 +78,6 @@ def main():
         "gas_l12m": float(days.gas_used.sum()),
         "retention_logo_3m_avg_l12m": float(ret[ret.month >= pd.Timestamp("2025-09-01")].logo_retention_3m.mean()),
         "retention_nrr_3m_avg_l12m": float(ret[ret.month >= pd.Timestamp("2025-09-01")].nrr_3m.mean()),
-        "decomp_full": dec.iloc[0].to_dict() if len(dec) else {},
         "decomp_summer": dec.loc["Summer 2025 (Jun-Aug)"].to_dict(),
         "decomp_l12m_vs_prior": dec.loc["Prior: Jan 1 - Sep 15 2025"].to_dict(),
         "eco_first_q": eco.iloc[0].to_dict(), "eco_last_q": eco.iloc[-1].to_dict(),

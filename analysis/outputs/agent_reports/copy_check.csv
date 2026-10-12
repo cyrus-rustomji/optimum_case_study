@@ -1,0 +1,294 @@
+path,token,in_brief,context
+.subtitle,16,True,uencer revenue review for the last 12 months (Sep 16 2025 to Sep 15 2026) and a 12-
+.subtitle,15,True,review for the last 12 months (Sep 16 2025 to Sep 15 2026) and a 12-month plan
+.answer_one_liner,$1.22M,True,"Apps make the money. OP kept $1.22M, mostly from bots, as blocksp"
+.answer_one_liner,76%,True,".22M, mostly from bots, as blockspace prices fell 76%. A staged fee floor, L1 fix a"
+.answer_one_liner,$1.19M,True," fee floor, L1 fix and payments lift next year to $1.19M, not $0.90M."
+.answer_one_liner,$0.90M,True,"L1 fix and payments lift next year to $1.19M, not $0.90M."
+.exec_summary.finding,$1.216M,True,"city OP sells) collapsed, not the volume. OP kept $1.216M net in the last 12 months, wh"
+.exec_summary.finding,$41.3M,True,"ast 12 months, while apps on OP Mainnet collected $41.3M in fees."
+.exec_summary.evidence[0],70%,True,Gross fees per day fell 70% ($11.6k to $3.4k) while trans
+.exec_summary.evidence[0],$11.6k,True,Gross fees per day fell 70% ($11.6k to $3.4k) while transactions 
+.exec_summary.evidence[0],$3.4k,True,Gross fees per day fell 70% ($11.6k to $3.4k) while transactions per day r
+.exec_summary.evidence[0],71%,True,($11.6k to $3.4k) while transactions per day rose 71%. The price per unit of gas (c
+.exec_summary.evidence[0],76%,True,ose 71%. The price per unit of gas (compute) fell 76%.
+.exec_summary.evidence[1],57%,True,Bots pay about two-thirds of fees (57% unnamed automated contracts p
+.exec_summary.evidence[1],9%,True,rds of fees (57% unnamed automated contracts plus 9% labelled MEV bots). Named app
+.exec_summary.evidence[1],18%,True,tracts plus 9% labelled MEV bots). Named apps pay 18%. The top 10 customers pay 50%
+.exec_summary.evidence[1],50%,True,ts). Named apps pay 18%. The top 10 customers pay 50%.
+.exec_summary.evidence[2],$250k,True,"nt-driven. The Oct 10 2025 crash day alone earned $250k, 20% of the year, and the 10 "
+.exec_summary.evidence[2],20%,True,"en. The Oct 10 2025 crash day alone earned $250k, 20% of the year, and the 10 busie"
+.exec_summary.evidence[2],32%,True,", 20% of the year, and the 10 busiest days earned 32%."
+.exec_summary.implication,$0.90M,True,"tion, net revenue for the next 12 months falls to $0.90M (-26%). Demand barely respond"
+.exec_summary.implication,-26%,True,t revenue for the next 12 months falls to $0.90M (-26%). Demand barely responded whe
+.exec_summary.implication,+0.38%,True,and barely responded when blockspace got cheaper (+0.38% transactions per 1% price dro
+.exec_summary.implication,1%,True,"n blockspace got cheaper (+0.38% transactions per 1% price drop), so we should wor"
+.exec_summary.action,2.5 mwei,True,"Phase in a minimum base fee toward 2.5 mwei/gas, re-tune the L1 data fee "
+.exec_summary.action,$1.19M,True,"sue chains as OP Enterprise customers. Base case: $1.19M, +32% versus no action."
+.exec_summary.action,+32%,True,"ns as OP Enterprise customers. Base case: $1.19M, +32% versus no action."
+.slides.approach.bullets[1],16,True,Window: the last 12 months (Sep 16 2025 to Sep 15 2026) against t
+.slides.approach.bullets[1],15,True,Window: the last 12 months (Sep 16 2025 to Sep 15 2026) against the prior 258 da
+.slides.approach.bullets[1],258,True,"hs (Sep 16 2025 to Sep 15 2026) against the prior 258 days, compared per day."
+.slides.approach.bullets[3],724,True," assigned to the contract each transaction calls: 724 paying customers, grouped into"
+.slides.approach.notes,258,True,"hat cost. We compared the last 12 months with the 258 days before, per day, so the u"
+.slides.revenue_trend.headline,$1.22M,True,We kept $1.22M net last year; the run-rate i
+.slides.revenue_trend.headline,$49.7k,True,We kept $1.22M net last year; the run-rate is now $49.7k/month.
+.slides.revenue_trend.bullets[0],$1.256M,True,"Last-12-month gross user fees were $1.256M (430 ETH). L1 cost was $40k, "
+.slides.revenue_trend.bullets[0],430,True,"Last-12-month gross user fees were $1.256M (430 ETH). L1 cost was $40k, so net"
+.slides.revenue_trend.bullets[0],$40k,True,"oss user fees were $1.256M (430 ETH). L1 cost was $40k, so net sequencer revenue was"
+.slides.revenue_trend.bullets[0],$1.216M,True,"). L1 cost was $40k, so net sequencer revenue was $1.216M, a 96.8% margin."
+.slides.revenue_trend.bullets[0],96.8%,True,"was $40k, so net sequencer revenue was $1.216M, a 96.8% margin."
+.slides.revenue_trend.bullets[1],70%,True,"Gross fees per day fell 70%, from $11.6k in the prior per"
+.slides.revenue_trend.bullets[1],$11.6k,True,"Gross fees per day fell 70%, from $11.6k in the prior period to $3.4k."
+.slides.revenue_trend.bullets[1],$3.4k,True," day fell 70%, from $11.6k in the prior period to $3.4k."
+.slides.revenue_trend.bullets[2],$50.5k,True,"Jun to Aug 2026 averaged $50.5k/month gross, against $680k in"
+.slides.revenue_trend.bullets[2],$680k,True," to Aug 2026 averaged $50.5k/month gross, against $680k in Jan 2025 alone."
+.slides.revenue_trend.bullets[3],5.6%,True,he margin holds on either cost source: L1 cost is 5.6% of gross (growthepie) or 2.1%
+.slides.revenue_trend.bullets[3],2.1%,True, source: L1 cost is 5.6% of gross (growthepie) or 2.1% (DefiLlama). Net stays at abo
+.slides.revenue_trend.bullets[3],95,True,owthepie) or 2.1% (DefiLlama). Net stays at about 95-97%.
+.slides.revenue_trend.bullets[3],-97%,True,thepie) or 2.1% (DefiLlama). Net stays at about 95-97%.
+.slides.revenue_trend.notes,96,False,s that costs are not the problem. We keep roughly 96 to 97 cents of every fee dolla
+.slides.revenue_trend.notes,97,True, costs are not the problem. We keep roughly 96 to 97 cents of every fee dollar. The
+.slides.revenue_trend.notes,70%,True," The problem is the top line. Daily fees are down 70%, and the current monthly run-"
+.slides.revenue_trend.notes,64,True,"es disagree on the Ethereum posting cost over the 64 days where they overlap, but e"
+.slides.revenue_trend.notes,95,True,"verlap, but either way net revenue stays at about 95 to 97% of gross, so the conclu"
+.slides.revenue_trend.notes,97%,True,", but either way net revenue stays at about 95 to 97% of gross, so the conclusion d"
+.slides.decomposition.headline,76%,True,"Volume grew, but blockspace prices collapsed 76% and drove the decline."
+.slides.decomposition.bullets[0],71%,True,"Transactions per day rose 71% (1.03M to 1.76M), adding $3.6"
+.slides.decomposition.bullets[0],1.03M,True,"Transactions per day rose 71% (1.03M to 1.76M), adding $3.6k/day o"
+.slides.decomposition.bullets[0],1.76M,True,"Transactions per day rose 71% (1.03M to 1.76M), adding $3.6k/day of fees."
+.slides.decomposition.bullets[0],$3.6k,True,"actions per day rose 71% (1.03M to 1.76M), adding $3.6k/day of fees."
+.slides.decomposition.bullets[1],35%,True,"Gas (compute units) per transaction fell 35%, removing $2.9k/day."
+.slides.decomposition.bullets[1],$2.9k,True,"compute units) per transaction fell 35%, removing $2.9k/day."
+.slides.decomposition.bullets[2],76%,True,"The price paid per unit of gas fell 76%, removing $9.5k/day: the main"
+.slides.decomposition.bullets[2],$9.5k,True,"The price paid per unit of gas fell 76%, removing $9.5k/day: the main driver of the -"
+.slides.decomposition.bullets[2],-$8.2k,True,"l 76%, removing $9.5k/day: the main driver of the -$8.2k/day change."
+.slides.decomposition.bullets[3],81k,True,Daily active addresses fell from ~81k to ~21k while transactions do
+.slides.decomposition.bullets[3],21k,True,"Daily active addresses fell from ~81k to ~21k while transactions doubled, s"
+.slides.decomposition.notes,71%,True,four pieces. Volume actually helped: we processed 71% more transactions per day. A 
+.slides.decomposition.notes,$0.5k,True,". A higher ETH price also helped slightly, adding $0.5k a day. What hurt was price. T"
+.slides.decomposition.notes,76%,True,"toward zero when blocks are not full, and it fell 76%. This also gives us a natural"
+.slides.decomposition.notes,76%,True,"lso gives us a natural experiment. Blockspace got 76% cheaper, but transactions ros"
+.slides.decomposition.notes,0.38%,True,"space got 76% cheaper, but transactions rose only 0.38% for every 1% price drop. Cutt"
+.slides.decomposition.notes,1%,True,"eaper, but transactions rose only 0.38% for every 1% price drop. Cutting the price"
+.slides.spikes.headline,20%,True,Revenue is event-driven: one crash day earned 20% of the year.
+.slides.spikes.bullets[0],$250k,True,"The Oct 10 2025 market crash earned $250k, at 73x the median day's pric"
+.slides.spikes.bullets[0],73x,True,"The Oct 10 2025 market crash earned $250k, at 73x the median day's price of 1.2"
+.slides.spikes.bullets[0],1.28 mwei,True,"sh earned $250k, at 73x the median day's price of 1.28 mwei/gas."
+.slides.spikes.bullets[1],32%,True,The 10 busiest days delivered 32% of last-12-month fees.
+.slides.spikes.bullets[2],40%,True,About 40% of fees (173 of 430 ETH) was 
+.slides.spikes.bullets[2],173,True,About 40% of fees (173 of 430 ETH) was a congestion p
+.slides.spikes.bullets[2],430,True,About 40% of fees (173 of 430 ETH) was a congestion premium 
+.slides.spikes.notes,$350,True,"ansactions in first, and some searchers pay up to $350 per transaction. One day, Octo"
+.slides.spikes.notes,0.67x,True, base case assumes no crash of that size: we take 0.67x of last year's congestion pre
+.slides.who_makes_money.headline,$41.3M,True,Apps collected $41.3M in fees; OP's gross take was 
+.slides.who_makes_money.headline,$1.26M,True,pps collected $41.3M in fees; OP's gross take was $1.26M.
+.slides.who_makes_money.bullets[0],$41.3M,True,Apps on OP Mainnet earned $41.3M in fees and kept $17.4M as re
+.slides.who_makes_money.bullets[0],$17.4M,True,Apps on OP Mainnet earned $41.3M in fees and kept $17.4M as revenue (DefiLlama).
+.slides.who_makes_money.bullets[1],$1.26M,True,OP's gross take of $1.26M is about 3% of what apps coll
+.slides.who_makes_money.bullets[2],$18.5M,True,ether.fi earned $18.5M in app fees and $7.1M revenue
+.slides.who_makes_money.bullets[2],$7.1M,True,"ether.fi earned $18.5M in app fees and $7.1M revenue, but its contracts pa"
+.slides.who_makes_money.bullets[3],$3.75M,True,Uniswap $3.75M fees / $27k gas; Velodrome $3
+.slides.who_makes_money.bullets[3],$27k,True,Uniswap $3.75M fees / $27k gas; Velodrome $3.36M / $7.6k
+.slides.who_makes_money.bullets[3],$3.36M,True,Uniswap $3.75M fees / $27k gas; Velodrome $3.36M / $7.6k; Chainlink $3.0M / $2
+.slides.who_makes_money.bullets[3],$7.6k,True,niswap $3.75M fees / $27k gas; Velodrome $3.36M / $7.6k; Chainlink $3.0M / $21k; Aave
+.slides.who_makes_money.bullets[3],$3.0M,True,s / $27k gas; Velodrome $3.36M / $7.6k; Chainlink $3.0M / $21k; Aave $2.1M / $0.6k.
+.slides.who_makes_money.bullets[3],$21k,True, gas; Velodrome $3.36M / $7.6k; Chainlink $3.0M / $21k; Aave $2.1M / $0.6k.
+.slides.who_makes_money.bullets[3],$2.1M,True,rome $3.36M / $7.6k; Chainlink $3.0M / $21k; Aave $2.1M / $0.6k.
+.slides.who_makes_money.bullets[3],$0.6k,True,36M / $7.6k; Chainlink $3.0M / $21k; Aave $2.1M / $0.6k.
+.slides.who_makes_money.notes,$41.3M,True,directly: the apps make the money. They collected $41.3M in fees. Gas paid by the cont
+.slides.who_makes_money.notes,$111k,True,"y the contracts we could track for those apps was $111k, and that is a floor because "
+.slides.who_makes_money.notes,70k,True,est example. It is a card issuer that moved about 70k cards onto OP Mainnet in 2026
+.slides.who_makes_money.notes,"$1,849",True,"t 70k cards onto OP Mainnet in 2026. It generated $1,849 of app fees for every $1 of ga"
+.slides.segments.headline,18%,True,y about two-thirds of our revenue; named apps pay 18%.
+.slides.segments.bullets[0],57%,True,Unnamed automated contracts (bots) pay 57% of fees and send 86% of trans
+.slides.segments.bullets[0],86%,True,tomated contracts (bots) pay 57% of fees and send 86% of transactions.
+.slides.segments.bullets[1],9%,True," bots, which profit from the order of trades, pay 9% of fees with 1% of transactio"
+.slides.segments.bullets[1],1%,True,"fit from the order of trades, pay 9% of fees with 1% of transactions."
+.slides.segments.bullets[2],18%,True,Named apps and infrastructure pay 18% of fees with 8% of transactio
+.slides.segments.bullets[2],8%,True,amed apps and infrastructure pay 18% of fees with 8% of transactions.
+.slides.segments.bullets[3],11%,True,The long tail of small contracts pays 11%; unnamed multi-user contracts
+.slides.segments.bullets[3],5%,True,tracts pays 11%; unnamed multi-user contracts pay 5%.
+.slides.segments.notes,50,True," a rule of thumb (five or fewer senders a day, or 50 or more transactions per sende"
+.slides.segments.notes,340,True," transactions per sender-day). Labels cover about 340 of 1,082 addresses, so these s"
+.slides.segments.notes,"1,082",True,"ctions per sender-day). Labels cover about 340 of 1,082 addresses, so these splits are"
+.slides.top_customers.bullets[0],724,True,"Of 724 paying customers, the top 10 p"
+.slides.top_customers.bullets[0],50%,True,"Of 724 paying customers, the top 10 pay 50% of fees and the top 50 pay 81"
+.slides.top_customers.bullets[0],50,True,"customers, the top 10 pay 50% of fees and the top 50 pay 81%."
+.slides.top_customers.bullets[0],81%,True,"rs, the top 10 pay 50% of fees and the top 50 pay 81%."
+.slides.top_customers.bullets[2],"443,",True,"The HHI concentration index is 443, low overall, but key-account e"
+.slides.top_customers.bullets[3],$350,True,Some searchers pay up to $350 per transaction on spike days 
+.slides.retention.headline,53%,True,Paying customers churn fast: only ~53% still pay three months later.
+.slides.retention.bullets[0],53%,True,"Of addresses paying at least $10/month, only ~53% are still paying three months"
+.slides.retention.bullets[1],43%,True,"Three-month net revenue retention averages 43%, so a cohort's spend shrinks "
+.slides.retention.notes,43%,True,"f are still paying, and the group as a whole pays 43% of what it paid before. Some "
+.slides.other_targets.bullets[0],67%,True,"Adjusted stablecoin transfer volume rose 67%, from $1.08B to $1.81B per qu"
+.slides.other_targets.bullets[0],$1.08B,True,"djusted stablecoin transfer volume rose 67%, from $1.08B to $1.81B per quarter (Q3 202"
+.slides.other_targets.bullets[0],$1.81B,True,"ablecoin transfer volume rose 67%, from $1.08B to $1.81B per quarter (Q3 2025 to Q3 20"
+.slides.other_targets.bullets[1],$279M,True,"But stablecoin supply fell: native from $279M to $208M, bridged from $382M "
+.slides.other_targets.bullets[1],$208M,True,"But stablecoin supply fell: native from $279M to $208M, bridged from $382M to $268M."
+.slides.other_targets.bullets[1],$382M,True,"ly fell: native from $279M to $208M, bridged from $382M to $268M."
+.slides.other_targets.bullets[1],$268M,True,"native from $279M to $208M, bridged from $382M to $268M."
+.slides.other_targets.bullets[2],$1.08B,True,Bridges now bring in more than they send out ($1.08B in versus $0.71B out per quar
+.slides.other_targets.bullets[2],$0.71B,True,ring in more than they send out ($1.08B in versus $0.71B out per quarter).
+.slides.other_targets.notes,$4.5B,True,"shrank. Exchange deposits and withdrawals fell to $4.5B a quarter from $9.4B, DeFi de"
+.slides.other_targets.notes,$9.4B,True,"sits and withdrawals fell to $4.5B a quarter from $9.4B, DeFi deposits (TVL) to $344M"
+.slides.other_targets.notes,$344M,True,"4.5B a quarter from $9.4B, DeFi deposits (TVL) to $344M from $438M, DEX trading volum"
+.slides.other_targets.notes,$438M,True,"ter from $9.4B, DeFi deposits (TVL) to $344M from $438M, DEX trading volume to $1.5B "
+.slides.other_targets.notes,$1.5B,True," (TVL) to $344M from $438M, DEX trading volume to $1.5B from $4.6B, and new addresses"
+.slides.other_targets.notes,$4.6B,True,"344M from $438M, DEX trading volume to $1.5B from $4.6B, and new addresses to 0.48M a"
+.slides.other_targets.notes,0.48M,True," volume to $1.5B from $4.6B, and new addresses to 0.48M a quarter from 2.06M. Builder"
+.slides.other_targets.notes,2.06M,True," $4.6B, and new addresses to 0.48M a quarter from 2.06M. Builders are the exception, "
+.slides.other_targets.notes,1.8k,True,"rom 2.06M. Builders are the exception, with about 1.8k daily deployers, flat to slig"
+.slides.scenarios.headline,$0.90M,True,Doing nothing yields $0.90M; three levers lift next year 
+.slides.scenarios.headline,$1.19M,True,ing yields $0.90M; three levers lift next year to $1.19M.
+.slides.scenarios.bullets[0],$0.90M,True,"No action: $0.90M net (-26% vs last 12 months),"
+.slides.scenarios.bullets[0],-26%,True,"No action: $0.90M net (-26% vs last 12 months), with ETH "
+.slides.scenarios.bullets[0],"$2,388,",True," $0.90M net (-26% vs last 12 months), with ETH at $2,388, no crash like Oct 10, flat gas"
+.slides.scenarios.bullets[1],2.5 mwei,True,"Lever A, a 2.5 mwei/gas fee floor: +$215k. Lever "
+.slides.scenarios.bullets[1],+$215k,True,"Lever A, a 2.5 mwei/gas fee floor: +$215k. Lever B, payments BD: +$51k."
+.slides.scenarios.bullets[1],+$51k,True,"mwei/gas fee floor: +$215k. Lever B, payments BD: +$51k. Lever C, L1 fee fix: +$20k."
+.slides.scenarios.bullets[1],+$20k,True,"Lever B, payments BD: +$51k. Lever C, L1 fee fix: +$20k."
+.slides.scenarios.bullets[2],$1.19M,True,"Base case with levers: $1.19M, +32% versus no action and ab"
+.slides.scenarios.bullets[2],+32%,True,"Base case with levers: $1.19M, +32% versus no action and about fl"
+.slides.scenarios.bullets[3],$0.40M,True,"Range: Bear case $0.40M, Bull case $3.09M (Bull assum"
+.slides.scenarios.bullets[3],$3.09M,True,"Range: Bear case $0.40M, Bull case $3.09M (Bull assumes a 4.0 mwei floo"
+.slides.scenarios.bullets[3],4.0 mwei,True,"ear case $0.40M, Bull case $3.09M (Bull assumes a 4.0 mwei floor)."
+.slides.scenarios.notes,$0.90M,True,s mostly defend revenue. Without them we drift to $0.90M. With them we hold roughly fl
+.slides.scenarios.notes,$1.19M,True,rift to $0.90M. With them we hold roughly flat at $1.19M. The model is simple: base-lo
+.slides.sensitivity.bullets[0],-40%,True,ETH price at -40% or +40% gives $0.72M to $1.66
+.slides.sensitivity.bullets[0],+40%,True,ETH price at -40% or +40% gives $0.72M to $1.66M around
+.slides.sensitivity.bullets[0],$0.72M,True,ETH price at -40% or +40% gives $0.72M to $1.66M around the $1.19M b
+.slides.sensitivity.bullets[0],$1.66M,True,ETH price at -40% or +40% gives $0.72M to $1.66M around the $1.19M base case.
+.slides.sensitivity.bullets[0],$1.19M,True,at -40% or +40% gives $0.72M to $1.66M around the $1.19M base case.
+.slides.sensitivity.bullets[1],1.5,True,A 1.5 to 4.0 mwei floor gives $0.98M
+.slides.sensitivity.bullets[1],4.0 mwei,True,A 1.5 to 4.0 mwei floor gives $0.98M to $1.44M.
+.slides.sensitivity.bullets[1],$0.98M,True,A 1.5 to 4.0 mwei floor gives $0.98M to $1.44M. Bot elasticity of 
+.slides.sensitivity.bullets[1],$1.44M,True,A 1.5 to 4.0 mwei floor gives $0.98M to $1.44M. Bot elasticity of -1.2 to -0
+.slides.sensitivity.bullets[1],-1.2,True,i floor gives $0.98M to $1.44M. Bot elasticity of -1.2 to -0.3 gives $0.98M to $1.33M
+.slides.sensitivity.bullets[1],-0.3,True,gives $0.98M to $1.44M. Bot elasticity of -1.2 to -0.3 gives $0.98M to $1.33M.
+.slides.sensitivity.bullets[1],$0.98M,True,M to $1.44M. Bot elasticity of -1.2 to -0.3 gives $0.98M to $1.33M.
+.slides.sensitivity.bullets[1],$1.33M,True,M. Bot elasticity of -1.2 to -0.3 gives $0.98M to $1.33M.
+.slides.sensitivity.bullets[2],-20%,True,Organic gas at -20% or +20% gives $1.02M to $1.36
+.slides.sensitivity.bullets[2],+20%,True,Organic gas at -20% or +20% gives $1.02M to $1.36M. A con
+.slides.sensitivity.bullets[2],$1.02M,True,Organic gas at -20% or +20% gives $1.02M to $1.36M. A congestion premi
+.slides.sensitivity.bullets[2],$1.36M,True,Organic gas at -20% or +20% gives $1.02M to $1.36M. A congestion premium of 0.25
+.slides.sensitivity.bullets[2],0.25x,True,% gives $1.02M to $1.36M. A congestion premium of 0.25x to 1.0x gives $1.02M to $1.32
+.slides.sensitivity.bullets[2],1.0x,True,1.02M to $1.36M. A congestion premium of 0.25x to 1.0x gives $1.02M to $1.32M.
+.slides.sensitivity.bullets[2],$1.02M,True,.36M. A congestion premium of 0.25x to 1.0x gives $1.02M to $1.32M.
+.slides.sensitivity.bullets[2],$1.32M,True,ngestion premium of 0.25x to 1.0x gives $1.02M to $1.32M.
+.slides.sensitivity.bullets[3],$1.14M,True,Payments wins of 0 to 4 give $1.14M to $1.24M. The L1 cost source
+.slides.sensitivity.bullets[3],$1.24M,True,Payments wins of 0 to 4 give $1.14M to $1.24M. The L1 cost source gives $1.
+.slides.sensitivity.bullets[3],$1.16M,True,4 give $1.14M to $1.24M. The L1 cost source gives $1.16M to $1.19M.
+.slides.sensitivity.bullets[3],$1.19M,True,14M to $1.24M. The L1 cost source gives $1.16M to $1.19M.
+.slides.sensitivity.notes,-0.6,True," cut their usage when the price rises. We assumed -0.6, which is cautious next to th"
+.slides.sensitivity.notes,-0.38,True,"s. We assumed -0.6, which is cautious next to the -0.38 we observed. Even at -1.2, whe"
+.slides.sensitivity.notes,-1.2,True,"s cautious next to the -0.38 we observed. Even at -1.2, where bots react far more st"
+.slides.sensitivity.notes,$0.98M,True,"r more strongly than we assumed, the base case is $0.98M. That is still above the $0.9"
+.slides.sensitivity.notes,$0.90M,True, the base case is $0.98M. That is still above the $0.90M no-action line. This is why w
+.slides.floor_tradeoff.bullets[0],1.5 mwei,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12"
+.slides.floor_tradeoff.bullets[0],$0.93M,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 "
+.slides.floor_tradeoff.bullets[0],2.0,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M"
+.slides.floor_tradeoff.bullets[0],$1.03M,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 "
+.slides.floor_tradeoff.bullets[0],2.5,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M"
+.slides.floor_tradeoff.bullets[0],$1.12M,True,"Fee floor alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 "
+.slides.floor_tradeoff.bullets[0],3.0,True,"r alone: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M"
+.slides.floor_tradeoff.bullets[0],$1.20M,True,"one: 1.5 mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M."
+.slides.floor_tradeoff.bullets[0],4.0,True," mwei $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M."
+.slides.floor_tradeoff.bullets[0],$1.34M,True,"i $0.93M, 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M."
+.slides.floor_tradeoff.bullets[0],5.0,True,", 2.0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M."
+.slides.floor_tradeoff.bullets[0],$1.47M,True,"0 $1.03M, 2.5 $1.12M, 3.0 $1.20M, 4.0 $1.34M, 5.0 $1.47M."
+.slides.floor_tradeoff.bullets[1],2.5 mwei,True,At 2.5 mwei a typical user transaction co
+.slides.floor_tradeoff.bullets[1],$0.0014,True,At 2.5 mwei a typical user transaction costs $0.0014. Modelled user gas falls 6% a
+.slides.floor_tradeoff.bullets[1],6%,True,ransaction costs $0.0014. Modelled user gas falls 6% and bot gas falls 31%.
+.slides.floor_tradeoff.bullets[1],31%,True,014. Modelled user gas falls 6% and bot gas falls 31%.
+.slides.floor_tradeoff.bullets[2],0.5 mwei,True," closest competitor, sets its minimum base fee at 0.5 mwei. If the gap gets too wide, fl"
+.slides.floor_tradeoff.bullets[3],2.5 mwei,True,"We recommend 2.5 mwei, about 1.8x today's 90-day me"
+.slides.floor_tradeoff.bullets[3],1.8x,True,"We recommend 2.5 mwei, about 1.8x today's 90-day median of 1.36"
+.slides.floor_tradeoff.bullets[3],1.36,True,"end 2.5 mwei, about 1.8x today's 90-day median of 1.36, reached in stages."
+.slides.floor_tradeoff.notes,2.5 mwei,True,nd other chains that bots can move to. We stop at 2.5 mwei because users barely notice i
+.slides.floor_tradeoff.notes,$0.0014,True,rely notice it: a typical transaction costs about $0.0014. Bots absorb most of the volu
+.recommendations[0].finding,76%,True,The 76% fall in blockspace price drov
+.recommendations[0].evidence,-$9.5k,True,Price effect -$9.5k/day. Observed elasticity: 0.3
+.recommendations[0].evidence,0.38%,True,Price effect -$9.5k/day. Observed elasticity: 0.38% more transactions and 0.08% m
+.recommendations[0].evidence,0.08%,True, Observed elasticity: 0.38% more transactions and 0.08% more gas per 1% price drop. M
+.recommendations[0].evidence,1%,True,y: 0.38% more transactions and 0.08% more gas per 1% price drop. Median price 1.28
+.recommendations[0].evidence,1.28 mwei,True,nd 0.08% more gas per 1% price drop. Median price 1.28 mwei/gas.
+.recommendations[0].implication,$0.0014,True,"mostly paid by bots, at negligible cost to users ($0.0014 per typical transaction)."
+.recommendations[0].action,1.5,True," current minBaseFee setting, then raise the floor 1.5 -> 2.0 -> 2.5 mwei/gas. Each s"
+.recommendations[0].action,2.0,True,"t minBaseFee setting, then raise the floor 1.5 -> 2.0 -> 2.5 mwei/gas. Each step goe"
+.recommendations[0].action,2.5 mwei,True,"seFee setting, then raise the floor 1.5 -> 2.0 -> 2.5 mwei/gas. Each step goes ahead onl"
+.recommendations[0].timeline,1.5 mwei,True,ify the setting and the governance path. Month 2: 1.5 mwei. Month 4: 2.0 mwei. Month 6: 
+.recommendations[0].timeline,2.0 mwei,True," the governance path. Month 2: 1.5 mwei. Month 4: 2.0 mwei. Month 6: 2.5 mwei, then hold"
+.recommendations[0].timeline,2.5 mwei,True,"h. Month 2: 1.5 mwei. Month 4: 2.0 mwei. Month 6: 2.5 mwei, then hold and review."
+.recommendations[0].kpis[0],$0.90M,True,Net revenue per day versus the no-action line ($0.90M/yr pace)
+.recommendations[0].kpis[1],-31%,True,Bot gas decline no worse than the modelled -31% at 2.5 mwei
+.recommendations[0].kpis[1],2.5 mwei,True,ot gas decline no worse than the modelled -31% at 2.5 mwei
+.recommendations[0].kpis[2],-6%,True,User gas decline no worse than the modelled -6%
+.recommendations[0].kpis[3],$0.0014,True,Typical user transaction cost around $0.0014 at 2.5 mwei
+.recommendations[0].kpis[3],2.5 mwei,True,Typical user transaction cost around $0.0014 at 2.5 mwei
+.recommendations[0].expected_impact,+$215k,True,+$215k a year at 2.5 mwei in the bas
+.recommendations[0].expected_impact,2.5 mwei,True,+$215k a year at 2.5 mwei in the base case. The floor r
+.recommendations[0].expected_impact,1.5,True,ear at 2.5 mwei in the base case. The floor range 1.5-4.0 mwei gives a total of $0.
+.recommendations[0].expected_impact,-4.0 mwei,True, at 2.5 mwei in the base case. The floor range 1.5-4.0 mwei gives a total of $0.98M-$1.44
+.recommendations[0].expected_impact,$0.98M,True,se. The floor range 1.5-4.0 mwei gives a total of $0.98M-$1.44M.
+.recommendations[0].expected_impact,-$1.44M,True,e floor range 1.5-4.0 mwei gives a total of $0.98M-$1.44M.
+.recommendations[1].evidence,-$20k,True,The data leg runs at about -$20k/yr. L1 cost is $40k against $
+.recommendations[1].evidence,$40k,True,The data leg runs at about -$20k/yr. L1 cost is $40k against $20k of L1 data fee c
+.recommendations[1].evidence,$20k,True,g runs at about -$20k/yr. L1 cost is $40k against $20k of L1 data fee collected in t
+.recommendations[1].action,2.1%,True,ta leg breaks even. Reconcile the L1 cost source (2.1% DefiLlama vs 5.6% growthepie)
+.recommendations[1].action,5.6%,True,. Reconcile the L1 cost source (2.1% DefiLlama vs 5.6% growthepie) with an on-chain 
+.recommendations[1].expected_impact,+$20k,True,+$20k a year in the base case.
+.recommendations[2].evidence,+67%,True,Adjusted stablecoin transfer volume +67% to $1.81B/qtr. ether.fi: $18.
+.recommendations[2].evidence,$1.81B,True,Adjusted stablecoin transfer volume +67% to $1.81B/qtr. ether.fi: $18.5M app fee
+.recommendations[2].evidence,$18.5M,True,oin transfer volume +67% to $1.81B/qtr. ether.fi: $18.5M app fees against $10k of gas 
+.recommendations[2].kpis[1],$1.81B,True,Adjusted stablecoin transfer volume above $1.81B/qtr
+.recommendations[2].kpis[2],$208M,True,Native stablecoin supply recovering from $208M
+.recommendations[2].expected_impact,+$51k,True,+$51k a year of direct sequencer re
+.recommendations[2].expected_impact,$1.14M,True,ect sequencer revenue in the base case (0-4 wins: $1.14M-$1.24M total). The main value
+.recommendations[2].expected_impact,-$1.24M,True,quencer revenue in the base case (0-4 wins: $1.14M-$1.24M total). The main value is eco
+.recommendations[3].evidence,-02,True,Base announced its exit on 2026-02-19. It had been ~90% of Colle
+.recommendations[3].evidence,-19,True,Base announced its exit on 2026-02-19. It had been ~90% of Collecti
+.recommendations[3].expected_impact,$1.19M,True,Not modelled. This is upside outside the $1.19M base case and should be sized
+.kpi_tree[0].target_or_guardrail,$1.19M,True,Target $1.19M for the next 12 months. Guard
+.kpi_tree[0].target_or_guardrail,$0.90M,True,for the next 12 months. Guardrail: stay above the $0.90M no-action line
+.kpi_tree[1].why,76%,True,A 76% price fall was the main drive
+.kpi_tree[1].target_or_guardrail,1.36,True,"From a 90-day median of 1.36 to a 2.5 mwei floor, in stages"
+.kpi_tree[1].target_or_guardrail,2.5 mwei,True,"From a 90-day median of 1.36 to a 2.5 mwei floor, in stages"
+.kpi_tree[2].target_or_guardrail,-31%,True,"Bot gas no worse than -31%, user gas no worse than -6% a"
+.kpi_tree[2].target_or_guardrail,-6%,True,"ot gas no worse than -31%, user gas no worse than -6% at 2.5 mwei"
+.kpi_tree[2].target_or_guardrail,2.5 mwei,True,"no worse than -31%, user gas no worse than -6% at 2.5 mwei"
+.kpi_tree[3].definition,234k,True,USD cost of a 234k-gas user transaction
+.kpi_tree[3].target_or_guardrail,$0.0014,True,Around $0.0014 at 2.5 mwei
+.kpi_tree[3].target_or_guardrail,2.5 mwei,True,Around $0.0014 at 2.5 mwei
+.kpi_tree[4].target_or_guardrail,0.67x,True,Track separately. Base case assumes 0.67x last year; last year it was ~
+.kpi_tree[4].target_or_guardrail,40%,True,e case assumes 0.67x last year; last year it was ~40% of fees
+.kpi_tree[5].target_or_guardrail,-$20k,True,"At or above break-even, from about -$20k/yr today"
+.kpi_tree[6].target_or_guardrail,53%,True,Improve on the ~53% (customers) and 43% (revenue)
+.kpi_tree[6].target_or_guardrail,43%,True,Improve on the ~53% (customers) and 43% (revenue) baselines
+.kpi_tree[7].target_or_guardrail,$1.81B,True,Above $1.81B/qtr volume; supply recovering
+.kpi_tree[7].target_or_guardrail,$208M,True,Above $1.81B/qtr volume; supply recovering from $208M; 2 issuers signed
+.kpi_tree[8].definition,0.5 mwei,True,"OP's minimum base fee versus Base's 0.5 mwei, and the share of top bots st"
+.risks[0].mitigation,1.5,True,Stage the rollout 1.5 -> 2.0 -> 2.5 mwei and measure
+.risks[0].mitigation,2.0,True,Stage the rollout 1.5 -> 2.0 -> 2.5 mwei and measure at eac
+.risks[0].mitigation,2.5 mwei,True,Stage the rollout 1.5 -> 2.0 -> 2.5 mwei and measure at each step. Eve
+.risks[0].mitigation,-1.2,True,"2.0 -> 2.5 mwei and measure at each step. Even at -1.2 the base case is $0.98M, above"
+.risks[0].mitigation,$0.98M,True,"asure at each step. Even at -1.2 the base case is $0.98M, above the $0.90M no-action l"
+.risks[0].mitigation,$0.90M,True,". Even at -1.2 the base case is $0.98M, above the $0.90M no-action line."
+.risks[1].risk,0.5 mwei,True,"o Base, Arbitrum or other chains. Base's floor is 0.5 mwei."
+.risks[1].mitigation,-31%,True, a stage if the bot response exceeds the modelled -31%.
+.risks[2].risk,-40%,True,ETH price swings dominate the result: -40%/+40% gives $0.72M-$1.66M.
+.risks[2].risk,+40%,True,ETH price swings dominate the result: -40%/+40% gives $0.72M-$1.66M.
+.risks[2].risk,$0.72M,True,price swings dominate the result: -40%/+40% gives $0.72M-$1.66M.
+.risks[2].risk,-$1.66M,True,swings dominate the result: -40%/+40% gives $0.72M-$1.66M.
+.risks[3].risk,20%,True,"Spike dependence: one day (Oct 10 2025) was 20% of the year, and a calm year "
+.risks[3].mitigation,0.67x,True,base case already assumes no crash on that scale (0.67x last year's congestion premiu
+.risks[4].risk,50%,True,"Concentration: the top 10 customers pay 50%, and 7 of them are bots."
+.risks[5].risk,340,True,"Measurement gaps: bot labels are heuristic (~340 of 1,082 addresses labelled), "
+.risks[5].risk,"1,082",True,"asurement gaps: bot labels are heuristic (~340 of 1,082 addresses labelled), the L1 co"
+.next_steps_30_60_90.30[3],$0.90M,True,Finance: re-base the 12-month budget to the $0.90M no-action line and the $1.19M
+.next_steps_30_60_90.30[3],$1.19M,True,month budget to the $0.90M no-action line and the $1.19M plan
+.next_steps_30_60_90.60[0],1.5 mwei,True,Product-Protocol: ship floor stage one at 1.5 mwei/gas
+.next_steps_30_60_90.90[0],2.0 mwei,True,Leadership: go/no-go on 2.0 mwei based on the stage-one guardr
+.next_steps_30_60_90.90[2],-0.6,True,h the measured elasticity and replace the assumed -0.6
+.exec_headline,$1.2M,True,"Apps make the money; OP keeps ~$1.2M, mostly from bots. Pricing bl"

@@ -11,7 +11,7 @@ WITH w AS (
 ),
 tot AS (SELECT sum(total_fee_usd) AS t FROM w),
 cust AS (
-    SELECT customer, any_value(segment) AS segment,
+    SELECT customer, min(segment) AS segment,  -- an app maps to one segment today; min() keeps it deterministic
            count(DISTINCT to_address)                 AS addresses,
            count(DISTINCT date)                       AS active_days,
            sum(txs)                                   AS txs,
@@ -26,13 +26,14 @@ cust AS (
 spiky AS (
     SELECT customer, sum(usd) AS top10 FROM (
         SELECT customer, date, sum(total_fee_usd) AS usd,
-               row_number() OVER (PARTITION BY customer ORDER BY sum(total_fee_usd) DESC) AS rn
+               row_number() OVER (PARTITION BY customer ORDER BY sum(total_fee_usd) DESC, date) AS rn
         FROM w GROUP BY 1, 2) WHERE rn <= 10 GROUP BY 1
 )
 SELECT c.* EXCLUDE (top10_day_share),
        s.top10 / c.fee_usd                                   AS top10_day_share,
        c.fee_usd / tot.t                                     AS share_of_gross,
-       sum(c.fee_usd) OVER (ORDER BY c.fee_usd DESC) / tot.t AS cum_share,
-       row_number() OVER (ORDER BY c.fee_usd DESC)           AS rank
+       sum(c.fee_usd) OVER (ORDER BY c.fee_usd DESC, c.customer ROWS UNBOUNDED PRECEDING) / tot.t AS cum_share,
+       row_number() OVER (ORDER BY c.fee_usd DESC, c.customer) AS rank
 FROM cust c JOIN spiky s USING (customer), tot
-ORDER BY c.fee_usd DESC;
+-- customer is the deterministic tiebreak (23 customers tie at $0)
+ORDER BY c.fee_usd DESC, c.customer;

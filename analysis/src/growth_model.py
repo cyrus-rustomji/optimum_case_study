@@ -66,16 +66,20 @@ def inputs(con):
         SELECT CASE WHEN d.segment IN ('unlabeled_bot', 'mev_bots') THEN 'bot' ELSE 'user' END AS seg,
                sum(c.gas_used) AS gas
         FROM contract_activity c JOIN address_dim d ON d.address = c.to_address
-        WHERE c.date > DATE '2026-09-15' - INTERVAL 90 DAY
+        WHERE c.date > getvariable('l12m_end') - INTERVAL 90 DAY
         GROUP BY 1""").df().set_index("seg").gas
     etherfi = con.execute("""
         SELECT sum(c.gas_used) / count(DISTINCT c.date) * 365 AS gas_yr
         FROM contract_activity c JOIN address_dim d ON d.address = c.to_address
-        WHERE d.app = 'ether.fi' AND c.date > DATE '2026-09-15' - INTERVAL 90 DAY""").fetchone()[0]
+        WHERE d.app = 'ether.fi' AND c.date > getvariable('l12m_end') - INTERVAL 90 DAY""").fetchone()[0]
     m = pd.read_csv(TABLES / "01_revenue_monthly.csv", parse_dates=["month"])
     recent = m[m.month >= "2025-10-01"]
     l1_gap_yr = (recent.l1_cost_usd.sum() - recent.l1_data_fee_usd.sum()) / len(recent) * 12
     eth_now = con.execute("SELECT avg(eth_price_usd) FROM eth_price WHERE date > DATE '2026-08-15'").fetchone()[0]
+    # gas of a typical user-facing tx: named apps + unnamed multi-user contracts, last 90 days
+    user_gas_per_tx = con.execute("""
+        SELECT sum(c.gas_used) / sum(c.txs) FROM contract_activity c JOIN address_dim d ON d.address = c.to_address
+        WHERE d.segment IN ('named_app', 'unlabeled_multi') AND c.date > getvariable('l12m_end') - INTERVAL 90 DAY""").fetchone()[0]
     h = json.loads((ROOT / "outputs" / "headline.json").read_text())
     return {
         "p_med_mwei": float(p_med),
@@ -90,6 +94,8 @@ def inputs(con):
         "etherfi_gas_yr": float(etherfi),
         "l1_data_gap_usd_yr": float(max(l1_gap_yr, 0)),
         "eth_usd_now": float(eth_now),
+        "user_gas_per_tx": float(user_gas_per_tx),
+        "user_tx_cost_usd_at_2_5": float(user_gas_per_tx * 2.5e-12 * eth_now),
         "l1_ratio_llama": 1 - h["net_margin_l12m"],
         "l1_ratio_gtp": h["gtp_cost_overlap"] / h["gtp_gross_overlap"],
         "net_l12m_usd": h["net_l12m_usd"],

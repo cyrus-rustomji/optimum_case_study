@@ -1,6 +1,6 @@
 # OP Mainnet: who makes money, what's our share, how do we grow it
 
-BI Lead take-home (OP Labs). The deliverable is `deck/OP_Mainnet_Revenue_BI_Lead.pptx`, which has speaker notes on every slide.
+BI Lead take-home (OP Labs). The deliverable is `deck/OP_Mainnet_Revenue_BI_Lead.pptx` (24 slides).
 The pipeline in this repo produces every number in the deck. No figure in the deck was typed in by hand.
 
 ## The answer in three lines
@@ -81,5 +81,5 @@ Claude Code (Opus) did the analysis interactively. Here is where AI was used, an
 | External data | DefiLlama vs file 01 gross (−3.4%), DefiLlama vs growthepie L1 cost over 64 overlapping days |
 | Public facts (Jovian min base fee, Base leaving the Superchain, buyback) | Read from primary or secondary sources (Optimism docs/specs, DL News), and cited on the slides they support |
 | **verified-performance-optimizer** agent | Profiled the pipeline and found that ~90% of the time went to DuckDB re-parsing the CSVs. It added a Parquet cache in `load.py` (rebuilt automatically when a CSV changes): the pipeline went from 3.4 s to 0.8 s (4.3×), and peak memory fell by about 30%. Equivalence was proven by diffing every table against frozen A/B baselines (rtol 1e-9; 13/13 checks still pass) and by confirming the diff harness catches injected errors. Along the way it found **run-to-run non-determinism** (unordered ties in rankings, unordered `string_agg`, an arbitrary category pick). These were then fixed with explicit tiebreakers, and two consecutive builds now produce identical rows and order (floats within 1e-12). Report: `outputs/agent_reports/optimizer_report.md` |
-| **metrics-to-business-translator** agent | Drafted the slide copy, recommendations, KPI tree, risks and speaker notes from `findings_brief.md` only (`outputs/agent_reports/deck_copy.json`). `src/verify_copy.py` checked all 293 numeric tokens against the brief: 1 was not verbatim ("96 to 97 cents", derived from the 96.8% margin, which is fine). On human review, one over-general claim was tightened (Base = ~90% of Collective inflows *in Jan 2026*). The agent also flagged a real bug: a `decomp_full` key that duplicated another comparison. It was removed |
+| **metrics-to-business-translator** agent | Drafted the slide copy, recommendations, KPI tree, and risks from `findings_brief.md` only (`outputs/agent_reports/deck_copy.json`). `src/verify_copy.py` checked all 293 numeric tokens against the brief: 1 was not verbatim ("96 to 97 cents", derived from the 96.8% margin, which is fine). On human review, one over-general claim was tightened (Base = ~90% of Collective inflows *in Jan 2026*). The agent also flagged a real bug: a `decomp_full` key that duplicated another comparison. It was removed |
 | Charts | Each PNG opened and checked for label collisions, wrong scales and misleading encodings. There are no dual axes, and categorical colours are validated for colour-blind safety |

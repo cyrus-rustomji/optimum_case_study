@@ -91,10 +91,6 @@ def headline(slide, s, size=28):
     text(slide, s, Inches(0.6), Inches(0.65), Inches(12.1), Inches(1.0), size, INK, bold=True)
 
 
-def notes(slide, s):
-    slide.notes_slide.notes_text_frame.text = s
-
-
 def chart_slide(section, key, chart, side=True):
     c = COPY["slides"][key]
     s = new_slide(section)
@@ -113,7 +109,6 @@ def chart_slide(section, key, chart, side=True):
             ratio = Inches(3.9) / pic.height
             pic.height, pic.width = Inches(3.9), int(pic.width * ratio)
         bullets(s, c["bullets"], Inches(0.6), Inches(5.7), Inches(12.1), Inches(1.3), size=13, gap=3)
-    notes(s, c["notes"])
     return s
 
 
@@ -190,7 +185,6 @@ panel(s, Inches(7.2), Inches(1.8), Inches(5.5), Inches(4.9))
 text(s, f"Data checks run on every build: {(chk.result == 'PASS').sum()}/{len(chk)} pass", Inches(7.4), Inches(1.95),
      Inches(5.1), Inches(0.4), 14, INK, bold=True)
 bullets(s, [f"{r.check}: {r.value}" for r in chk.itertuples()][:9], Inches(7.4), Inches(2.4), Inches(5.1), Inches(4.2), size=11, gap=3)
-notes(s, c["notes"])
 
 # ---------------------------------------------------------------- Q1 diagnosis
 chart_slide("1 · Diagnose the revenue", "revenue_trend", "01_revenue_monthly")
@@ -307,8 +301,8 @@ table(s, pd.DataFrame(steps, columns=["Step", "What it produces"]), Inches(0.6),
 s = new_slide("Appendix")
 headline(s, "Appendix C: public sources")
 bullets(s, [
-    "DefiLlama chain fees, OP Mainnet: api.llama.fi/summary/fees/op-mainnet?dataType=dailyFees | dailyRevenue (pulled 2026-10-12)",
-    "growthepie fundamentals (OP Mainnet costs_total_usd, fees_paid_usd): api.growthepie.com/v1/fundamentals.json (pulled 2026-10-12)",
+    "DefiLlama chain fees, OP Mainnet: api.llama.fi/summary/fees/op-mainnet?dataType=dailyFees | dailyRevenue",
+    "growthepie fundamentals (OP Mainnet costs_total_usd, fees_paid_usd): api.growthepie.com/v1/fundamentals.json",
     "Jovian hardfork, configurable minimum base fee: docs.optimism.io/notices/upgrade-17 ; specs.optimism.io/protocol/jovian/exec-engine.html",
     "Base leaving the Superchain (announced 2026-02-19), ether.fi moving ~70k cards to OP Mainnet, Collective buyback: dlnews.com/articles/defi/optimism-token-price-plunges-as-base-leaves-superchain/",
     "Superchain revenue share (greater of 2.5% of revenue or 15% of profit): optimism.io/blog/how-(and-why)-the-superchain-drives-fees-to-the-optimism-collective",
